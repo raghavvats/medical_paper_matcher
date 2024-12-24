@@ -1,145 +1,77 @@
-#STILL BUGGY — need to develop prompt
 PROFILE_SYSTEM_PROMPT = """
-You will be provided with a medical paper.
+You will be provided with a medical paper. Read and analyze it carefully.
 Your task is to choose the characteristics of the ideal reader for this paper. That is, the characteristics you choose should be such that the paper is most relevant to a person with those characteristics.
 
-Below is a Python file that outlines the characteristics you will need to fill, and the options you can choose from for each characteristic.
-
-'from enum import Enum
-from typing import List
-from pydantic import BaseModel, Field
-
-class Sex(str, Enum):
-    MALE = "male"
-    FEMALE = "female"
-
-class Race(str, Enum):
-    ASIAN = "asian"
-    BLACK = "black"
-    HISPANIC = "hispanic"
-    WHITE = "white"
-    OTHER = "other"
-
-class Athleticism(str, Enum):
-    SEDENTARY = "sedentary"
-    LIGHT = "light"
-    MODERATE = "moderate"
-    VERY_ACTIVE = "very_active"
-    ATHLETE = "athlete"
-
-class Diet(str, Enum):
-    OMNIVORE = "omnivore"
-    VEGETARIAN = "vegetarian"
-    VEGAN = "vegan"
-    PESCATARIAN = "pescatarian"
-    KETO = "keto"
-    OTHER = "other"
-
-class Continent(str, Enum):
-    NORTH_AMERICA = "north_america"
-    SOUTH_AMERICA = "south_america"
-    EUROPE = "europe"
-    ASIA = "asia"
-    AFRICA = "africa"
-    OCEANIA = "oceania"
-    ANTARCTICA = "antarctica"
-
-class PreexistingCondition(str, Enum):
-    CANCER = "cancer"
-    CARDIOVASCULAR = "cardiovascular_diseases"
-    DIABETES = "diabetes"
-    OBESITY = "obesity_metabolic_syndrome"
-    NEUROLOGICAL = "neurological_disorders"
-    AUTOIMMUNE = "autoimmune_conditions"
-    RESPIRATORY = "respiratory_diseases"
-    KIDNEY = "chronic_kidney_disease"
-    GASTROINTESTINAL = "gastrointestinal_disorders"
-    MENTAL_HEALTH = "mental_health_disorders"
-    SUBSTANCE_DEPENDENCY = "substance_dependency"
-
-class Surgery(str, Enum):
-    CANCER = "cancer_related"
-    CARDIAC = "cardiac"
-    ORTHOPEDIC = "orthopedic"
-    NEUROLOGICAL = "neurological"
-    BARIATRIC = "bariatric"
-    GYNECOLOGICAL = "gynecological"
-    TRANSPLANT = "transplantation"
-
-class Medication(str, Enum):
-    CANCER_THERAPY = "cancer_therapies"
-    CARDIAC = "cardiac_drugs"
-    ANTIHYPERTENSIVE = "antihypertensives"
-    DIABETES = "diabetes_medication"
-    NEUROLOGICAL = "neurological_drugs"
-    PSYCHIATRIC = "psychiatric_medications"
-    PAIN = "pain_management"
-    SUPPLEMENTS = "nutritional_supplements"
-
-class PriorCondition(str, Enum):
-    CANCER_REMISSION = "cancer_remission"
-    CARDIOVASCULAR_RESOLVED = "cardiovascular_resolved"
-    DIABETES_RESOLVED = "diabetes_resolved"
-    NEUROLOGICAL_RESOLVED = "neurological_resolved"
-    RESPIRATORY_RESOLVED = "respiratory_resolved"
-    MENTAL_HEALTH_RESOLVED = "mental_health_resolved"
-    INFECTIOUS_RESOLVED = "infectious_resolved"
-
-class PhysicalCharacteristics(BaseModel):
-    age: int = Field(..., ge=0, le=120)
-    weight: float = Field(..., ge=0, le=1000)  # in lbs (adjusted from 500kg)
-    sex: Sex
-    height: float = Field(..., ge=0, le=120)  # in inches (adjusted from 300cm)
-
-class Demographics(BaseModel):
-    race: Race
-    location: Continent
-
-class MedicalHistory(BaseModel):
-    preexisting_conditions: List[PreexistingCondition]
-    prior_conditions: List[PriorCondition]
-    surgeries: List[Surgery]
-    active_medications: List[Medication]
-
-class Lifestyle(BaseModel):
-    athleticism: Athleticism
-    diet: Diet
-
-class CustomerProfile(BaseModel):
-    physical: PhysicalCharacteristics
-    demographics: Demographics
-    medical_history: MedicalHistory
-    lifestyle: Lifestyle
-
-    class Config:
-        use_enum_values = True '
-
+Below is a JSON class that outlines the characteristics you will need to fill, and the options you can choose from for each characteristic.
 Return your analysis in the following JSON format:
 {
-    "ideal_profile": {
-        "physical_characteristics": {
-            "age_range": [min, max],
-            "relevant_physical_traits": []
-        },
-        "demographics": {
-            "relevant_races": [],
-            "relevant_locations": []
-        },
-        "medical_history": {
-            "relevant_conditions": [],
-            "relevant_medications": []
-        },
-        "lifestyle": {
-            "athleticism_level": "",
-            "dietary_considerations": []
-        }
-    }
+  "physical": {
+    "age": [min_age, max_age],
+    "weight": [min_weight, max_weight],
+    "sex": "one_of: [male, female]",
+    "height": [min_height, max_height]
+  },
+  "demographics": {
+    "race": "one_of: [asian, black, hispanic, white, other]",
+    "location": "one_of: [north_america, south_america, europe, asia, africa, oceania, antarctica]"
+  },
+  "medical_history": {
+    "preexisting_conditions": ["all_that_apply_from: [cancer, cardiovascular_diseases, diabetes, obesity_metabolic_syndrome, neurological_disorders, autoimmune_conditions, respiratory_diseases, chronic_kidney_disease, gastrointestinal_disorders, mental_health_disorders, substance_dependency]"],
+    "prior_conditions": ["all_that_apply_from: [cancer_remission, cardiovascular_resolved, diabetes_resolved, neurological_resolved, respiratory_resolved, mental_health_resolved, infectious_resolved]"],
+    "surgeries": ["all_that_apply_from: [cancer_related, cardiac, orthopedic, neurological, bariatric, gynecological, transplantation]"],
+    "active_medications": ["all_that_apply_from: [cancer_therapies, cardiac_drugs, antihypertensives, diabetes_medication, neurological_drugs, psychiatric_medications, pain_management, nutritional_supplements]"]
+  },
+  "lifestyle": {
+    "athleticism": "one_of: [sedentary, light, moderate, very_active, athlete]",
+    "diet": "one_of: [omnivore, vegetarian, vegan, pescatarian, keto, other]"
+  }
 }
 
-Make sure to pick only from the options provided in the Python file. You may pick multiple options for each characteristic, or none at all. If you do not think the paper tailors itself specifically to any one characteristic, leave that characteristic empty.
+Make sure to pick only from the options provided above. You may pick multiple options for each characteristic, or none at all. If you do not think the paper tailors itself specifically to any one characteristic, leave that characteristic empty.
+If the schema requires an enum, make sure to pick from ONLY the options provided in the schema. If none of the options are relevant, leave that characteristic empty.
 
-Return ONLY the JSON object, and nothing else.
+FOR EXAMPLE:
+{
+  "physical": {
+    "age": [10, 20],
+    "weight": [150.0, 200.0],
+    "sex": "male",
+    "height": [70.0, 80.0]
+  },
+  "demographics": {
+    "race": "asian",
+    "location": "north_america"
+  },
+  "medical_history": {
+    "preexisting_conditions": [
+      "cancer",
+      "neurological_disorders",
+      "respiratory_diseases"
+    ],
+    "prior_conditions": [
+      "cardiovascular_resolved",
+      "infectious_resolved",
+      "respiratory_resolved"
+    ],
+    "surgeries": [],
+    "active_medications": [
+      "cardiac_drugs",
+      "antihypertensives",
+      "psychiatric_medications"
+    ]
+  },
+  "lifestyle": {
+    "athleticism": "athlete",
+    "diet": "vegetarian"
+  }
+}
+REMEMBER, THIS IS JUST AN EXAMPLE; IT HAS NO BEARING ON THE ACTUAL ANSWER. Make sure your response follows the above format.
 
+Do your best to build this ideal profile following the logical principles of healthcare; that is, understand the relationships between the paper's content and the characteristics you are building. For example, if the paper is discussing a new drug that could have implications for a certain demographic, make sure to include that demographic in your profile.
+
+IMPORTANT NOTE: Return ONLY the JSON object, and nothing else.
+
+PAPER:
 """
 
 SUMMARY_SYSTEM_PROMPT = """You are an AI trained to summarize medical papers.

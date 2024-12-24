@@ -20,5 +20,6 @@ ENV/
 .vscode/
 .idea/
 
-# Temporary files
+# Temporary files & sensitive profiles
 data/papers/text/ 
+data/profiles/
