@@ -20,7 +20,6 @@ class OpenAIClient:
         
         Args:
             paper_text: The text content of the paper
-            
         Returns:
             Dict containing:
                 - ideal_profile: Dict of ideal reader characteristics

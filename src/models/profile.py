@@ -80,9 +80,9 @@ class PriorCondition(str, Enum):
 
 class PhysicalCharacteristics(BaseModel):
     age: int = Field(..., ge=0, le=120)
-    weight: float = Field(..., ge=0, le=1000)  # in lbs (adjusted from 500kg)
+    weight: float = Field(..., ge=0, le=1000) # in lbs
     sex: Sex
-    height: float = Field(..., ge=0, le=120)  # in inches (adjusted from 300cm)
+    height: float = Field(..., ge=0, le=120)  # in inches
 
 class Demographics(BaseModel):
     race: Race
