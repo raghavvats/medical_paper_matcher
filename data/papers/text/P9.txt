@@ -1,0 +1,1617 @@
+ 
+  
+ 
+ REVIEW ART ICLE /  ACCEPTED MANUSCRIPT in Current Drug Targets                                                                                 
+ 
+Smart Drug-Delive ry Systems for Cancer Nanotherapy 
+ 
+ 
+ 
+Paola Sánchez-Morenoa,b, Juan Luis Ortega-Vinuesa b, José Manuel Peula-Garcíab,c, Juan Antonio 
+Marchal d,e and Houria Boulaiz d,e,* 
+ 
+ 
+aCell Biology Unit. IRCCS San Martino  University Hospital—IST National  Cancer  Research  Institute Largo  Rosanna 
+Benzi, 10, 16132 Genova, Italy;   
+bBiocolloid and  Fluid  Physics Group,  Department  of Applied Physics, University of Granada, 18071 Granada, Spain; 
+cDepartment of Applied Physics II, University of Málaga, 29071 Málaga, Spain;  
+dBiopathology and Regenerative Medicine Institute (IBIMER), Centre for Biomedical Research, University of Granada, 
+Granada E-18100, Spain;  
+eDepartment  of Human Anatomy and Embryology, Biosanitary  Institute of Granada (ibs.GRANADA), University 
+Hospitals of Granada-University of Granada, Granada E-18012, Spain  
+ 
+  
+ABSTRACT 
+ 
+Background : Despite all the advances achieved in the field of tumor-biology research, in most cases conventional 
+therapies including chemotherapy are still the leading choices. The main disadvantage of these treatments, in addition to 
+the low solubility of many antitumor drugs, is their lack of specificity, which leads to the occurrence of severe side effects 
+due to nonspecific drug uptake by healthy cells. 
+Objective : The purpose of this manuscript is to review and analyze the recent progress made in cancer nanotherapy.  
+Results : Progress in nanotechnology and its application in medicine have provided new opportunities and different smart 
+systems. Such systems can improve the intracellular delivery of the drugs due to their multifunctionality and targeting potential. First, we provide a global overview of cancer and different smart nanoparticles currently used in oncology. 
+Then, we analyze in detail the development of drug-delivery strategies in cancer therapy, focusing mainly on the 
+intravenously administered smart nanoparticles. Finally, we discuss the challenges, clinical trials, marketed nanomedicines and future directions of the nanotherapy applied to cancer treatment. 
+Conclusion : In this review, we have evidenced the tremendous potential that smart drug-delivery systems have to enhance 
+the  therapeutic effect of current standard treatment modalities, including chemotherapies and radiotherapies. 
+ 
+ 
+Keywords: Nanomedicine, smart nanoparticle, drug delivery, cancer therapy. 
+ 
+  
+1. INTRODUCTION  
+ 
+Nanotechnology is an emerging science involved in the design, characterization, and manipulation of devices, 
+struc tures, and systems by controlling size and shape at atomic, molecular, and supramolecular level [1]. Progress in 
+nanotechnology has resulted in the development of novel nanomaterials with physico-chemical characteristics (higher 
+surface-to-volume  ratio) that make them an excellent candi date  to be applied  in  the biomedical  science.  The 
+applica tions in the screening,  diagnosis, and treatment of diseases, are referred  to as “nanomedicine”,  a new 
+discipline  of science  and  engineering  that  has  the  ability  to  dramatically change   individual   and  population-
+based   health   care  [2]. While the basic approach of conventional therapies is to eliminate diseased cells faster than 
+healthy cells, nanomedi cine attempts to use sophisticated approaches and integrates innovations  in genomics  and  
+proteomics  heading  toward  a more  personalized  medicine  in order  to improve  treatment for many diseases [3, 4]. 
+ 
+The use of nanoparticles allows enhancing our under- standing of diseases pathogenesis and providing treatment 
+at a molecular level. Currently, nanomedicine is playing an important role in the development of the pharmaceutical 
+in- dustry, either in the form of drugs nanoparticle-based  deliv ery systems or imaging agents, connecting a broad 
+range of disciplines —engineering, biology, physics, and chemistry— and leading to numerous publications  and 
+patents [see (Fig. 1)]. However, a discrepancy  does exist between the number of nanomaterials in clinical use and 
+the number of published papers  in  cancer  nanomedicine  [5]. Indeed,  in the field  of cancer  therapy,  many  of  
+the  nanomedicines  being  investi gated today have improved solubility and have tailored the release  rates to 
+enhance  the pharmacokinetics  of the drugs (such as platinates, camptothecins, and adriamycins) and to reduce their 
+adverse side effects.  
+In fact, only 5% of the classical low-molecular-weight drugs, that reach the clinical trial stage ever make it to the 
+market  [6].  This  is  likely  because,  reformulating  the  currently  approved  drugs  in  nanoparticles,  provides  a  
+small boost in performance that is not worth the effort, time, and development costs that have to be invested in the 
+pharmaceu tical industry. Moreover, the added complexity of nanoparti cles also discourages their use to deliver 
+drugs. Thus, drugs that could improve their effectiveness when administrated by nanocarriers are not formulated in 
+this way [5]. 
+ 
+2. NANOTHERAPY FOR  CANCER: SMAR T NANOPARTICLES AS DRUG-DELIVERY SYSTEMS 
+ 
+Cancer   is  a  major  public-health   problem   worldwide. More than 30% of all people will develop some form 
+of cancer during their lifetime. For instance, it is the second lead- ing cause of death in the United States, and is 
+expected to surpass  heart diseases  as the leading  cause of death  in the next few years [7]. 
+ 
+According to the estimation of the most common cancers expected  to occur in the United States  in 2015, most 
+com- mon cancers among men will be prostate (about one-quarter of new diagnoses cancers), lung and bronchus, 
+and colorectal cancers.  The most commonly  diagnosed  cancers  in women will be breast (expected to account for 
+29% of all new cancers), lung and bronchus, and colorectal [8]. (Fig. 2) shows the  estimated  data  of  predicted  
+deaths  by  cancer  in  the United States for five leading cancer types by gender.  
+Cancer is a complex multistep process where cells attain certain hallmark properties because of both genetic and 
+epi- genetic alterations [9]. Diagnosis  is  undoubtedly  the  first  and  most  important step  in cancer  therapy.  The 
+first therapeutic  option  for patients with solid tumors is usually surgery, to remove cancer cells.  Afterwards,  and  
+to destroy  any  possible  remnants  of the tumor, the area should be irradiated. Simultaneously or in a later phase, 
+chemotherapy  can be used to kill residual can- cer cells and possible metastases [10]. Conventional antican cer 
+therapies are distributed non-specifically  in the body and damage both cancer and healthy cells in a state of 
+division. This involves the use of suboptimal treatment to prevent excessive toxicities [11]. Furthermore,  many 
+effective drugs are hydrophobic or, if soluble, never reach their destination. Moreover, the multiple and interconnected 
+pathways of carcinogenesis complicate efforts for providing effective thera pies. Therefore, a paradigm change is 
+underway as research ers are working to design therapies for specific cancer phenotypes [12].  
+ 
+While the search for new strategies for cancer therapy continues, it becomes increasingly evident that targeted 
+nanovehicles,  designed  to achieve  the specific  organ  is the key to formulate effective treatment. The greatest 
+advantage of the application of nanomedicines in cancer lies in its potential to create novel structures with enhanced 
+abilities to translocate through cell membranes, thereby, enhancing their delivery efficiency. The benefits of 
+developing nanoparticles as drug-delivery systems include enhancement of pharma cological  activity,  delivery  of  
+more  than  one  therapeutic agent  for  combination  therapy,  solubility  —as  many  drug molecules can be 
+incorporated in the particle matrix— stabil- ity and bioavailability (designing nanoparticles with optimal size and 
+surface properties to increase their circulation  time in the bloodstream) [13]. These nanoparticles could also im- 
+prove the protection from toxicity and physical and chemical degradation, sustained delivery [14], feasibility of 
+variable routes of administration  [15], facilitation  of the drug trans- port across critical and specific barriers 
+[16], etc. Engineer- ing materials on this scale allow for novel medical therapies, which  are  able  to release  the 
+associated  drug  to the target tissue in a controlled manner, improving the specificity and resulting in decreased side 
+effects for patients [13]. Another objective is to overcome the development of multiple drug- resistance mechanisms 
+that make this treatment ineffective in a high percentage  of cancer cases because cancer cells can evade  the  
+cytotoxicity  [17,  18].  P-glycoprotein  is  the  best known and most extensively investigated mechanism of drug 
+resistance [19]. Upon entering in the cell, nanoparticles are involved in an endosome allowing them to accumulate in 
+ 
+the cells without being recognized by the P-glycoprotein efflux pump,  resulting  in the increased  intracellular  
+concentration of drugs [20]. Moreover, receptor-targeting  ligands strategies that are usually internalized via 
+receptor-mediated  endocyto- sis, may have particular potential for overcoming drug resis tance.  Thus,  a  folate  
+receptor–targeted,  transferrin- conjugated paclitaxel-loaded nanoparticles [21] and doxorub icin loaded pH-sensitive 
+polymeric micelles [22] showed greater inhibitory activity against drug-resistant MCF-7 cells and/or xenografts than 
+did their non targeted drug-free counterparts.  
+Anticancer   nanomedicines   require   the   integration   of drugs  into  smart  nanoparticles.  Diverse  platforms  
+can  be used to combine different drugs into a single nanotherapeutic agent  for  synergistic  therapeutic  benefits.  
+These  platforms are  submicron-sized  particles  (10  –  1000  nm  in  diameter) [23], devices or systems that can be 
+made using a variety of materials (including polymers, lipids, viruses, and organometallic compounds, among others) 
+[20]. Moreover, all nanoparticles based on drug-delivery vectors must be able to both  transport  and  release  the  
+drug  to  a  specific  location. They can be classified by their physical form or functional properties,  both of which 
+should be adapted  to the specific needs of the drug to be delivered, and the intended therapeu tic use [24].  
+Although  nanomedicine  is a relatively  new field of science,  many  new  smart  nanoparticles  have  been  
+developed over  the  past  three  decades  for  drug  delivery.  These  plat- forms are generally classified into the 
+following categories: polymer-based drug carriers, lipid-based drug carriers, viral nanoparticles, carbon nanotubes, 
+ceramic nanoparticles, and metal-based nanoparticles. (Fig. 3) shows some examples of drug-delivery platforms.  
+ 
+2.1. Polymer-based Drug  Carriers 
+ 
+A plethora of different polymeric molecules have been investigated to generate therapeutic carriers. They include 
+polymer-protein conjugates, drug-polymer conjugates and supramolecular drug-delivery systems. Among the many 
+polymers that have been proposed, only a few have been accepted into clinical practice. Specifically, biodegradable 
+polymers are highly preferred due to outstanding bioavail ability, better encapsulation, control release, and less toxic 
+properties.  
+ 
+The  use  of  polymeric  substances  offers  various  advan tages. One of the most important is the incorporation  
+of hydrophobic drugs to some polymer chains that enhance water- solubility, changing the biodistribution  pattern 
+[25]. Another advantage  could  be  found  using  mucoadhesive  materials, such as chitosan,  since it increases  
+intimacy  of contact  be- tween the drug-containing polymer and cell membranes [26]. In the field of cancer therapy, 
+site-specific drug delivery nanocarriers are sought, locating in the external part of the nanoparticles different  
+molecules  that favor  cell- internalization by a reception mediation [27]. More recently, great attention is being 
+paid to the development of novel multifunctional nanoparticles, composed of different mole- cules that are able to 
+co-deliver multiple components, target the delivery of drugs to the specific tumor cells, and release the 
+therapeutic agent  [28].  Several types  of polymer-based drug carriers have been tested as potential drug-delivery 
+systems  for  cancer  treatments,  including  polymeric  nanoparti cles, dendrimers, hydrogels and micelles. Below a 
+summary of these types is presented.  
+ 
+2.1.1. Polymeric Nanopar ticles  
+ 
+Polymeric nanoparticles are engineered from biodegrad able and biocompatible polymers and they have been 
+synthe sized using various methods based on the application  needs and the type of drugs to be encapsulated [29]. 
+These particles are  solid-matrix  systems,  in  which  the  drug  is  dispersed within the particle or conjugated to the 
+polymeric backbone. Polymeric nanoparticles have been developed to encapsulate either macromolecules  such as 
+nucleic acids and proteins as well as hydrophobic or hydrophilic small drug molecules. In an effort to avoid their 
+recognition and removal by the mononuclear phagocyte system and thereby achieve long circulation time, nanoparticles 
+are usually coated by other protective polymers, such as poly(ethylene glycol), poly(ethylene oxide), or poly(acrylic 
+acid), or dextran. How- ever,  this  layer  of protection  should  not be very dense be- cause the cellular uptake would 
+also be hindered [30].  
+Different  structures  of polymeric  nanoparticles  are used in cancer treatment, as very recently reviewed by Wang 
+et al. [31]:  linear  polymers,  star  polymers,  cylindrical  polymer brushes,  macrocyclic  polymers,  macrocyclic  
+brushes,  and hyperbranched polymers.  
+Natural  polymers  (i.e.  chitosan,  heparin,  albumin,  etc.) have  been  used  in  FDA-approved  drug-delivery  
+formula tions. As an example, low-molecular chitosan nanoparticles decorated with a hydrophilic shell of methoxy 
+polyethylene glycol and a core of cholesterol (to improve drug solubility) showed good efficacy of encapsulation 
+and delivery of pacli taxel [32]. In addition, nanoparticles  formed  by silk fibroin (a natural protein polymer) have 
+stirred great excitement  in the field of drug delivery, due to their ability to deliver anti- cancer drugs [33]. 
+Nevertheless, the heterogeneity  of natural polymers,  cost,  and  manipulation  difficulty,  make  it much more  usual  
+to  develop  synthetic  polymers  with  enhanced drug-delivery potential.  
+ 
+Numerous nanoparticles are in pre-clinical or clinical development [34]. For instance, nanoparticles comprising 
+hydrophobic   copolymers   —such   as  poly  (lactic-co-glycolic acid)  (PLGA)  and  poly(alkyl cyanoacrylate)   
+(PACA)—  have been used to co-encapsulate chemotherapeutic agents and inhibitors  of  the  Multidrug  Resistance  
+(MDR)  mechanism for delivery to various types of cancer [35]. Another example can be found in nanoparticles 
+made of a core of polyca prolactone  and  a hydrophilic  shell  of  polyethylene  glycol, that have shown their potential 
+  
+usefulness in anti-tumor treatment encapsulating and delivering cisplatin [36].  
+ 
+2.1.2. Hydrogels  
+ 
+Hydrogels  are hydrophilic  polymer  networks  with vari- able structures. They can be classified into those that 
+have a linear structure, and those exhibiting polymeric network with three-dimensional covalent crosslinking. 
+Covalent bonds between chains affect the overall properties of the hydrogel (i.e. swelling  ability,  elasticity,  and 
+drug loading  capacity). They  are  able  to  absorb  from  10-20%  (an  arbitrary  lower limit) up to thousands of times 
+their dry weight in water, a property attributed  to the presence of hydrophilic  groups in their structure [37]. This 
+makes them very useful as potential drug carriers in the form of micro- or nano-particles. In addition, some 
+hydrogels possess features of fluid transport and stimulus responsive characteristics (e.g. pH, temperature, salinity, or 
+light) [38].  
+ 
+A number of synthetic hydrogels have been studied for anticancer purposes. Some have been used to model micro- 
+environments of tumor vascularization [39], and many others for drug delivery [40]. For example, Cheng et al. 
+prepared thermosensitive  hydrogels  based  on  poly  (y-ethyl-l- glutamate)-poly(ethylene glycol)-poly( y-ethyl-l-
+glutamate) triblock copolymers (PELG-PEG-PELG) for localized and sustained delivery of paclitaxel (PTX) in vivo. 
+The results demonstrated that the PTX-incorporated hydrogels could efficiently  suppress  the tumor proliferation,  and 
+did not result in obvious side effect [41]. Recently, Seo et al. have successfully prepared injectable intratumoral 
+hydrogels composed  of  a diblock  copolymer  based  on  poly(ethylene glycol and polycaprolactone (MPEG-b-(PCL-
+ran-PLLA)) containing 5-fluorouracil. A single injection of this system (applied locally in the tumor) resulted in a 
+significant tumor growth inhibition [42].  
+ 
+2.1.3. Dendrimers 
+ 
+Dendrimers are synthetic polymers with highly branched structures consisting  of an initiator core and multiple 
+layers with active terminal groups. Each layer is called a generation (the core is denoted as generation zero) and they 
+are formed of repeating units [43]. Due to their specific molecular struc ture and the possibility of incorporating a 
+large number of functional  groups at spatially  defined  positions,  dendrimers are ideal candidates to develop smart 
+nanocarriers for bio- medical applications.  They have been used as antimicrobial and antiviral drugs, in tissue 
+engineering, drug delivery, gene transfection, and other capacities [44-49]. Another advantage lies  in  the  fact  that  
+bioactive  agents  may  be  encapsulated either  into the interior  of the dendrimers  or can be chemi- cally  attached  
+or  physically  adsorbed  onto  the  dendrimer surface [50].  
+ 
+In this context, Ren et al. developed a poly (amidoamine) (PAMAM) dendrimer that simultaneously delivers 
+genetic material  and  a  chemotherapeutic  agent.  That  is,  5- fluorouracil (5-FU) was encapsulated in the cavities of 
+the dendrimer core via hydrogen bonds, while an antisense microRNA (miR-21) was complexed to the surface [51]. 
+The synchronic delivery of the two therapeutic agents resulted in synergistic anticancer efficacy, apoptotic activity, 
+and de- creased  migration  ability  of  the  cancer  cells  compared  to each agent alone. Zhang and Shi coated G5-
+PAMAM- dendrimers with folic acid and doxorubicin, finding a multi- functional system that might serve as a 
+valuable nanodevice for targeting cancer chemotherapy  [52]. Finally, Kaminskas et al.  explored  the  utility  of  a 
+PEGylated  polylysine  dendrimer conjugated  to doxorubicin  to promote  the controlled and prolonged exposure of 
+lung-resident cancers to cytotoxic drug. They demonstrated >95% reduction in lung-tumor bur- den in rats after two 
+weeks of treatment [53]. This success suggests that PEGylated dendrimers have the potential as inhalable drug-delivery 
+nanosystems against lung cancers.  
+ 
+2.1.4. Micelles  
+ 
+Polymeric  micelles  are formulated  through  a self- assembly process using block copolymers  consisting of two 
+or more polymer chains with different hydrophilic character. These copolymers spontaneously assemble into a core-
+shell structure  in  an  aqueous  environment.  Hydrophobic  blocks form  the core  where  any  hydrophobic  drug  can  
+be carried while the hydrophilic blocks form the shell. Polymeric micelles  are usually  more stable  in blood  than 
+are liposomes and other surfactant micelles because the amphiphilic co- polymers usually employed have a 
+considerably  lower critical micelle concentration  value. Due to such unique proper- ties, polymeric micelles have 
+been well demonstrated to be effective drug carriers for cancer therapy and image-based analysis of tumors [54-56]. In 
+addition, it is currently possi ble to confer pH-sensitive properties to some polymeric micelles, improving the drug-
+release process in anticancer treatments [57, 58]. 
+ 
+Wang et al. showed the specific binding of paclitaxel- loaded micelles targeted with a MCF-7 cell-specific phage 
+protein [59]. Ke et al. designed micelles loaded with both thioridazine —which has been reported to kill cancer stem 
+cells— and doxorrobicin, providing a promising strategy for breast-cancer treatment by targeting both cancer and 
+cancer stem cells with this combination therapy [60]. Yang et al. synthesized mPEG-b-PDLLA micelles loaded with 
+docetaxel and demonstrated  clear metastasis  inhibition  of 4Ta murine cells in the lung of mice. Micelles were 
+capable of internaliz ing in the 4T1 cells via endocytosis, significantly decreasing tumor metastasis [61]. Finally, Hu 
+and collaborators have recently shown a complete regression of breast tumor using a crossed-linked thermosensitive 
+polymeric micelle linked to docetaxel by a covalent conjugation via hydrolysable ester bonds  [62].  Docetaxel-
+micelle  complexes  showed  great  in vivo efficacy in reducing and establishing MDA-MB-231 tumors in mice, 
+even after a single intravenous injection. The preclinical data shown by these authors would support clinical 
+translation of this novel smart nanosystem for cancer treatment.  
+ 
+ 
+2.2. Virus-based Nano particles  
+ 
+Viruses can be considered living nanoparticles with a core–shell structure. The infectious agents are in the core 
+surrounded  by a shell comprised of proteins or proteins embedded in lipid membranes. They range in sizes from 
+10 nm to over a micron and can be found in a variety of distinctive shapes (most abundantly icosahedrons, spheres, 
+and tubes). They can be either isolated directly after inducing the expression  of the coat-proteins  in eukaryotic  
+cells,  or assem bled in vitro from coat-protein subunits purified from any recombinant  host,  from  mammalian  cells  
+to  bacteria  [63]. The main advantage of virus-like particles is their morpho- logical uniformity, biocompatibility, 
+and easy functionaliza tion. They have been extensively used for delivery of differ ent substances, vaccines, and 
+gene therapy due to their high gene-transfection  efficiency and fusogenic cell receptor- binding  properties.  
+However,  their implementation  into clinical  therapy  has  been  plagued  with  significant  draw- backs.  
+ 
+For different substances to be encapsulated in virus-like nanoparticles,  it is usual to resort to simple 
+supramolecular self-assembly and disassembly processes. The specialized literature  indicates that the functional 
+cargoes usually pack aged with these kinds of assembly processes are genetic material or other supramolecular  
+structures (such as liposomes or micelles) that are mixed with DNA. This is why the ex- tension of these virus-like 
+nanoparticles for the “encapsula tion” of anti-tumor  drugs can be envisaged,  but it is rarely used today. 
+Nevertheless,  the viral capsid, once it is formed, can be used to deliver drugs if the capsid is loaded with the 
+chemotherapeutic  molecule  through covalent attachment.  In this case, the presence of reactive groups in the 
+protein cage is mandatory. With this procedure based on chemical attachment, virus-like nanoparticles have been 
+loaded with doxorubicin by Aljabali et al. [64], and Zhao et al. [65].  
+ 
+Actually, the use of viruses for anti-cancer  treatments  is not focused  on their potential drug-delivery  ability.  
+Rather, its use is based mainly on a dual ability that viruses possess: the stimulation of the immune system of the 
+patient, and the direct cell lysis they provoke upon infesting a tumoral tissue. Oncolytic  viruses  are engineered  to 
+self-amplify  and repli cate selectively  within cancer cells and induce toxic effects such as cell lysis and apoptosis, 
+while leaving normal non- transformed  cells  intact  (or  nearly  so)  [66].  Steadily  more results show that their 
+targeted infection of the tumor has the potential to create an “inflammatory storm” that arouses the innate and adaptive 
+immune responses against tumors [67]. Please see the recent and detailed information on this topic in references  [68-
+70].  As  shown  in  the  specialized  literature, the vaccinia  virus  family  is the  most  promising  one  to be used in 
+cancer therapy.  
+Additionally  virus-like nanoparticles  have a growing application  in  the  field  of  imaging  of  tumors,  although  
+this topic will not be covered in this review.  
+ 
+2.3. Carbon Nanotubes 
+ 
+Carbon nanotubes (CNTs) are allotropes of carbon with a cylindrical nanostructure. Nanotubes have been 
+constructed with  length-to-diameter  ratios  of  up  to  28,000,000:1  [71]. CNT can be imaginatively  produced  by 
+rolling up a single layer of graphene sheet (single-walled CNT; SWNT) or by rolling up many layers to form 
+concentric cylinders (multi- walled CNT; MWNT) [72].  
+ 
+Although CNTs have several unique properties related to their stiffness-flexibility and electric conductivity, non- 
+functionalized  (pristine) CNTs are poorly soluble and highly cytotoxic. A great variety of safety concerns of CNT 
+can be found in references [73, 74]. In summary, the toxicological profile in the human body may exert an effect at 
+the cellular level, tissue level, or whole-body level, and it has been demonstrated  that the toxicity  depends  on: i) 
+the length  of the CNT used (the longer,  the greater  the bio-incompatibility), ii) the surface hydrophicity (since a 
+surface chemical functionalization of the CNTs with small hydrophilic groups en- hances their biocompatibility), 
+and iii) the CNT individuali zation  (i.e.  a  lack  of  any  aggregation  process),  since  the higher the degree of 
+individualization,  the higher the degree of urinary excretion.  
+As mentioned above, if the CNT surface is functionalized with  soluble  and  biocompatible  materials,  its  
+solubility  in water increases as does s its biocompatibility.  Functionalized carbon  nanotubes  have  been  
+successfully  investigated  for several  biomedical  applications   such  as  proteins,  nucleic acids, and drug carriers 
+[75-77]. The potential of CNTs for delivery of anticancer agents might be attributed to their exclusive 
+physicochemical properties, especially their ability to cross various biological barriers by a piercing (needle-like) 
+mechanism. Application of CNTs for the targeted delivery of drugs has become one of the main areas of interest for 
+differ ent research groups. In this context, in vitro delivery of pacli taxel attached to single-walled CNTs showed 
+higher efficacy in inhibiting  tumor growth than delivery of paclitaxel alone [78]. Furthermore, Liu et al. 
+demonstrated that the control release of the chemotherapeutic drug 7-Ethyl-10-hydroxy- camptothecin (SN38) by 
+SWCNTs conjugated with antibody C225, can achieve targeted therapy against EGFR over- expressed  colorectal  
+cancer  cells,  suggesting  that  SWCNT could be a good chance to form carriers for targeting therapy [79].  
+ 
+2.4. Lipid-based Drug Carriers 
+ 
+2.4.1. Liposomes  
+ 
+Liposomes are spherical lipid vesicles in which the aque ous  phase  is  encapsulated  by  a  bilayer  (or  more)  
+of  amphiphilic lipid molecules of synthetic or natural origin [80]. Liposomes has become one of the first 
+  
+nanoparticulate plat- forms for drug delivery because of their unique characteris tics: (a) biocompatibility  and 
+biologically inert profiles with- out antigenic  or toxic reactions  in most patients; (b) a long life  in  blood  
+enhanced  with  the  pegylation  of  the  surface (stealth liposomes); and (c) the easy control of physico- chemical 
+properties as size or surface characteristics which provide  multi-functionalized  liposome  systems  [81]  coated with 
+polymers  and different  ligands  to target specific  cells [82]. Immunoliposomes, with monoclonal antibodies or 
+anti- body fragments attached  to the surface of liposomes,  repre sent the better part of active targeting studies [83]. 
+The different  structural  parts  of the liposome,  that is,  the internal water, the phospholipid  bilayer or the bilayer 
+interface,  can be used to carry both, hydrophilic and hydrophobic therapeu tic agents. For each particulate case the 
+amount of drug loading is different and must be carefully  optimized  to develop the different formulations [83].  
+Taking into account the “first-generation” of drug nano carriers, liposomal drug delivery systems are the most 
+used in clinical applications and with the better result. In this con- text, Doxil®, a pegylated liposomal formulation 
+with doxorubicin was the first nanocarrier of liposomal character istics approved in 1995 by the USFDA (Food and 
+Drug Administration  of  USA)  indicated  for  the  Kaposi´s  sarcoma related with AIDS [84]. Moreover, in 2012, 
+Marqibo®, a liposome  composed  of  egg  sphingomyelin  and  cholesterol was  used  to battle  acute  lymphoblastic  
+leukemia  [85].  Be- sides these two compounds,  only around 10 liposomal  formulations have been approved for 
+clinical use, half of these to deliver anticancer  drugs on the basis of reduced  side effects [83, 86]. However, most 
+of them are in clinical and preclinical trials [81], preferentially  focused for the therapy of different types of cancer 
+and several encapsulating nucleic acids as plasmids or siRNA.  
+The latest trends have focused on the development of multifunctional  liposomes,  improving  the limited  
+properties of the conventional ones— that is, low stability and targeting properties and limited control of the 
+release profile [81, 87]. A PEGylated  version  of neutral-lipid-based  nanoliposomes has shown promise as highly 
+effective and safe delivery systems for systemic use of siRNA therapeutics [88]. Taking advantage  of the subacid  
+environment  typical of tumor tis- sues,  several  pH-responsive  nanosystem  have  been  devel oped for an efficient 
+delivery anticancer drugs inside tumor cells.  Phosphatidylethanolamine-based  pH-sensitive liposomes surface 
+modified with a cell penetrating peptide (RGD peptide) have been used to enhance the effectiveness of  docetaxel  
+treatment,  showing  good  pH  sensitivity  with higher cytotoxicity and cellular uptake ratios [89]. The same pH-
+sensitive property system has been achieved by implant ing octylamine-graft-poly aspartic acid onto liposomes. The 
+structure of grafted systems bolsters the stability of the drug carrier and raises tumor-cell toxicity due to the fast 
+release of antitumor  drug  cytarabine,  subject  to the octylamine  in an acidic  environment  [90].  Temperature-
+sensitive   liposomes have also been proposed. A recent example consists of liposomes with a triple functionalization: 
+PEGylation, ther- mosensitive chains and target specificity by the surface conjugation of antibody Herceptin. This 
+system retains a hydro- phobic cytotoxic drug, Docetaxel, inside but immediately released at temperatures above 
+40ºC [91].  
+ 
+2.4.2. Solid-lipid Nanopar ticles  
+ 
+Solid-lipid nanoparticles have been developed by Müller et al. and Gasco et al. at the beginning of the 90s 
+[92]. The solid-lipid nanoparticles (SLN), which range in size between 40 and 1000 nm, are composed of a 
+biocompati ble/biodegradable  matrix of solid lipids stabilized by surfac tants [93]. This lipid core maintain their 
+solid state at room and body temperatures  SLN present  several advantages  for their use as drug nanocarriers: the 
+effective and economic production  process  with a low cost of the solid  lipid com- pared to phospholipids  and the 
+absence  of organic solvent; the  possibility  of  large-scale  production;  good  tolerability and biodegradability; 
+physical stability; amenability to encapsulating   hydrophilic   and  hydrophobic   bioactive  mole- cules or drugs; and 
+the potential application in alternatives routes of administration  instead of parenteral  ones [92, 94-96].  However,  
+SLN  has  certain  disadvantages,  mainly  the low drug loading, especially with peptides/proteins and other 
+hydrophilic molecules; and the drug expulsion from the nanoparticle during storage time as a consequence of trans- 
+formations  of the solid lipidic components  [87, 96]. A second  generation  of  SLN  has  been  developed  to  
+minimize these drawbacks,. Nano-structured Lipid Carriers (NLC) are based on a mixture of solid and liquid lipids, 
+which reduces the homogeneity of the matrix structure and increases the solubility for drugs [87].  
+ 
+Various anticancer drugs, including etoposide [97], methotrexate [98], idarubicin [99], paclitaxel and docetaxel 
+[100], or edelfosine [101] have been incorporated  into SLN and evaluated with positive and promising results. 
+overcom ing  many  troubles  observed  in  the  conventional  therapies. Due to the low tumor uptake shown by SLN 
+and NLC using the intravenous administration route, the interest in both as alternative   to  other   nanocarriers,   lies   
+in   its   application through  other  routes  of administration,  such as pulmonary, oral,  ocular,  and  especially  dermal  
+ones,  making  them  the subject of interest for numerous studies [102].  
+ 
+Several  taxanes  have  been  directly  delivered  into  the lungs by inhalation using multifunctional  NCL. 
+These nano- carriers have been coupled to siRNA, preventing drug resis tance, and targeted with a synthetic 
+hormone specific to the recognition of overexpressed receptors of lung-cancer cells [103]. The molecular mechanism 
+of SLN and nucleic acid assembling process is under study in order to gain in-depth knowledge of this complexation 
+process and how the nucleic acid carried may be released intracellularly [104]. SLN have also shown a protective 
+effect of reducing the gastrointesti nal  toxicity  of  an  antineoplastic  drug,  such  as  edelfosine. This situation has 
+been tested in in vivo experiments by oral administration in mice [105]. As in other nanocarriers, hydrophilic 
+polymers or surfactant coatings improve the stabil ity properties of the SLN and NCL. Chitosan-coated SLN 
+represent a promising system for the oral drug delivery of hydrophobic drugs [105] and pegylated NLC 
+ 
+encapsulating Amoitone-B  was  found  to  improve  the  cytotoxic  effect  of this  drug  in human-colon  and  liver-
+cancer  cells  in a dose- and time-dependent  manner due to the solubility  of PEG in the cell membranes [106].  
+ 
+2.4.3. Lipid Nanoemulsions 
+ 
+The nanoemulsions based in lipids are oil/water colloidal dispersions in which the nanoparticles (dispersed 
+phase) are stabilized in water (dispersed phase) by surfactants and co- surfactants self-organized at the oil/water 
+interface [107]. Emulsions are usually classified into two main categories: microemulsions  and nanoemulsions.  
+These  latter  are emul sions with a mean droplet diameter  on the nanometer  scale and generally composed of a 
+dispersed oil phase within a continuous aqueous phase having a radius of less than 1000 nm,  although  some  
+authors  consider  500  nm  as  the  upper limit [107, 108], while other authors place the cutoff at 200 nm [109] or 
+even 100 nm [110]. However, it is generally accepted  that  droplet  diameters  in  nanoemulsions  are  less than  
+~200-300  nm  in  size,  and  thermodynamically  it is  a non-equilibrium  state which needs to be stabilized by 
+altera- tion of the attraction–repulsion  potential, for example, by the inclusion of stabilizing surfactants [111]. 
+Nevertheless, the kinetics of destabilization  is so slow that they can be consid ered stable from this point of view, 
+in a different way to mi- croemulsions, which can reach up to 1 μm in size as they are thermodynamically   stable   
+[112-114].   Nanoemulsions   are also usually referred to as lipid nanocapsules, because morphologically  they  are 
+formed  by an oily  core  encapsulated inside a spherical polymeric shell (thick steric barrier at the droplet interface) 
+[113]. However, some authors reserve nanocapsule  nomenclature  for structures  formed  by a more rigid polymeric  
+shell prepared by interfacial polymerization or interfacial  nano-deposition  [115, 116]. In any case, both lipid 
+nanocapsules and lipid nanoemulsions show simultane- ously characteristics of lipid core micelles and polymer 
+nanocapsules with a shell composed by a blend of phosphol ipids and surfactants [117].  
+ 
+Emulsion-solvent  evaporation is a widely used technique to encapsulate lipophilic drugs inside lipid 
+nanocapsules or nanoemulsions,   constituting   a  simple  oil-in-water   (O/W) emulsion. A handicap of these 
+nanosystems is the reduced loading level of biomolecules and drugs of hydrophilic character due to their leakage to 
+the aqueous phase before the solidification  process  of  the  polymeric  surface  shell  take place. A modified water-
+in-oil-in-water (W/O/W) double emulsion allows to reduce the loos of active molecules pre- serving at the same time 
+as the biological activity of the biomolecules in the aqueous phase [118, 119]. Vegetable oils (fatty acyls) or middle-
+chain triacylglycerols are the typical compounds of the dispersed O-phase in most nanoemulsions, while the shell 
+can be formed by natural phospholipids, alcohols and a wide variety of polymers/surfactants.  The use of polymers 
+with hydrophilic segment such as PEG, poly- ethylene oxide, poloxamers, poloxamines, polysorbates or chitosan is 
+widespread [120, 121]. Polymers with these characteristics drive to an increase of the colloidal stability of the 
+nanosystem by means of steric repulsion [122], may help to achieve Stealth®  nanosystems that extend the life-
+time in the bloodstream after intravenous injection by repelling plasma proteins [123].  
+ 
+The use of nanoemulsions  as delivery systems is attract ing interest in the pharmaceutical industry. Recently, 
+more innovative nanoemulsion formulations have been developed, varying  the  different  components   such  as  the  
+emulsifier and/or the emulsified oil nature [124]. The new functionali ties join to the high biocompatibility and 
+biodegradability typical of these emulsions has allowed the access of nanoe mulsions to the drug delivery systems 
+market and Etomidat- Lipuro®   (encapsulating   etomidate)  and  Diazepam-Lipuro®(encapsulating diazepam) are 
+examples of this commerciali zation [125]. The main advantages  of nanoemulsions  in the field  of drug-delivery  
+systems  for  hydrophobic  drugs  over other nanotechnologies are: inexpensive and easy-to-scale production,   low  
+toxicity,  independence   of  dilution,   high loading capacity, formulation  stability, and reduced side effects  [126,  
+127].  Microemulsions  have  their  main  applica tions in oral or topical delivery [128]. The better stability and small 
+size of nanoemulsions makes them more suitable for parenteral  drug  delivery  and  usually,  nanoparticles  smaller 
+than  100  nm  preferentially   accumulate   in  cancer  tissues through  the  so-called  enhanced  permeability  and  
+retention effect [87, 129].  
+ 
+Nanoemulsions have shown a strong potential for drug delivery in cancer treatment and have been widely 
+investi gated.  For  example,  pharmacokinetics  studies  have  shown that celecoxib nanoemulsions transdermally 
+applied on rats increased bioavailability  as compared to an oral capsule formulation   [130].  Orally  administered   
+nanoemulsions   have also been developed improving the oral bioavailability of hydrophobic drugs such as paclitaxel 
+[131], tamoxifen citrate [132],  and  raloxifene  hydrochloride  [133],  among  others. The enhanced solubility of 
+hydrophobic drugs in the inner oil phase of the emulsion system allows the amount of the drug supplied to be 
+reduced while protecting body fluids and tis- sues from their direct action, thereby minimizing the harmful side 
+effects associated with the intravenously  intake of these chemotherapeutic agents [134]. However, although these 
+nanosystems  improve  pharmacokinetics  and  bioavailability of lipophilic drugs, they require a higher sophistication 
+by developing multifunctional nanoemulsions with tuneable biological properties [111].  
+Recent studies on nanoemulsions for parenteral admini stration have been developed, showing attractive results. 
+For example, lipid nanoemulsions  have been used as a platform for the concurrent delivery of the tocotrienol-rich  
+fraction of vitamin   E,  which   previously   showed   anticancer   activity [135]. Promising results have also been 
+shown by the PEGy lated  nanoemulsions   loaded  with  lycobetaine  (LBT)-oleic acid  ionic   complex   against   lung   
+cancer,   which   showed higher LBT levels in blood and longer circulation time, de- creased  LBT  concentration  in 
+the heart,  liver,  and  kidney, higher  growth-inhibitory   effect,  and  longer  survival  com- pared to free LBT [136]. 
+Delivery systems actively targeted to the tumor site or specific tumor cells have been developed, covering  the lipid 
+nanocapsule  surface  with several ligands and biomolecules. Different studies have reported on folate- mediated 
+  
+targeting of antitumor drugs and genes by conju gating folic acid onto polymeric nanoemulsions. In this way, the  use  
+of  folate-chitosan  conjugates  covering  lipid  core- shell  nanocapsules  has  allowed  to  improve  the  antitumor 
+activity of these nanosystem [137]. Targeting ligands as monoclonal antibodies allows the development of lipid 
+immuno-nanocapsules  in which a specific antibody molecule is conjugated to the nanocapsule surface. Multi-
+therapeutic systems  can  be  designed  using  antibodies  interfering  with signal transduction pathways involved in 
+cancer-cell prolif eration [87]. This is the case of lipid immunonanocapsules  in which a specific HER2 oncoprotein 
+antiboby was covalently immobilized  on a carboxyl-functionalized  surface.  Docetaxel-loaded HER2 immuno-
+nanocapsules combine the cytotoxic effect of the loaded taxane and the specific surface antibody,  increasing  their  
+uptake  and  the  cytotoxicity   in HER2 overexpressing tumor-cell lines [138].  
+ 
+2.5. Ceramic Nanoparticles  
+ 
+Ceramic  nanoparticles  are  typically  composed  of  inorganic compounds such as hydroxyapatite, zirconia, 
+titania, alumina and silica [139]. Moreover, metal oxides, and metal sulfides  can  also  be  used  to  form  the  
+nanoparticle  core. [140].  They  are generally  bio-inert  and  have  porous  struc tures.  These  nanoparticles   have  
+been  proposed   as  drug- delivery vehicles to carry drugs for various cancer therapies because  they  can  be easily  
+engineered  to the desired  size, shape, and porosity [141, 142]. Some advantages make ceramic nanoparticles a 
+promising tool for the control drug delivery: the simple conditions required for the preparative processes, high 
+stability, high load capacity, easy incorpora tion into hydrophobic and hydrophilic systems and different 
+administration  routes (oral, inhalation, etc.) [143]. There are no swelling or porosity variations with a change in 
+pH, and they are not vulnerable  to microbial attack [144]. They can also be easily functionalized by various 
+molecules due to the presence of negative charge on the surface. It is possible to design a system of an ultra-small 
+size (less than 50 nm) helping them to evade the reticulo-endothelial  system (RES) of the body [145].  
+ 
+Titania  nanoparticles  have  been  successfully  used  in in vitro studies, representing a new therapeutic agent for 
+differ ent human cancer cells by means of photoexcitation  or ultra- sound processes [143]. The design and synthesis 
+of hydroxyapatite (HA) nanoparticles, the most stable form of calcium phosphate, are focused mainly on bone 
+regeneration. However, other applications  have been proposed, for exam ple the use of HA nanoparticles that have 
+shown antiprolif erative and proapoptotic on hepatic carcinomas [146]. Mesoporous silica nanoparticles of around 
+100-130 nanome ters of diameter were loaded with camptothecin  and targeted with folic acid, and a dramatic 
+improvement was achieved in the potency of tumor suppression (two different human pancreatic cancer xenografts 
+on mice) [147]. However, these systems present a major disadvantage—that is, ceramic nanoparticles are not 
+biodegradable  and they might accumu late in the body and have dangerous effects [145, 148].  
+ 
+2.6. Metal-based Nano particles  
+ 
+Metal-core-based nanoparticles open the door to the development  of multifunctional  systems  linking  drug 
+delivery with  both  magnetic  response  and  imaging  abilities  that involve the concept of theranostic systems, 
+combining simul taneously  therapy and diagnostic [149]. Metal nanoparticles can be synthesized  in extremely small 
+sizes (around 50 nm) and thus the large surface area provides the ability to carry a relatively  higher dose of drugs. 
+One of the most commonly used is gold nanoparticles (AuNPs) because they are bio- compatible, easy to synthesize, 
+characterize, and surface modify. The presence of surface plasmon resonance (SPR) bands is responsible for their 
+large absorption and scattering cross-sections,  which are 4 to 5 orders of magnitude  larger than that of 
+conventional  dyes [150]. Thus, gold nanoparti cles are new agents that are being evaluated for biological sensing, 
+drug delivery, and cancer treatment [151]. Recently, it has  been  shown  that  AuNPs  inhibit  the  proliferation  of 
+cancer cells by abrogating MAPK-signaling and reverse epithelial-mesenchymal transition (EMT) in cancer cells by 
+reducing  the secretion  of a number  of proteins  involved  in EMT. Therefore, an inhibition of tumor growth and 
+metasta sis in two separate orthotopic models of ovarian cancer were observed  [152].  Additionally,  potential  
+applications  of AuNPs  have  recently  been  studied  and  administrated   in phase I & II clinical trials for cancer 
+treatment [153].  
+ 
+Other typical metal nanoparticles are core-shell magnetic nanoparticles. They consist of a metal or metal oxide 
+core coated with inorganic or polymeric shell to improve their stability and render the particle biocompatible [154]. 
+Metal nanoparticles can be used as thermal-release triggers when irradiated with infrared light or excited by an 
+alternating magnetic  field.  Higher  cell  inactivation  was  found  when gamma radiation  (current radiotherapy)  
+interacts  with high- Z-element nanoparticles (photoelectric effect), resulting in a high-level electron release in the 
+media of the radio-resistant cells. Superparamagnetic zinc ferrite spinel (ZnFe 2O4) nanoparticles are an example of 
+this situation [155]. In addition,  in magnetic  drug  targeting,  magnetic  carrier  particles with surface-bound  drugs 
+are injected into the vascular systems and then captured at the tumor via a locally applied magnetic field. Several 
+studies have demonstrated  the appli cation of magnetic nanoparticles  for drug delivery.  Chen et al. developed a 
+magnetic drug-delivery system that may find potential applications in cancer treatment, in which doxoru bicin 
+chemically bonded to Fe 3O4 nanoparticles, were embedded in a polyethylene glycol functionalized  porous silica shell 
+[156]. Another group used external magnets to demons trate that gold-coated  iron-oxide nanoparticles  with the 
+active component of cisplatin can be accumulated in specific regions,  and  that  cell-growth   inhibition  was  
+localized  in those areas [157]. Fe 3O4 nanoparticles with magnetic proper ties were modified with chitosan 
+crosslinked carboxymethyl- �-cyclodextrin  enhanced the drug-loading capacity. The hydrophobic  anticancer  drug  5-
+fluorouracil  was  satisfactorily encapsulated and its release behavior was pH dependent and diffusion and swelling 
+ 
+controlled [158].  
+ 
+Currently, many other metal-based nanoparticles, as well as  various  hybrid  surface-functionalized   
+nanoparticles,  are being  extensively  used for drug-delivery  applications,  such as platinum [159], silver, and 
+palladium nanoparticles  [160, 161]. Quantum dots, fluorescent semiconductor nanocrystals, have also been 
+extensively investigated for drug delivery and imaging [162]. They combine small size, versatile surface chemistry 
+and outstanding optical properties [163]. The anti- cancer drug epirubicin was conjugated with iron oxide 
+nanoparticles for delivery and image function in a tumor- bearing rat-brain model. In this case, drug delivery was 
+con- ducted by magnetic targeting with promising results [164]. Docetaxel delivery and cell imaging have been 
+combined in lanthanide oxide nanoparticles. This terasnostic system has a cytotoxic effect against human cervical 
+carcinoma cells, and the function of optical imaging thanks to the intrinsic lumi nescence of nanoparticles [165]. 
+PLGA nanoparticles encap- sulating simultaneously an anticancer drug, busulfan, with inorganic agents such as 
+iron oxide nanoparticles  or manga nese-doped zinc sulfide simultaneously  allow delivery of the anticancer drug 
+and knowledge of the cell uptake and biodis tribution by in vitro and in vivo imaging [166].  
+ 
+Nanoscale  metal  organic  frameworks  (NMOFs)  are hybrid  materials   formed   by  the  self-assembly   of  
+bridging ligands and metal-connecting  points. Preliminary biomedical applications of NMOFs have focused on 
+their use as delivery vehicles for imaging contrast agents and molecular therapeu tics.  Several  different  
+therapeutic  molecules  were  loaded within  porous  iron-carboxylate   NMOFs  at  unprecedented levels. The 
+NMOFs  showed  sustained  drug release with no burst effect, and in vitro assays revealed that the nano- encapsulated 
+drug showed efficacy similar to that of the free drug [167]. In addition to their use as drug-delivery systems, metal 
+nanoparticles  can act directly  as pharmaceutically  active agents. This recent idea explores the therapeutic 
+applica tion of inorganic nanomaterials  and the development of new anticancer  agents  based  on metal 
+nanomaterials.  Several in vitro and in vivo reports suggest that certain metal-based nanoparticles can interfere with 
+the antioxidant cell-defense mechanism, leading to an increase in the reactive oxygen species,  thus being  effective  
+to induce  apoptosis  and  auto- phagy in cancer cells at specific concentrations that are not significantly toxic to 
+non-cancerous cells [168].  
+ 
+3. DRUG-DELIVERY STRAT EGIES 
+ 
+One of the main objectives of nanomedicine is to over- throw the deficiencies of classical chemotherapy, 
+including, firstly, the lack of specificity of the drugs, increasing the probability  of adverse side effects caused by 
+the damage of both tumor and normal cells in a state of division. Secondly, the low concentration of active 
+substance at the targeted site, resulting in poor therapeutic effect. Therefore, drugs need to be targeted to the tissue 
+or organ of interest rather than be allowed free systemic circulation.  
+ 
+Nanotechnology allows the possibility of designing novel and more specific therapies that act selectively on the 
+target site.  This  permits  the minimization  of adverse  side  effects since smaller but more effective doses are 
+administered.  
+ 
+3.1. Passive Targeting 
+ 
+The accumulation of a drug or drug-carrier system at a specific site is known as passive targeting and may be 
+attrib uted  to physicochemical  and pharmacological  factors. This type of targeting relies on the disease pathology 
+and the fe tures of tumor tissues, which may favor the accumulation  of a drug in target tissues , decreasing non-
+specificity. It is generally  accepted  that the vasculature  of tumors  differs  from the surrounding tissue. Compare 
+with normal well-organized vessels, the tumor angiogenesis presents characteristics that improve  drug  retention,  such  
+as extensive  vascular  density and  permeability,  imperfect  vascular  architecture,  and  im- paired lymph clearance 
+from the interstitial spaces of tumor tissue.  
+The average pore size of the angiogenic  tumor vascula ture  is estimated  to be 100–  600  nm, in  contrast  with  
+the pores  of  normal  blood  vessels  which  are  typically  <6  nm wide.  [169].  This  differentiated  structure  of  
+tumor  vessels and this particular tumor vascular permeability, known as “enhanced permeation  and retention” (EPR), 
+is important in the delivery of macromolecular anti-cancer agents and nanomedicines  (Fig. 4). EPR has shown 
+greater activity and reduced  toxicity  of  many  anticancer  nanomedicines  com- pared with free anticancer drugs 
+[170, 171]. However, there is significant heterogeneity within and between tumor types.  
+ 
+ 
+3.2. Active Targeting. Potential Targeting Ligands 
+ 
+Paul Ehrlich suggested the concept of drug targeting a century ago and coined the term “magic bullet”, referring 
+to an entity consisting of two components. The first one should recognize and bind the target, hence providing 
+precise trans port of the drug, while the second one should provide a therapeutic action. Ever since this concept was 
+introduced, many efforts have been made in cancer therapy with the goal of designing targeted therapeutic agents 
+against cancer cells [172]. Active targeting implicates the use of externally con- jugated targeting moieties for 
+enhanced delivery of nanocarriers.  
+ 
+A rapidly growing tumor requires diverse nutrients and vitamins, thus, tumor cells overexpress many tumor 
+specific receptors. To achieve effective tumor-specific drug delivery, nanoparticles  are functionalized  with  
+targeting  ligands  that bind to those receptors, which may help internalization upon binding [see (Fig. 5)]. 
+  
+Receptors exploited in targeting drugs to  tumor   tissues   and   microenvironments   are  G-protein- coupled 
+receptors (GPCRs, integrins, folate receptors, trans ferrin receptors, epidermal growth factor receptor (EGFR), 
+fibroblast   growth   factors   (FGFRs)   and  sigma  receptors. Some less common receptors recently used are 
+follicle- stimulating  hormone receptors,  C-type lectin receptors, bio- tin receptors, and neuropilin receptors [173].  
+ 
+ 
+Other targets that are used to achieve tumor-selective accumulation of drug nanocarriers are those expressed on 
+endothelial cells of tumor vasculature. The angiogenesis de- pendency of tumor growth is a promising target for the 
+development of therapies that control tumor expansion by the inhibition of the growth of new tumor-feeding  blood 
+vessels [174-176]. Anti-angiogenesis approaches are effective in limiting  tumor growth,  with the endothelial  cells 
+of the tumor blood vessels as the main targets. Cancer cells are deprived of nutrients and oxygen with the 
+consequent destruct ion of the tumor [177]. This mechanism remains debated because excessively decreasing vascular 
+permeability would eventually lead to tumor progression (increased tumor hy- poxia)  and  drug  resistant  (decreased  
+drug  delivery).  Thus, due to tumor heterogeneity, angiogenesis strategies are currently  proposed  to  treat  non-
+vascularized  areas,  improving the delivery of the therapies [178]. The main angiogenic targets, explored by 
+nanomedicine,  include the vascular  endo thelial  growth-factor  receptors  (VEGFRs),  av�3  integrins,  matrix  
+metalloproteinase   receptors  (MMPs),  and  vascular cell-adhesion molecule-1 (VCAM-1) [179].  
+ 
+The types of ligand used to target nanosystems against cancer cells include a wide range of synthetic and natural 
+compounds of different chemical classes. Some of the most widely used are monoclonal antibodies (mAb) and other 
+pro- teins (such as transferrin), nucleic acids (aptamers), small molecules (hyaluronic acid, folic acid), and peptides.  
+ 
+Monoclonal antibodies (mAb) were the first and are still the preferred class of targeting molecules.  The first 
+mAb to gain FDA approval  for the treatment  of cancer was Rituxi mab  in  1997,  a chimeric  mAb  for  the  
+treatment  of  B-cell non-Hodgkin’s  lymphoma. Trastuzumab,  in 1998, a human ized mAb for the treatment of 
+HER2-expressing  breast cancer, quickly  followed.  Bevacizumab  was approved  in 2004 for treating colorectal 
+cancer and is a tumor angiogenesis inhibitor that binds to vascular endothelial growth factor (VEGF).  Same year was 
+approved  Cetuximab,  which binds to epidermal growth factor receptors (EGFR), for treating colorectal cancer and in 
+2006 for treating head/neck cancer. , Recent studies have tried to encapsulate chemotherapeutic drugs into 
+nanoparticles and then functionalize the particle surface with mAbs to maintain targeting efficacy [138, 180- 183].  
+The conjugated  antibodies  enhance  uptake  and  cyto- toxic potency of the nanoparticles.  
+ 
+Transferrin receptors are overexpressed on cell surfaces when metabolic processes are increased. It has been 
+reported that the membrane transferrin receptor-mediated  endocytosis of the complex of transferrin-bound iron and 
+transferrin receptor is the major route of cellular iron uptake via clathrin- coated pits, with subsequent traffic to 
+endosomal compart ments. This uptake pathway has been successfully  exploited for the delivery of anti-tumor drugs, 
+proteins, and therapeutic genes [184-187].  
+ 
+Aptamers are RNA or DNA oligonucleotides capable of binding to target antigens with specificity analogous to 
+anti- bodies  thanks  to  their  unique  three-dimensional  conforma tions  originated  by  intramolecular  interactions.  
+They  have many favorable characteristics including small size (20 to 80 bases), lack of immunogenicity,  and ease 
+of isolation [188]. The most important success of aptamers so far has been the development  of  FDA-approved   
+aptamers  that  are  able  to bind VEGF, a protein involved in angiogenesis [189]. The conjugation  of  aptamers  to  
+drug-delivery  nanoparticles  resulted in improved targeting and more efficient therapeutics, as well as more selective 
+diagnostics [190].  
+ 
+Hyaluronic acid (or hyaluronan) (HA) is a linear, nega tively charged and natural polysaccharide found in the 
+extracellular matrix and synovial fluids of the body. It is responsible  for various functions  within the extracellular  
+matrix such as cell growth, differentiation, and migration. It has been shown that the HA level is elevated  in 
+various cancer cells. The higher concentration of HA in cancer cells is believed to form a less dense matrix, thus 
+enhancing cell’s motility as well as its ability to invade other tissues. Hyaluronic acid has been investigated as a 
+targeting moiety of the drug conjugates or nanoparticles for cancer therapy, because it can specifically  bind  to  
+various  cancer  cells  that  over-express CD44, an HA receptor [191-193]. Folic acid belongs to the vitamin B family 
+but it is not produced endogenously  by mammalian  cells. It is important in the formation of new cells because is an 
+essential precur sor for the synthesis of nucleic acids and some amino acids. Folate requires internalization by cells 
+via either receptor- mediated endocytosis or a carrier-based uptake mechanism. There  are two  membrane-bound  folic  
+acid  receptors,  FR-a and FR-p. FR-a is overexpressed in a large number of human cancer tumors including 
+malignancies of the ovary, brain, kidney, breast, and lung and it has a high affinity  for folic acid, which results in 
+high uptake by FR-positive cells [194]. Folic acid binds to tumor cells 20-times more than to normal epithelial cells 
+or fibroblasts. Because of these attractive characteristics,  folate conjugation has become a widely used strategy for 
+targeting drug-delivery systems [137, 195-198].  
+ 
+The functionalization of nanoparticles with peptides presents the advantage that high-affinity sequences can be 
+dis- covered through screening of combinatorial libraries. Cell permeating and fusogenic peptides from pathogens 
+or toxins and peptides, randomly derived from technologies such as phagedisplay, are also commonly used as 
+targeting moieties [199].  Among  single  nuclear  localization  (NLS)  peptides, trans-activating  transcriptional  
+activator  (TAT)  peptide  has been shown to be an efficient molecule for translocating nanoparticles into cell nuclei 
+via the binding of import recep tors, importin a and p. In a recent publication  a peptide has been used to conjugate 
+onto mesoporous silica nanoparticles for nuclear-targeted drug delivery of doxorubicin for the first time  [200].  
+ 
+Lipid  nanoparticles  targeted  with  peptides  are among the most often studied [201].  
+ 
+4.  INTRAVENOUSLY  ADMINISTERED  NAN OPARTICLES 
+ 
+For  parenterally   administered   drugs,  Interactions  with blood  components,  kinetics  and  systemic  
+distribution   are very important for parenterally administered drugs. In a intravenous treatment, therapeutic agents 
+will find biological barriers such as hepatic and renal clearance, enzymolysis and hydrolysis,  cellular  uptake,  
+endosomal/lysosomal   degrada tion, and spleen filtration. In the case of anticancer drugs, the efficiency is also 
+influenced by their poor solubility, low stability, and high toxicity for normal cells.  
+ 
+Nanomaterial   carriers  can  improve  the  biodistribution and prolonged blood circulation of therapeutics,  
+thereby sig- nificantly  increasing  drug efficacy,  and decreasing  the dos- age. When  nanoparticles  are parenteral  
+administered  the in vivo fate of a drug is determined by the type of the drug- delivery system, not by the drug 
+properties. Examples of different  nanostructured  carrier  systems  and  the  properties that  influence  their  
+suitability  for parenteral  administration are shown in (Table 1). 
+The filtration of blood through the kidneys effectively removes  nanoparticles  with  diameters  smaller  than  
+10-20 nm, and the filtration through inter-endothelial  slits in walls of the splenic  sinus removes  particles  larger  
+than 200 nm. Liver fenestrations found in the sinusoids also temporarily remove nanoparticles  from the circulation.  
+These blood filters  suggest  that  the  size  of  nanoparticles   should  be  no smaller than 20 nm and no larger 
+than 200 nm if long circu lation within the blood is desired. The mononuclear phagocyte system (MPS), comprised 
+of phagocytic   cells,  primarily   monocytes   and  macrophages, plays a vital role in clearing the nanoparticles. 
+MPS has large populations  residing  in the spleen,  liver,  and lymph  nodes. The recognition of nanoparticles by 
+these cells is greatly enhanced   following   a  process   called   opsonization.   This process is the adsorption of 
+protein entities capable of inter- acting  with  specific  plasma-membrane  receptors  on mono cytes and various 
+subsets of tissue macrophages, thus, promoting particle recognition by these cells [211]. On the other hand, the 
+absence of opsonins in the adsorption  pattern and the presence of dysopsonins  lead to the circulation  of parti cles 
+in the bloodstream. Properties such as nanoparticle size, surface    charge,    hydrophobicity/hydrophilicity,    
+elasticity [212, 213] and the steric effects of particle coating can dictate  nanoparticle   compatibility   with   the  
+immune   system [214]. Hajipour et al. have recently shown that plasma samples from humans with different 
+diseases influence the deco- ration of the proteins that adsorb onto the nanoparticles, introducing the pioneering 
+concept of “personalized protein corona” [215].  
+ 
+4.1. Biomolecular Corona: What  Cells See of Particles? 
+ 
+When  nanosystems  are in a physiological  environment, they rapidly adsorb biomolecules such as proteins and 
+lipids onto their surface, forming a biomolecular “corona” (Fig. 6), an interface  organization  that  may  be  loosely  
+divided  into two components termed the “hard” and “soft” coronas, with (respectively)   “long”  and  “short”  typical  
+exchange  times. The  corona  will  change  composition   if  the  nanoparticle moves to another compartment  or 
+fluid. Tenzer et al. found that the corona  formed  rapidly  after the particles  had been mixed with plasma and it 
+could be detected even at the first measurement point (at 30 s) [216].  
+ 
+This corona surrounding the particle changes its original surface  charge  and  chemistry,  size,  solubility,  
+aggregation and, hence, it changes the dialogue of nanoparticles with the cells, influencing  the trafficking, in vivo 
+biodistribution  and cellular uptake because these proteins adsorbed onto the sur- face interact with cells through 
+receptors on cell plasma membrane [217]. The protein corona influences macrophage capture since proteins  involved  
+in the process of opsonization  (opsonins) can be adsorbed onto the nanoparticle surface. Macrophage scavenger  
+receptors are a broad group of phagocytic  recep tors that are responsible for the elimination of blood-borne viruses, 
+pathogens, and negatively charged ligands. For ex- ample, opsonins such as IgG, complement factors, and fi- brinogen 
+promote the phagocytosis, removal of nanoparticles from  the  bloodstream  and  concentration  in  the  liver  and 
+spleen, while dyopsonins such as albumin and apolipoprotein help the longer circulation of nanoparticles in the body 
+[94]. Human serum albumin, when adsorbed onto the surface of polystyrene microparticles, was reported to inhibit 
+their phagocytosis by dendritic cells [218].  
+ 
+For many NPs, while removal from the bloodstream is a question of minutes,  interaction  with cells of distant 
+organs may be relevant hours or days after exposure. Nanoparticles functionalized  with hydrophilic polymers 
+such as polyethyl ene glycol (PEG) and poloxamers show improved circulation lifetime properties and decreased 
+macrophage recognition of many types of nanoparticles by preventing protein absorption [219,  220].  Plasma-
+protein  absorption  is  influenced  in  the case of PEGylated nanoparticles by the length and density of the polymer.  
+ 
+It has been claimed that the protein corona can cover/eliminate the targeting moieties on the surface of 
+nanomaterials and, thus, strongly reduces the targeting capa bility and recognition of the targeting ligand by cellular 
+receptors  [221].  Therefore,  understanding  the  interaction  of cell plasma membrane and the biomolecular corona 
+around nanoparticles is essential in designing nanoparticle-based targeting drug delivery and treatments.  
+ 
+4.2. “Passports” to Avoid Immune-system Clearance 
+ 
+Nanoparticles can be engineered to avoid the immune- system clearance and increase the circulating half-life in 
+the blood. One important reason to search for this is to provide a long-circulating drug reservoir from which the 
+  
+drug can be released into the vascular compartment in a continuous and controlled manner.  
+ 
+A relatively successful approach for prolonging the circul ation times of colloidal particles in the blood is to 
+create a steric surface barrier of sufficient density. Poloxamers and poloxamines have been investigated to reduce 
+adsorption of proteins  and blood  opsonins  and thereby  increase  the half- life of nanosystems.  Poloxamers,  also 
+known  as Pluronic®, and  poloxamines   or  Tetronic®,  are  amphiphilic   nonionic block  polymers  of  
+hydrophobic  propylene  oxide  (PO)  and hydrophilic ethylene oxide (EO). Poloxamers consist of a hydrophobic  
+central  polyoxypropylene  (POP)  molecule, which is flanked on both sides by two hydrophilic chains of 
+polyoxyethylene (POE) yielding structures of the (POE)a (POP)b (POE)a type, as shown in (Fig. 7). Poloxamines are 
+tetrafunctional block copolymers with four POE–POP blocks joined  together  by a central ethylene  diamine bridge 
+[222]. The absorption of these molecules onto the surface of the nanoparticles via their hydrophobic POP fragments 
+provides stability  to  the  particle  suspension  by  a  repulsion  effect through a steric mechanism of stabilization, 
+because this type of absorption leaves the hydrophilic POE extended outwards from the particle surface in a mobile 
+state. Nanoparticles engineered  with  poloxamers  and  poloxamines   exhibit  reduced adsorption of proteins and 
+blood opsonins [223] and, as  a  result,  they  resist  ingestion  by  phagocytic  scavenger cells and remain in the 
+systemic circulation for prolonged periods.  
+ 
+ 
+Another property presented by poloxamers and poloxam ines is the inhibition of multidrug resistance [224, 225]. 
+This phenomenon  is the ability  of tumor  cells  to develop  resis tance to the cytotoxic effects of several chemically 
+unrelated anticancer drugs, associated with the overexpression of proteins such as P-glycoprotein and multidrug-
+resistance- associated protein [226].  
+ 
+The addition of poly (ethylene glycol) (PEG) has been widely used to increase the circulating half-life of 
+nanoparti cles, and it is the preferred method of “masking” nanoparti cles from immune recognition. This process is 
+also known as PEGylation [227]. PEG is a linear polyether diol that shows a low degree of immunogenicity  and 
+antigenicity [228]. The polymer backbone is basically chemically inert, and the terminal primary hydroxyl groups are 
+available for derivatiza tion. Modification of nanoparticle surface with PEG and can be performed by adsorption, 
+incorporation during the nanoparticle synthesis, or by covalently linking to the surface of nanoparticles [211]. The 
+PEGylation can prevent interac tions between the particle surface and the plasma proteins, although adsorption is not 
+completely avoided. Various studies have been conducted to determine how a change in the thickness and density of 
+a PEG coating affects opsonization and biodistribution, showing that the extent of protein ad- sorption depends on the 
+PEG size and grafting density [229] and suggesting conformational transition of PEGs between mushroom  and  
+brush  states  when  PEG  density  increases [230, 231].  
+ 
+Recent progress has shown that it may be possible to dis- guise nanomaterials  as “self”, avoiding  the blood 
+clearance by phagocytic cells, by using a novel peptide sequence mim icking the “marker of self” CD47 protein 
+[232].  
+ 
+5. CLINICAL TRIALS AND MARKETED NANO MEDICINES 
+ 
+A total number of 142 clinical trials are currently being conducted  or  have  been  completed  in  a wide  spectrum  
+of tumors, in order to test the effect of several nanoparticles  in combination with chemotherapeutic and biological 
+drugs (https://clinicaltrials.gov/). We have used the terms “nanoparticles and cancer therapy” when looking for this 
+information.  
+ 
+From all these studies, 108 use a paclitaxel albumin- stabilized  nanoparticle  formulation,  called  Nab-
+paclitaxel. Nab-paclitaxel  is  a  novel  Cremophor®   EL-free,  non- crystalline,  amorphous,  albumin-bound  
+nanoparticle  formu lation  of paclitaxel  suspended  in normal  saline.  Nab pacli taxel was approved by the US FDA 
+in 2005 to treat breast cancer.  Paclitaxel  is  a  taxane  that  acts  as  antimicrotubule agent and possess excellent 
+antitumor effects in several types of cancer [233]. However,  a main inconvenient  for the human use is the high 
+hydrophobicity. Hence, it has been de- scribed that albumin-bound paclitaxel nanoparticles induce lower toxicities in 
+comparison with other taxanes improving both efficacy and safety. As result, this nanoparticle formula tion can be 
+used in combination  with other chemotherapeu tics or therapeutics regimes. In fact, when chemotherapy or radiation 
+is combined with such nanoparticles,  the composi tion is more effective than other drugs combinations [234].  
+ 
+Most  clinical  trials  using  Nab-paclitaxel  are  applied  to breast cancer as, for instance, the recently completed 
+clinical trial identified as NCT00675259. This is a phase II trial in- vestigating  the side effects  and how well 
+administration  of Nab-paclitaxel and carboplatin, together with the monoclonal antibody bevacizumab, works in 
+treating women undergoing surgery for stage II or III breast cancer. The results show that neoadjuvant  
+chemotherapy  (NCT)  with  weekly  Nab- paclitaxel and carboplatin, and twice per week bevacizumab, resulted in a 
+pathologic complete response (pCR) rate and, consequently,  long-term outcomes. These results were supe rior  to  
+the  historical  data  with  anthracycline/taxane- containing NCT and to carboplatin and taxane combinations in 
+breast cancer patients HER2 - [235].  
+ 
+Another active phase II trial is ongoing to determine the activity of Nab-paclitaxel plus lapatinib, an oral, 
+reversible inhibitor  of  epidermal  growth  factor  receptor  (EGFR)  and HER2 tyrosine kinase, in the first- and 
+second-line setting in women with HER2+ metastatic breast cancer (MBC) (NCT00709761). The initial results show 
+a clinical benefit of this combination with respect to investigator-assessed  overall response rate in 32 patients (53%). 
+ 
+The highest number of responses was partial response (28 patients; 47%). Four patients (7%) had a complete response 
+and 10 patients (17%) showed disease stability. Moreover, the incidence and sever ity of adverse events for the 
+combination treatment were in concordance with the safety profiles of lapatinib and Nab- paclitaxel.  These  
+preliminary  results  suggest  high  efficacy and no further adverse effects [236].  
+Some examples of other indications for Nab-paclitaxel include:  i)  melanoma  that  cannot  be  removed  by  
+surgery used  in combination  with  Bevacizumab  and/or  Ipilimumab (an anti-cytotoxic T-lymphocyte-associated 
+antigen-4 mono- clonal antibody) (NCT02158520, NCT00626405) or with carboplatin (NCT00404235);  ii) patients 
+with advanced pancreatic cancer do not responders to first-line therapy with gemcitabine (NCT00691054), in 
+combination with Gemcit abine and/or radiation (NCT02427841), with sorafenib and virinostat (NCT02349867) or with 
+certinib and cisplatin (NCT02227940)  among others; iii) patients with non-small- cell lung cancer (NSLCC) 
+previously treated with chemo- therapy (NCT01620190),  in combination with chemotherapy (NCT00073723,  
+NCT01872403,  NCT02503358,  NCT02016 209, NCT00729612) and/or radiotherapy (NCT00544648, 
+NCT00553462); iv) head and neck cancer followed by or together  with  chemoradiation   (NCT01847326,   
+NCT00851 877, NCT00736619).  
+In addition, there are clinical trials based on other nanoparticle formulations. For example, BIND-014 are do- 
+cetaxel nanoparticles composed of PLA-PEG and functional- ized with a targeting ligand for injectable suspension 
+(WO2013044219  A1)  that  are  being  evaluated  in  patients with advanced solid tumors, including prostate cancer, 
+head and neck carcinoma or NSLCC (NCT01103791, NCT01812746, NCT02479178, NCT01300533, and 
+NCT01792479). Other trials include NBTXR3 crystalline nanoparticles  as intratumor injection, which are activated 
+by radiation to generate electrons to destroy the cancer cells causing  less  damage  to  the  healthy  tissues.  These  50-
+nm- sized sphere nanoparticles, such as hafnium oxide are functionalized with a negative surface, have been developed 
+as selective   radio   enhancers   [237],  and  represent   a  break- through approach for the local treatment of solid 
+tumors such as soft tissue sarcomas and head and neck cancer (NCT01946867, NCT02379845, NCT01433068). Other 
+nanopharmaceutical  formulation, called CRLX101, has been designed consisting of cyclodextrin-based  polymer 
+molecule and  camptothecin,  and  appears  to  concentrate  and  slowly release camptothecin in tumors over an 
+extended period. CRLX101 inhibits tumor proliferation and angiogenesis showing high anti-tumor potential in heavily 
+pre-treated or treatment-refractory solid-tumor [238]. Studies include the combination  with  standard  neoadjuvant  
+therapies  capecit abine and radiation therapy to determine the maximum dose tolerated (phase Ib) and both disease-
+free survival and over- all survival (phase II) in patients with rectal cancer (NCT02010567), the combination with 
+bevacizumab for recurrent ovarian/tubal/peritoneal  cancer (NCT01652079)  or the use alone in locally advanced or 
+metastatic NSCLC (NCT01380769).  
+ 
+An ongoing clinical development includes a nanophar maceutical  formulation  based on antibody-linked  
+nanoparti cles  by  attaching  monoclonal  antibodies  or  antibody  frag- ments to the surface of liposomes 
+(immunoliposomes), this enabling  more  efficient  selective  binding  to  antigens  expressed  in  the  target  cells  
+and  their  internalization.   This study employs anti-EGFR-immunoliposomes to selectively deliver doxorubicin  to 
+EGFR-overexpressing  tumor cells in solid tumors (NCT01702129).  
+Other active clinical trials use micellar nanoparticles such as padical (NCT00989131), NK105 (NCT01644890)  
+or NC-6004  (NCT02240238),   minicells  containing  a  microRNA mimic (NCT023691989), cyclodextrin PEG-
+based nanopar ticle  containing  siRNA  (CALAA-01)   (NCT00689065)   or carbon nanoparticles (NCT02123407).  
+Several nano-formulated drugs have been evaluated, of which  a  few  have  already  been  approved  for  clinical  
+use (Table 2) while others are undergoing  phase 2/3 clinical trials. This is due to their potential for toxicity to 
+patients and to the environment,  the high cost of production,  and prema ture drug release. Conversely,  they have 
+the ability to convert insoluble or poorly soluble drugs, avoiding toxic organic solvents in addition to decreasing 
+the therapeutic dosage of conventional chemotherapy.  
+ 
+CONCL USION 
+ 
+In this review, we have evidenced the tremendous poten tial that smart  drug-delivery  systems  such  as 
+nanoparticles have to enhance the therapeutic effect of current standard treatment modalities, including 
+chemotherapies and radio- therapies. Increased numbers of nanoparticles are been developed and studied for their 
+anti-cancer properties. Recent ongoing clinical trials add modifications for the selective targeting of cancer cells that 
+will further improve the quality of life of cancer patients, by reducing the adverse effects of chemotherapeutic 
+agents, and enhancing overall survival. Although  clinical  application  of  nanotechnology  has  only just started, 
+additional studies are needed due to the great variability in growth and inner structure of tumors, including the 
+microenvironment.  Therefore,  a better understanding  of the barriers that keep efficacy low, preventing uniform 
+deliv ery  of nanoparticles  into  tumors  is needed  in order  to develop strategies  for further improvement  [239]. 
+In addition, the adverse secondary effects range from inert to highly toxic due to the ample variety of nanomaterials 
+available.  
+ 
+Moreover, the increasingly widespread availability of affordable technologies has allowed a deeper 
+understanding of cancer at the genetic level, leading to new paradigms that are improving  patient  outcomes  and 
+helping  in treatment  decisions [8, 233, 240]. Since the molecular profiling of tumors in each person is unique, 
+the selection of a specific targeted agent or a specific treatment regimen based on its individual molecular profile 
+is generating great expectations both to oncologists as well as to patients. These characteristics make nanoparticles 
+  
+highly appropriate therapeutic strategy with application  in  targeted,  personalized  medicine,  where  they could 
+transport large amount of drugs specifically into malignant cells avoiding undesired effects in healthy cells. This 
+new era of individualized  or stratified medicine  allows that the right therapeutic regime is given to each patient 
+speeding up clinical trials and, finally, resulting in the improvement of cancer patients [241].  
+ 
+In addition, the development of novel nanoplatform- targeted   therapies   against   cancer   stem   cells,   which   
+are involved  in chemoresistance,  recurrence  of the disease, and even on metastasis formation [242], will improve 
+the clinical outcome for cancer patients.  
+To have conclusive results concerning ongoing phase-I clinical trials assessing the safety and pharmacokinetics of 
+nanoparticles formulations is vital in order to standardize the application  of treatments  based on smart drug-delivery  
+systems to the daily clinical practice.  
+ 
+CONFLICT OF INTEREST 
+ 
+The authors confirm that this article content has no conflict of interest.  
+ 
+ACK NOWLEDGEMENTS 
+ 
+This  work  was  supported  by  the  projects  MAT2013- 43922-R,    MAT2015-63644-C2-2-R,    (European    
+FEDER support   included,   MINECO   Spain),   PI-0533-2014   (Fun- dación Progreso y Salud/Janssen  Cilag, Junta 
+de Andalucía, Spain)    and    P07-FQM2496,    P10-CTS-6270    and    P07- FQM3099 (Junta de Andalucía, Spain). 
+       
+REFERENCES 
+ 
+[1] Ferrari M. Cancer nanotechnology: opportun ities and challenges.Nat Rev Cancer 2005; 5: 161-71. 
+[2]         Blanco E, Hsiao A, Mann AP, Landry MG, Meric-Bernstam F, Ferrari M. Nanomedicine in cancer therapy: innovative tren ds 
+and prospects. Cancer Sci 2011; 102: 1247-52. 
+[3] Wong KK, Liu XL. Nanomedicine: a primer for surgeons. PediatrSurg Int 2012; 28: 943-51. 
+[4]         Phan JH, Moffitt RA, Stokes TH, et al. Convergence of biomark- ers, bioinformatics and nanotechnology for individua lized 
+cancer treatment. Trends Biotechnol 2009; 27: 350-8. 
+[5]         Venditto VJ, Szoka FC, Jr. Cancer nanomedicines: so many papers and so few drugs! Adv Drug Deliv Rev 2013; 65: 80-8 . 
+[6] Sarker D, Workman P. Pharmacodynamic biomarkers for molecular cancer therapeutics. Adv Cancer Res 2007; 96: 213-68.  
+[7]         Karimi  P,  Shahrokni A,  Ranjbar  MR.  Implementation of  pro- teomics for cancer research: past, present, and fut ure. Asian Pac J 
+Cancer Prev 2014; 15: 2433-8. 
+[8]         Siegel R, Miller KD, Jemal A. Cancer statistics, 2015. CA Cancer J Clin 2015; 65: 5-29.[9]         Hanahan D, Weinb erg RA. 
+Hallmarks of cancer: the next genera- tion. Cell 2011; 144: 646-74. 
+[10] Sudhakar A. History of Cancer, Ancient and Modern Treatment Methods. J Cancer Sci Ther 2009; 1: 1-4. 
+[11]       Mignani S, Bryszewska M, Klajnert-Maculewicz B, Zablocka M, Majoral JP. Advances in combination therapies based on n anopar- 
+ticles for efficacious cancer treatment: an analytical report. Bio- macromolecules 2015; 16: 1-27. 
+[12]       Ediriwickrema A, Saltzman WM. Nanotherapy for Cancer: Target- ing and Multifunctionality in the Future of Cancer The rapies. 
+ACS Biomater Sci Eng 2015; 1: 64-78. 
+[13]       Jain RK, Stylianopoulos T. Delivering nanomedicine to solid tu- mors. Nat Rev Clin Oncol 2010; 7: 653-64. 
+[14]       Jain TK, Morales MA, Sahoo SK, Leslie-Pelecky DL, Labhasetwar V. Iron oxide nanoparticles for sustained delivery of anticancer 
+agents. Mol Pharm 2005; 2: 194-205. 
+[15]       Uner M, Yener G. Importance of solid lipid nanoparticles (SLN) in various administration routes and future perspecti ves. Int J 
+Nanomed 2007; 2: 289-300. 
+[16]      Bramini M, Ye D, Hallerbach A, et al. Imaging approach to mechanistic study of nanoparticle interactions with the blo od-brain 
+barrier. ACS Nano 2014; 8: 4304-12. 
+[17]      Jabr-Milane LS, van Vlerken LE, Yadav S, Amiji MM. Multi- functional nanocarriers to overcome tumor drug resistance. Cancer 
+Treat Rev 2008; 34: 592-602. 
+[18]       Shapira A, Livney YD, Broxterman HJ, Assaraf YG. Nanomedi- cine for targeted cancer therapy: towards the overcoming of drug 
+resistance. Drug Resist Updat 2011; 14: 150-63. 
+[19] Gottesman MM, Fojo T, Bates SE. Multidrug resistance in cancer: role of ATP-dependent transporters. Nat Rev Cancer 2002; 2 : 
+48-58. 
+[20]     Cho KJ, Wang X, Nie SM, Chen Z, Shin DM. Therapeutic nanoparticles for drug delivery in cancer. Clin Cancer Research 2 008; 
+14: 1310-6. 
+[21]       Sahoo SK, Labhasetwar V. Enhanced antiproliferative activity of transferrin-conjugated paclitaxel-loaded nanoparticl es is 
+mediated via sustained intracellular drug retention. Mol Pharm 2005; 2: 373-83. 
+[22]       Lee ES, Na K, Bae YH. Doxorubicin loaded pH-sens itive polym- eric micelles for reversal of resistant MCF-7 tumor. J Control Re- 
+lease 2005; 103: 405-18. 
+[23]       Sahoo SK, Labhasetwar V. Nanotech approaches to delivery and imaging drug. Drug Discovery Today 2003; 8: 1112-20. 
+[24]      Hervella P, Lozano V, Garcia-Fuentes M. Nanomedicine: New Challenges and Opportun ities in Cancer Therapy. Journal of Bio- 
+medical Nanotechnology 2008; 4: 276-92. 
+[25] Duncan R. Polymer conjugates as anticancer nanomedicines. Nat Rev Cancer 2006; 6: 688-701. 
+[26] Garcia-Fuentes M, Alonso MJ. Chitosan-based drug nanocarriers: Where do we stand? Journal of Controlled Release 2012; 161:  496-
+504. 
+[27] Wang X, Li S, Shi Y, et al. The development of site-specific drug delivery nanocarriers based on receptor mediation. J Con trol Re- 
+lease 2014; 193: 139-53. 
+[28] Jia F, Liu X, Li L, Mallapragada S, Narasimhan B, Wang Q. Multi-functional nanoparticles for targeted delivery of immune a ctivating 
+and cancer therapeutic agents. J Control Release 2013; 172: 1020-34. 
+ 
+[29]       Pinto Reis C, Neufeld RJ, Ribeiro AJ, Veiga F. Nanoencapsulation I. Methods for preparation of drug-loaded polymeric  
+nanoparticles. Nanomedicine 2006; 2: 8-21. 
+[30]      Sun L, Wu Q, Peng F, Liu L, Gong C. Strategies of polymeric nanoparticles for enhanced internalization in cancer ther apy. Col- 
+loids Surf B Biointerfaces 2015; 135: 56-72. 
+[31]       Wang CE, Stayton PS, Pun SH, Convertine AJ. Polymer Nanos- tructures Synthesized by Controlled Living Polymerization  for 
+Tumor-Targeted Drug Delivery. J Control Release 2015 Sep 2. 
+[32]       Jang MK, Jeong YI, Nah JW. Characterization and preparation of core-shell type nanoparticle for encapsulation of ant icancer 
+drug. Colloids Surf B Biointerfaces. 2010; 81: 530-6. 
+[33]       Mottaghitalab F, Farokhi M, Shokrgozar MA, Atyabi F, Hosseink- hani H. Silk fibroin nanoparticle as a novel drug del ivery system. 
+J Control Release 2015; 206: 161-76. 
+[34]       Brigger I, Dubernet C, Couvreur P. Nanoparticles in cancer therapy and diagnosis. Adv Drug Deliver Rev 2012 ; 64: 24 -36. 
+[35] Lee JH, Nan A. Combination drug delivery approaches in metas-tatic breast cancer. J Drug Deliv 2012; 2012: 915375. 
+[36]      Chatterjee K, Sarkar S, Jagajjanani Rao K, Paria S. Core/shell nanoparticles in biomedical applications. Adv Colloid 
+Interface Sci 2014; 209: 8-39. 
+[37] Hoffman AS. Hydrogels for biomedical applications. Adv Drug Deliver Rev 2012; 64: 18-23. [38]       Bettinger CJ, Weinberg EJ, Kulig KM, et al. Three-Dimensional Microfluidic Tissue-Engineering Scaffolds Using a Flex ible 
+Biode- gradable Polymer. Adv Mater 2005; 18: 165-9. 
+[39] Song HH, Park KM, Gerecht S. Hydrogels to model 3D in vitro  microenvironment of tumor vascularization. Adv Drug Deliv Rev  
+2014; 79-80: 19-29. 
+[40]       Saboktakin  MR,  Tabatabaei  RM.  Supramolecular hydrogels  as drug delivery systems. Int J Biol Macromol 2015; 75: 426-36. 
+[41]       Cheng Y, He C, Ding J, Xiao C, Zhuang X, Chen X. Thermosensi- tive hydrogels based on polypeptides for localized and  
+sustained delivery of anticancer drugs. 
+Biomaterials 2013; 34: 10338-47. 
+[42]       Seo HW, Kim da Y, Kwon DY, et al. Injectable intratumoral hy- drogel as 5-fluorouracil drug depot. Biomaterials 2013 ; 34: 
+2748- 
+57. 
+[43]       Kesharwani P KJ, Narendra Kumar Jain. Dendrimer as nanocarrier for drug delivery. Progress in Polymer Science. 2013.  
+[44] Dufes C, Uchegbu IF, Schatzlein AG. Dendrimers in gene delivery. Adv Drug Deliv Rev 2005; 57: 2177-202. 
+[45]       Mintzer MA, Grinstaff MW. Biomedical applications of dendrim- ers: a tutorial. Chem Soc Rev 2011; 40: 173-90. 
+[46]       McCarthy JM, Appelhans D, Tatzelt J, Rogers MS. Nanomedicine for prion disease treatment: new insights into the role  of 
+dendrim- ers. Prion 2013; 7: 198-202. 
+[47]       Peng J, Wu Z, Qi X, Chen Y, Li X. Dendrimers as potential thera- peutic tools in HIV inhibition. Molecules 2013; 18:  7912-29. 
+[48] Somani S, Blatchford DR, Millington O, Stevenson ML, Dufes C. Transferrin-bearing polypropylenimine dendrimer for targeted gene 
+delivery to the brain. J Control Release 2014; 188: 78-86. 
+[49] Rata-Aguilar A, Maldonado-Valderrama J, Jódar-Reyes A, Ortega-Vinuesa J, Santoyo-González F, Martín-Rodríguez A. Improved 
+DNA c ondensation, stab ility, and transfection with alkyl sulfonyl- functionalized PAMAM G2. J Nanopart Res 2015; 17: 198-209. 
+[50]       Lee CC, Gillies ER, Fox ME, et al. A single dose of doxorubicin- functionalized bow-tie dendrimer cures mice bearing  C-26 colon 
+carcinomas. Proc Natl Acad Sci USA 2006; 103: 16649-54. 
+[51]       Ren Y, Kang CS, Yuan XB, et al. Co-delivery of as-miR-21 and 5- FU by poly(amidoamine) dendrimer attenuates human gl ioma 
+cell growth in vitro. J Biomater Sci Polym Ed 2010; 21: 303-14. 
+[52]       Zhang MG, Shi XY. Folic acid-modified dendrimer-DOX conju- gates for targeting cancer chemotherapy. J Control Releas e 
+2013 Nov 28; 172: E55-E6. 
+[53]       Kaminskas LM, McLeod VM, Ryan GM, et al. Pulmonary admini- stration of a doxorubicin-conjugated dendrimer enhances d rug 
+ex- posure to lung metastases and improves cancer therapy. J Control Release 2014; 183: 18-26. 
+[54]       Mikhail AS, Eetezadi S, Ekdawi SN, Stewart J, Allen C. Image- based analysis of the size- and time-dependent penetra tion of 
+po- lymeric micelles in multicellular tumor spheroids and tumor xenografts. Int J Pharm 2014; 464: 168-77. 
+[55] Eetezadi S,  Ekdawi SN, Allen C.  The challenges facing block copolymer micelles for cancer therapy: In vivo barriers and clinical 
+translation. Adv Drug Deliv Rev 2015; 91: 7-22. 
+[56] Rapoport N, Gupta R, Kim YS, O'Neill BE. Polymeric micelles and nanoemulsions as tumor-targeted drug carriers: Insight thr ough in- 
+travital imaging. J Control Release 2015; 206: 153-60. 
+[57] Wei H, Zhuo RX, Zhang XZ. Design and development of polymeric micelles with cleavable links for intracellular drug deliver y. 
+Progress in Polymer Science 2013; 38: 503-35. 
+[58] Kang Y, Ha W, Zhang S, Li BJ. Studies on pH-sensitive high drug loading prodrug micelles for anticancer drug delivery. J C ontrol 
+Release 2013; 172: E81-E2. 
+[59] Wang T, Petrenko VA, Torchilin VP. Paclitaxel-Loaded Polymeric Micelles Modified with MCF-7 Cell-Specific Phage Protein: E n- 
+hanced Binding to Target Cancer Cells and Increased Cytotoxicity. Mol Pharm 2010; 7: 1007-14. 
+[60] Ke XY, Lin Ng VW, Gao SJ, Tong YW, Hedrick JL, Yang YY. 
+Co-delivery of thioridazine and doxorubicin using polymeric mi- celles for targeting both cancer cells and cancer stem cells. 
+Bioma- terials 2014; 35: 1096-108. 
+[61]       Li YF, Yang FF, Chen W, et al. Small-sized polymeric micelles preventing malignant breast cancer metastasis. J Contr ol 
+Release 
+2013; 172: E92-E.  
+[62] Hu Q, Rijcken CJ, Bansal R, Hennink WE, Storm G, Prakash J.Complete regression of breast tumour with a single dose of do- 
+cetaxel-entrapped core-cross-linked polymeric micelles. Biomateri- als 2015; 53: 370-8. 
+[63]       Garcea RL, Gissmann L. Virus-like particles as vaccines and ves- sels for the delivery of small molecules. Current O pinion in Bio- 
+technology 2004; 15: 513-7. 
+[64] Aljabali AA, Shukla S, Lomonossoff GP, Steinmetz NF, Evans DJ. CPMV-DOX delivers. Mol Pharm 2013; 10: 3-10. 
+[65] Zhao Q, Chen W, Chen Y, Zhang L, Zhang J, Zhang Z. Self-assembled virus-like particles from rotavirus structural protein VP6 
+for targeted drug delivery. Bioconjug Chem 2011; 22: 346-52. 
+[66] Ma YJ, Nolte RJM, Cornelissen JJLM. Virus-based nanocarrie rs for drug delivery. Adv Drug Deliver Rev 2012; 64: 811-25. 
+[67]       Melcher A, Parato K, Rooney CM, Bell JC. Thunder and Light- ning: Immunotherapy and  Oncolytic Viruses Collide. Mol 
+Ther 
+2011; 19: 1008-16. 
+[68]       Tysome JR, Briat A, Alusi G, et al. Lister strain of vaccinia virus armed with endostatin-angiostatin fusion gene as a novel 
+therapeu- tic agent for human pancreatic cancer. Gene Ther 2009 Oct; 16: 
+1223-33. 
+[69] Dave RV, Jebar AH, Jennings VA, et al. Viral warfare! Fron t-line defence and arming the immune system against cancer using onco- 
+lytic vaccinia and other viruses. Surgeon 2014; 12: 210-20.[70] Jefferson A, Cadet VE, Hielscher A. The mechanisms of 
+geneti cally modified vaccinia viruses for the treatment of cancer. Crit Rev Oncol Hematol 2015; 95: 407-16. 
+[71] Sahithi K, Swetha M, Ramasamya K, Sriniyasan N, Selyamu rugan N. Polymeric composites containing carbon nanotubes for bone tis- 
+sue engineering. nternational Journal of Biological Macromole- cules 2010; 46: 281-3. 
+[72]       Bianco A, Kostarelos K, Prato M. Applications of carbon nano- tubes in drug delivery. Curr Opin Chem Biol 2005; 9(6) : 674-9. 
+  
+[73] Bussy C, Ali-Boucetta H, Kostarelos K. Safety considerations forgraphene: lessons learnt from carbon nanotubes. Acc Chem Res 
+2013; 46: 692-701. 
+[74] Amenta V, Aschberger K. Carbon nanotubes: potential medical applications and safety concerns. Wiley Interdiscip Rev Nanomed 
+Nanobiotechnol 2015; 7: 371-86. 
+[75] Fabbro C, Ali-Boucetta H, Da Ros T, Kostarelos K, Bianco A Prato M. Targeting carbon nanotubes against cancer. Chem Com- 
+mun 2012; 48: 3911-26. 
+[76] Meng LJ, Zhang XK, Lu QH, Fei ZF, Dyson PJ. Single walled carbon nanotubes as drug delivery vehicles: Targeting doxorubicin 
+to tumors. Biomaterials 2012; 33: 1689-98. 
+[77] Herrero MA, Toma FM, Al-Jamal KT, et al. Synthesis and Charac terization of a Carbon Nanotube-Dendron Series for Efficient 
+siRNA Delivery (vol 131, pg 9843, 2009). J Am Chem Soc 2010; 132: 1731-. 
+[78]       Liu Z, Chen K, Davis C, Sherlock S, Cao Q, Chen X, et al. Drug delivery with carbon nanotubes for in vivo cancer treatment. Cancer 
+Res 2008; 68: 6652-60. 
+[79]      Lee PC, Chiou YC, Wong JM, Peng CL, Shieh MJ. Targeting colorectal cancer cells with single-walled carbon nanotubes c onju- 
+gated to anticancer agent SN-38 and EGFR antibody. Biomaterials 
+2013; 34: 8756-65. 
+[80]       Torchilin VP. R ecent advances with liposomes as pharmaceutical carriers. Nat Rev Drug Discov 2005; 4: 145-60. 
+[81]       Perez-Herrero E, Fernandez-Medarde A. Advanced targeted thera- pies in cancer: Drug nanocarriers, the future of chem otherapy. 
+Eur J Pharm Biopharm 2015; 93: 52-79. 
+[82]       Allen TM, Cullis PR. Liposomal drug delivery systems: from con- cept to clinical applications. Adv Drug Deliv Rev 2013; 65: 36-48. 
+[83] Pattni  BS,  Chupin  VV,  Torch ilin  VP.  New  Developments  in Liposomal Drug Delivery. Chem Rev 2015 May 26. 
+[84]       Northfelt  DW,  Dezube  BJ,  Thommes  JA,  et  al.   Pegylated- liposomal doxorubicin versus doxorubicin, bleomycin,  and 
+vincris- tine in the treatment of AIDS-related Kaposi's sarcoma: Results of a randomized phase III clinical trial. J Clin Oncol  1998; 
+16: 2445- 51. 
+[85]       Rodriguez  MA,  Pytlik  R,  Kozak  T,  et  al.  Vincristine  sulfate liposomes injection (Marqibo) in heavily pretre ated patients 
+with refractory aggressive non-Hodgkin lymphoma: report of the pivotal phase 2 study. Cancer 2009; 115: 3475-82. 
+[86]       Natarajan JV, Nugraha C, Ng  XW, Venkatraman S. Sustained- release from nanocarriers: a review. J Control Release 20 14; 
+193: 
+122-38. 
+[87] Estanqueiro  M,  Amaral  MH,  Conceicao  J,  Sousa  Lobo  JM.Nanotechnologicalcarriers for cancer chemotherapy: the state of 
+the art. Colloids Surf B 
+Biointerfaces 2015; 126: 631-48. 
+[88] Ozpolat B, Sood AK, Lopez-Berestein G. Liposomal siRNA nanocarriers for cancer therapy. Adv Drug Deliv Rev 2014; 66: 110-6 . [ 
+[89] Chang  M,  Lu  S,  Zhang  F,  et  al.  RGD-modified pH-sensitive liposomes for docetaxel tumor targeting. Colloids Surf B 
+Biointerfaces. 2015 May 1; 129: 175-82. 
+[90]      Wang L, Geng D, Su H. Safe and efficient pH sensitive tumor targeting modified liposomes with minimal cytotoxicity. C olloids 
+Surf B Biointerfaces. 2014 Nov 1; 123: 395-402. 
+[91]       Kono K, Takashima M, Yuba E, Harada A, Hiramatsu Y, Kitagawa H, et al. Multifunctional liposomes having target speci ficity, tem- 
+perature-triggered release, and near-infrared fluorescence imaging for tumor-specific chemotherapy. J Control Release. 2015 Aug  8; 
+216: 69-77. 
+[92]       Weber S, Zimmer A, Pardeike J. Solid Lipid Nanoparticles (SLN) and Nanostructured Lipid Carriers (NLC) for pulmonary  
+applica- tion: a review of the state of the art. Eur J Pharm Biopharm. 2014 
+Jan; 86: 7-22. 
+[93]       Lim SB, Banerjee A, Onyuksel H. Improvement of drug safety by the use of lipid-based nanocarriers. Journal of Contro lled 
+Release. 2012 Oct 10; 163: 34-45. 
+[94]       Joshi MD, Muller RH. Lipid nanoparticles for parenteral delivery of actives. European Journal of Pharmaceutics and 
+Biopharmaceu- tics. 2009 Feb; 71: 161-72. 
+[95]       Parveen S, Misra R, Sahoo SK. Nanoparticles: a boon to drug de- livery, therapeutics, diagnostics and imaging. Nanom ed- 
+Nanotechnol. 2012 Feb; 8: 147-66. 
+[96]       Mehnert W, Mader K. Solid lipid nanoparticles: production, char- acterization and applications. Adv Drug Deliv Rev. 2001 Apr 
+25; 47: 165-96. 
+[97]       Harivardhan  Reddy  L,  Sharma  RK,  Chuttani  K,  Mishra  AK, Murthy RS. Influence of administration route on tumor  uptake and 
+biodistribution of etoposide loaded solid lipid nanoparticles in Dalton's lymphoma tumor bearing mice. J Control Release 2005; 
+105: 185-98. 
+[98] Paliwal R, Rai S, Vaidya B, Khatri K, Goyal AK, Mishra N, et al. Effect  of  lipid  core  material  on  characteristics  of  solid  lipid 
+nanoparticles designed for oral lymphatic delivery. Nanomedicine 2009; 5: 184-91. 
+[99]       Zara GP, Bargoni A, Cavalli R, Fundaro A, Vighetto D, Gasco MR. Pharmacokinetics and tissue distribution of idarubic in-
+loaded solid lipid nanoparticles after duodenal administration to rats. J Pharm Sci 2002; 91: 1324-33. 
+[100] Miao J, Du YZ, Yuan H, Zhang XG, Hu FQ. Drug resistance rever- 
+sal activity of anticancer drug loaded solid lipid nanoparticles in multi-drug resistant cancer cells. Colloids Surf  B  Bioint erfaces 
+2013; 110: 74-80. 
+[101]    Aznar MA, Lasa-Saracibar B, Estella-Hermoso de Mendoza A, Blanco-Prieto MJ. Efficacy of edelfosine lipid nanoparticles  in 
+breast cancer cells. Int J Pharm 2013; 454: 720-6. 
+[102]     Cai S, Yang QH, Bagby TR, Forrest ML. Lymphatic drug delivery using  engineered liposomes  and  solid  lipid  nanopar ticles. Adv 
+Drug Deliver Rev 2011; 63: 901-8. 
+[103] Taratula  O,  Kuzmov  A,  Shah  M,  Garbuzenko  OB,  Minko  T. Nanostructured lipid carriers as multifunctional nanomedic ine plat- 
+form for pulmonary co-delivery of anticancer drugs and siRNA. J Control Release. 2013 Nov 10; 171: 349-57. 
+[104]    de Jesus M, Zuhorn I. Solid lipid nanoparticles as nucleic acid delivery system: properties and molecular mechanisms. J Control 
+Release. 2015; 10 201:1-13. 
+[105]     Luo Y, Teng Z, Li Y, Wang Q. Solid lipid nanoparticles for oral drug delivery: chitosan coating improves stability, c ontrolled deliv- 
+ery, mucoadhesion and cellular uptake. Carbohydr Polym. 2015 May 20; 122: 221-9. 
+[106] Luan J, Yang X, Chu L, Xi Y, Zhai G. PEGylated long circulating nanostructured lipid carriers for Amoitone B: preparation , cytotox- 
+icity and intracellular uptake. J Colloid Interface Sci. 2014 Aug 15; 428: 49-56. 
+[107]     Fernandez P, Andre V, Rieger J, Kuhnle A. Nano-emulsion forma- tion by emulsion phase inversion. Colloids and Surface s a- 
+Physicochemical and Engineering Aspects. 2004 Dec 20; 251: 53-8. 
+[108]     Uson N, Garcia MJ, Solans C. Formation of water-in-oil (W/O) nano-emulsions in a water/mixed non-ionic surfactant/oil  
+systems prepared by a low-energy emulsification method. Colloids and Sur-faces a-Physicochemical and Engineering Aspects. 2004 
+Dec 10; 
+250: 415-21. 
+[109]    Wang LJ, Li XF, Zhang GY, Dong JF, Eastoe J. Oil-in-water nanoemulsions for pesticide formulations. Journal of Colloid  and 
+Interface Science. 2007 Oct 1; 314: 230-5. 
+[110] Mason  TG,  Wilking  JN,  Meleson  K,  Chang  CB,  Graves  SM. 
+Nanoemulsions:  formation,  structure,  and  physical  properties. 
+ 
+Journal of Physics-Condensed Matter 2006; 18: R635-R66. 
+[111]     Sainsbury F, Zeng B, Middelberg A. Towards designer nanoemul- sions for precision delivery of therapeutics. Curr Opin  Chem 
+Eng 
+2014; 4: 11-7. 
+[112]     Anton N, Benoit JP, Saulnier P. Design and production of nanopar- ticles formulated from nano-emulsion templates-a review. J 
+Control Release 2008; 128: 185-99. 
+[113]    Anton N, Vandamme TF. The universality of low-energy nano- emulsification. Int J Pharm 2009; 377: 142-7. 
+[114] Anton N, Vandamme TF. Nano-emulsions and micro-emul sions: 
+clarifications of the critical differences. Pharm Res 2011; 28: 978- 
+85. 
+[115]     He W, Lu Y, Qi J, Chen L, Hu F, Wu W. Nanoemulsion-templated shell-crosslinked nanocapsules as drug delivery systems.  Int J 
+Pharm 2013; 445: 69-78. 
+[116]     Kothamasu P, Kanumur H, Ravur N, Maddu C, Parasuramrajam R, Thangavel S. Nanocapsules: the weapons for novel drug 
+delivery systems. Bioimpacts 2012; 2: 71-81. 
+[117]     Hirsjarvi S, Dufort S, Gravier J, et al. Influence of size, surface coating and fine chemical composition on the in v itro reactivity 
+and in vivo biodistribution of lipid nanocapsules versus lipid nanoemul- sions in cancer models. Nanomedicine 2013; 9: 375-87. 
+[118]     Zhang Y, Chan HF, Leong KW. Advanced materials and process- ing for drug delivery: the past and the future. Adv Drug Deliv Rev 
+2013; 65: 104-20. 
+[119] Fryd MM, Mason TG. Advanced nanoemulsions. Annu Rev Phys Chem 2012; 63: 493-518. 
+[120]     Mosqueira VC, Legrand P, Barratt G. Surface-modified and con- ventional nanocapsules as novel formulations for parent eral 
+deliv- ery of halofantrine. J Nanosci Nanotechnol 2006; 6: 3193-202. 
+[121]     Santander-Ortega  MJ,  Lozano-Lopez  MV,  Bastos-Gonzalez  D, Peula-Garcia JM, Ortega-Vinuesa JL. Novel core-shell li pid- 
+chitosan and lipid-poloxamer nanocapsules: stability by hydration forces. Colloid Polym Sci 2010; 288: 159-72. 
+[122]     Lazaridis N, Alexopoulos A, Chatzi E, Kiparissides C. Steric stabi- lization in emulsion polymerization using oligome ric nonionic sur- 
+factants. Chem Eng Sci 1999; 54: (15-6):3251-61. 
+[123]     Veronese FM, Pasut G. PEGylation, successful approach to drug delivery. Drug Discov Today 2005; 10: 1451-8. 
+[124]     Porter CJ, Pouton CW, Cuine JF, Charman WN. Enhancing intesti- nal drug solubilisation using lipid-based delivery sys tems. Adv 
+Drug Deliv Rev 2008; 60: 673-91. 
+[125] Muller RH, Schmidt S, Bu ttle I, Akkar A, Schmitt J, Bromer S.SolEmuls (R) - novel technology for the formulation of i.v. emul- 
+sions with poorly soluble drugs. Int J Pharm 2004; 269: 293-302. 
+[126] Mason  TG,  Wilking  JN,  Meleson  K,  Chang  CB,  Graves  SM. Nanoemulsions: formation, structure, and physical properties (vol 
+19, pg 079001, 2007). Journal of Physics-Condensed Matter 2007 
+Feb 21; 19. 
+[127]     Felice B, Prabhakaran MP, Rodriguez AP, Ramakrishna S. Drug delivery vehicles on a nano-engineering perspective. Mater Sci 
+Eng C Mater Biol Appl 2014; 41: 178-95. 
+[128]     Feng L, Mumper RJ. A critical review of lipid-based nanoparticles for taxane delivery. Cancer Lett 2013; 334: 157-75.  
+[129]     Huynh NT, Passirani C, Saulnier P, Benoit JP. Lipid nanocapsules: A new platform for nanomedicine. Int J Pharm 2009; 379: 201-9. 
+[130] Shakeel F, Baboota S, Ahuja A, Ali J, Shafiq S. Celecoxib nanoe mulsion: Skin permeation mechanism and bioavailability assess- 
+ment. J Drug Target 2008; 16: 733-40. 
+[131] Tiwari SB, Amiji MM. Improved oral delivery of paclitaxel following   administration  in   nanoemulsion  formulations.  J   
+Nanosci Nanotechnol 2006; 6: 3215-21. 
+[132] Elnaggar YS, El-Massik MA, Abdallah OY. Self-nanoemul sifying drug delivery systems of tamoxifen citrate: design and optimiza- 
+tion. Int J Pharm 009; 380: 133-41. 
+[133] Elsheikh MA, Elnaggar YSR, Gohar EY, Abdallah OY. Nanoemul sion liquid preconcentrates for raloxifene hydrochloride: optimiza- 
+tion and in vivo appraisal. Int J Nanomed 2012; 7: 3787-802. 
+[134] Cevc G, Vierl U. Nanotechnology and the transdermal route: A state of the art review and cr itical appraisal. J Control Release 
+2010; 141: 277-99. 
+[135] Alayoubi AY, Anderson JF, Satyanarayanajois SD, Sylvester PW, Nazzal S. Concurrent delivery of tocotrienols and simvastat in by 
+lipid nanoemulsions potentiates their antitumor activity against human mammary adenocarcenoma cells. Eur J Pharm Sci 2013; 48: 
+385-92. 
+[136]     Zhao H, Lu H, Gong T, Zhang ZR. Nanoemulsion loaded with lycobetaine-oleic acid ionic complex: physicochemical 
+characteris- tics, in vitro, in vivo evaluation, and antitumor activity. Int J Nanomed 2013; 8: 1959-73. 
+[137] Rata-Aguilar A, Sanchez-Moreno P, Jodar-Reyes AB, et al. Colloi- 
+dal stability and "in vitro" antitumor targeting ability of lipid nano- capsules coated by folate-chitosan conjugates. Journal of 
+Bioactive and Compatible Polymers 2012; 27: 388-404. 
+[138]     Sanchez-Moreno P, Ortega-Vinuesa JL, Boulaiz H, Marchal JA, Peula-Garcia JM. Synthesis and Characterization of Lipid 
+Immuno- Nanocapsules for Directed Drug Delivery: Selective Antitumor Ac- tivity against HER2 Positive Breast-Cancer Cells. 
+Biomacro- molecules 2013; 14: 4248-59. 
+[139] Savage DJ, Liu XW, Curley SA, Ferrari M, Serda RE. Porous silicon  advances in  drug  delivery and  immunotherapy. Curren t 
+Opinion in Pharmacology 2013; 13: 834-41. 
+[140] Faraji AH, Wipf P. Nanoparticles in cellular drug delivery. Bioorganic & Medicinal Chemistry 2009; 17: 2950-62. 
+[141]     Kar M,  Tiwari N, Tiwari M, Lahiri M,  Sen  Gupta S.  Poly-L- Arginine Grafted Silica Mesoporous Nanoparticles for 
+Enhanced Cellular Uptake and their Application in DNA Delivery and Con- trolled Drug Release. Particle & Particle Systems Characterization 2013; 30: 166-79. 
+[142] Ferris DP, Lu J, Gothard C, Yanes R, Thomas CR, Olsen JC, et 
+al. Synthesis of Biomolecule-Modified Mesoporous Silica Nanoparti- 
+cles for Targeted Hydrophobic Drug Delivery to Cancer Cells. Small 2011; 7: 1816-26. 
+[143]     Moreno-Vega  A,  Gómez-Quintero  T,  Núñez-Anita  R,  Acosta- Torres L, Castaño V. Polymeric and Ceramic Nanoparticle s in 
+Biomedical Applications. J Nanotechnol 2012. 
+[144]    Roy I, Ohulchanskyy TY, Pudavar HE, et al. Ceramic-based nanoparticles entrapping water-insoluble photosensitizing ant ican- cer 
+drugs: A novel drug-carrier system for photodynamic therapy. J Am Chem Soc 2003 Jul 2; 125: 7860-5. 
+[145] Prasad P, Shrivastav T. Nanotechnological Contribution to Drug Delivery System: A Reappraisal. J Biomater Nanobiotechnol 2014; 
+5: 194-9. 
+[146] Liu ZS, Tang SL, Ai ZL. Effects of hydroxyapa tite nanoparticles on proliferation and a poptosis of human hepatoma BEL-7402 cells. 
+World J Gastroenterol. 2003 Sep; 9: 1968-71. 
+[147] Lu J, Li Z, Zink JI, Tamanoi F. In vivo tumor suppression efficacy of mesoporous silica nanoparticles-based drug-delivery  system: en- 
+hanced efficacy by  folate modification. Nanomedicine 2012; 8:212-20. 
+[148]     Yamashita K, Yoshioka Y, Higashisaka K, et al. Silica and tita- nium dioxide nanoparticles cause pregnancy complicati ons in 
+mice. Nat Nanotechnol 2011; 6: 321-8. 
+[149] Cheng Y, Morshed RA, Auffinger B, Tobias AL, Lesniak MS Multifunctional nanoparticles for brain tumor imaging and therapy . 
+Adv Drug Deliv Rev 2014; 66: 42-57. 
+[150]     Huang XH, Jain PK, El-Sayed IH, El-Sayed MA. Gold nanoparti- cles: interesting optical properties and recent applicat ions in cancer 
+  
+diagnostic and therapy. Nanomedicine 2007; 2: 681-93. 
+[151]     Kumar A, Ma HL, Zhang X, et al. Gold nanoparticles functional- ized with therapeutic and targeted peptides for cancer  
+treatment. Biomaterials 2012; 33: 1180-9. 
+[152]     Arvizo RR, Saha S, Wang E, Robertson JD, Bhattacharya R, Muk- herjee P. Inhibition of tumor growth and metastasis by a self- 
+therapeutic nanoparticle. Proc Natl Acad Sci USA 2013 Apr 23;110: 6700-5. 
+[153]     Thakor AS, Jokerst J, Zavaleta C, Massoud TF, Gambhir SS. Gold Nanoparticles: A Revival in Precious Metal Administrat ion to 
+Pa- tients. Nano Letters 2011; 11: 4029-36. 
+[154]     Arruebo M, Fernandez-Pacheco R, Ibarra MR, Santamaria J. Mag- netic nanoparticles for drug delivery. Nano Today 2007; 2: 22-32. 
+[155]     Ding Y, Shen SZ, Sun H, et al. Design and construction of polym- erized-chitosan coated Fe3O4 magnetic nanoparticles and its 
+appli- cation for hydrophobic drug delivery. Mater Sci Eng C Mater Biol Appl 2015; 48: 487-98.
+[156]     Chen FH, Zhang LM, Chen QT, Zhang Y, Zhang ZJ. Synthesis of a novel magnetic drug delivery system composed of doxorub icin- 
+conjugated Fe3O4 nanoparticle cores and a PEG-functionalized po- rous silica shell. Chem Commun 2010; 46: 8633-5. 
+[157]     Wagstaff AJ, Brown SD, Holden MR, et al. Cisplatin drug delivery using gold-coated iron oxide nanoparticles for enhan ced tumour 
+targeting with external magnetic fields. Inorganica Chimica Acta 2012; 393: 328-33. 
+[158]    Meidanchi A, Akhavan O, Khoei S, Shokri AA, Hajikarimi Z, Khansari N. ZnFe2O4 nanoparticles as radiosensitizers in rad io- 
+therapy of human prostate cancer cells. Mater Sci Eng C Mater Biol Appl 2015; 46: 394-9. 
+[159] Rieter WJ, Pott KM, Taylor KML, Lin WB. Nanoscale coordination polymers for platinum-based anticancer drug delivery. J Am  
+Chem Soc 2008; 130: 11584-5. 
+[160] Sun XM, Li YD. Colloidal carbon spheres and their core/shell structures with  noble-metal nanoparticles. Angewandte Chemi e- 
+International Edition 2004; 43: 597-601. 
+[161] Sun  YG,  Mayers  BT,  Xia  YN.  Template-engaged replacement reaction: A one-step approach to the large-scale synthesis of metal 
+nanostructures with hollow interiors. Nano Letters 2002; 2: 481-5. 
+[162] Chen ML, He YJ, Chen XW, Wang JH. Quantum Dots Conjugated with Fe3O4-Filled Carbon Nanotubes for Cancer-Targeted Imaging 
+and  Magnetically  Guided  Drug  Delivery.  Langmuir  2012;  28: 16469-76. 
+[163]     Probst CE, Zrazhevskiy P, Bagalkot V, Gao XH. Quantum dots as a platform for nanoparticle drug delivery vehicle desig n. Adv Drug 
+Deliver Rev 2013; 65: 703-18. 
+[164]     Liu HL, Hua MY, Yang HW, et al. Magnetic resonance monitoring of focused ultrasound/magnetic nanoparticle targeting d elivery of 
+therapeutic agents to the brain. Proc Natl Acad Sci USA 2010; 107: 15205-10. 
+[165]     Di W, Ren X, Zhao H, Shirahata N, Sakka Y, Qin W. Single- phased luminescent mesoporous nanoparticles for simultaneous cell 
+imaging  and  anticancer  drug  delivery.  Biomaterials  2011;  32: 7226-33. 
+[166] Ye F, Barrefelt A, Asem H, et al. Biodegradable polymeric vesicles containing magnetic nanoparticles, quantum dots and  a nticancer 
+drugs for drug delivery and imaging. Biomaterials 2014; 35: 3885-94. 
+[167]     Della Rocca J, Liu D, Lin W. Nanoscale metal-organic frameworks for biomedical imaging and drug delivery. Acc Chem Re s 
+2011;44: 957-68. 
+[168] Akhtar MJ, Alhadlaq HA, Kumar S, Alrokayan SA, Ahamed M.Selective cancer-killing ability of metal-based nanoparticles: im pli- 
+cations for cancer therapy. Arch Toxicol. 2015 Jul 31. 
+[169]    Sakhrani NM, Padh H. Organelle targeting: third level of drug targeting. Drug Des Devel Ther. 2013; 7: 585-99. 
+[170] Miller T, Breyer S, van Colen G, Mier W, Haberkorn U, Geissler S,et al. Premature drug release of polymeric micelles and its effects 
+on tumor targeting. Int J Pharm 2013; 445: 117-24. 
+[171] Meng H, Xue M, Xia T, Ji ZX, Tarn DY, Zink JI, et al. Use of Size and a Copolymer Design Feature To Improve the Biodistri bution 
+and the Enhanced Permeability and Retention Effect of D oxorubi- cin-Loaded Mesoporous  Silica  Nanoparticles in  a  Murine 
+Xenograft Tumor Model. Acs Nano 2011; 5: 4131-44. 
+[172]     Muro  S.  Challenges  in  design  and  characterization of  ligand- targeted drug delivery systems. J Control Release  2012 Dec 10; 
+164: 125-37. 
+[173] Akhtar MJ, Ahamed M, Alhadlaq HA, Alrokayan SA, Kumar S.Targeted    anticancer    therapy:    overexpressed    receptors    and 
+nanotechnology. Clin Chim Acta 2014; 436: 78-92. 
+[174]     Arvizo RR, Rana S, Miranda OR, Bhattacharya R, Rotello VM, Mukherjee P. Mechanism of anti-angiogenic property of gold  
+nanoparticles: role of nanoparticle size and surface charge. Nanomed-Nanotechnol 2011; 7: 580-7. 
+[175] Giri S, Karakoti A, Graham RP, et al. Nanoceria: A Rare-Earth Nanoparticle as a  Novel Anti-Angiogenic Therapeutic Agent in 
+Ovarian Cancer. Plos One 2013; 8. 
+[176] Gu G, Hu Q, Feng X, Gao X, Menglin J, Kang T, et al. PEG-PLA nanoparticles modified with APTEDB peptide for enhanced anti - 
+angiogenic and anti-glioma therapy. Biomaterials 2014; 35: 8215-26. 
+[177]     Folkman J. Anti-angiogenesis: new concept for therapy of solid tumors. Ann Surg. 1972; 175: 409-16. 
+[178] Heist RS, Duda DG, Sahani DV, et al. Improved tumor vascularization after anti-VEGF therapy with carboplatin and nab-pacl itaxel 
+associates with survival in lung cancer. Proc Natl Acad Sci USA 2015; 112: 1547-52. 
+[179]     Byrne  JD,  Betancourt  T,  Brannon-Peppas  L.  Active  targeting schemes for nanoparticle systems in cancer therapeu tics. Adv Drug 
+Deliver Rev 2008; 60: 1615-26. 
+[180] Taheri A, Dinarvand R, Atyabi F, Ghahremani MH, Ostad SN.Trastuzumab decorated methotrexate-human serum albumin 
+conjugated nanoparticles for targeted delivery to HER2 positive tumor cells. Eur J Pharm Sci 2012; 47: 331-40. 
+[181] Wang LN, Su WJ, Liu Z, et al. CD44 antibody-targeted liposomal nanoparticles for molecular imaging and therapy of hepatocellular 
+carcinoma. Biomaterials 2012; 33: 5107-14. 
+[182] Abdelghany SM, Schmid D, Deacon J, et al. Enhanced Antitumo r Activity of the Photosensitizer meso-Tetra(N-methyl-4-pyridyl) 
+Porphine Tetra Tosylate through Encapsulation in Antibody- Targeted   Chitosan/Alginate  Nanoparticles.  Biomacromolecules 2013; 14: 302-10. 
+[183]     Kanapathipillai M, Mammoto A, Mammoto T, et al. Inhibition of Mammary Tumor Growth Using Lysyl Oxidase-Targeting 
+Nanoparticles to Modify Extracellular Matrix. Nano Letters 2012;12: 3213-7. 
+[184] Davis ME, Zuckerman JE, Choi CHJ, et al. Evidence of RNAi 
+in humans from systemically administered siRNA via targeted 
+nanoparticles. Nature 2010; 464: 1067-U140. 
+[185] Bae S, Ma K, Kim TH, et al. Doxorubicin-loaded human serum albumin nanoparticles surface-modified with TNF-related apopto- 
+sis-inducing ligand and transferrin for targeting mu ltiple tumor types. Biomaterials 2012; 33: 1536-46. 
+[186]     Hong MH, Zhu SJ, Jiang YY, et al. Novel anti-tumor strategy: PEG-hydroxycamptothecin conjugate loaded transferrin-PEG - 
+nanoparticles. J Control Release 2010; 141: 22-9. 
+[187]     Zhang H, Hou  L, Jiao X, Ji Y, Zhu  X, Zhang Z. Transferrin- mediated fullerenes nanoparticles as Fe(2+)-dependent dr ug vehi- 
+cles  for  synergistic anti-tumor efficacy. Biomaterials 2015;  37: 353-66. 
+[188]     Farokhzad OC, Cheng JJ, Teply BA, et al. Targeted nanoparticle- aptamer bioconjugates for cancer chemotherapy in vivo . Proc Natl 
+Acad Sci USA 2006; 103: 6315-20. 
+[189]     Kaiser PK. Antivascular endothelial growth factor agents and their development: Therapeutic implications in ocular di seases. Am J 
+Ophthalmol 2006; 142: 660-8. 
+[190]     Farokhzad OC, Jon SY, Khademhosseini A, Tran TNT, LaVan DA, Langer R. Nanopartide-aptamer bioconjugates: A new approach for 
+targeting prostate cancer cells. Cancer Research. 2004; 64: 7668-72. 
+[191] Cho HJ, Yoon HY, Koo H, Ko SH, Shim JS, Lee JH, et al. Self- assembled nanoparticles based on hyaluronic acid-ceramide (HA- 
+CE) and Pluronic (R) for tumor-targeted delivery of docetaxel. Biomaterials 2011; 32: 7181-90. 
+ 
+[192]     Cho HJ, Yoon IS, Yoon HY, et al. Polyethylene glycol-conjugated hyaluronic acid-ceramide self-assembled nanoparticles  for 
+targeted delivery of doxorubicin. Biomaterials 2012; 33: 1190-200. 
+[193]    Ma M, Chen HR, Chen Y, et al. Hyaluronic acid-conjugated mesoporous silica nanoparticles: excellent colloidal dispersi ty in 
+physiological fluids and targeting efficacy. Journal of Materials Chemistry. 2012; 22: 5615-21. 
+[194] Forster MD, Ormerod MG, Agarwal R, Kaye SB, Jackman AL. Flow cytometric method for determining folate receptor expression 
+on ovarian carcinoma cells. Cytometry A 2007; 71: 945-50. 
+[195]     Yu JM, Xie X, Wu JZ, et al. Folic acid conjugated glycol chitosan micelles for targeted delivery of doxorubicin: prep aration and pre- 
+liminary evaluation in vitro. J Biomater Sci Polym Ed 2013; 24:606-20. 
+[196] Majd MH, Asgari D, Barar J, et al. Tamoxifen loaded folic acid armed PEGylated magnetic nanoparticles for targeted imaging and 
+therapy of  cancer. Colloids and Surfaces B-Biointerfaces 2013;106: 117-25. 
+[197]     Zong H, Thomas TP, Lee KH, et al. Bifunctional PAMAM den- drimer conjugates of folic acid and methotrexate with defin ed ratio. 
+Biomacromolecules 2012; 13: 982-91. 
+[198]     Wang Y, Li P, Chen L, Gao W, Zeng F, Kong LX. Targeted deliv- ery of 5-fluorouracil to HT-29 cells using high efficie nt folic acid- 
+conjugated nanoparticles. Drug Deliv 2015; 22: 191-8. 
+[199]     Molek P, Strukelj B, Bratkovic T. Peptide Phage Display as a Tool for Drug Discovery: Targeting Membrane Receptors. M olecules 
+2011; 16: 857-87. 
+[200]     Pan LM, He QJ, Liu JN, et al. Nuclear-Targeted Drug Delivery of TAT Peptide-Conjugated Monodisperse Mesoporous Silica  
+Nanoparticles. Journal of the American Chemical Society 2012; 134: 5722-5. 
+[201]     Pearce TR, Shroff K, Kokkoli E. Peptide Targeted Lipid Nanopar- ticles for Anticancer Drug Delivery. Adv Mater 2012; 24: 3803-22. 
+[202] Naseri N, Valizadeh H, Zakeri-Milani P. Solid Lipid Nanoparticles and  Nanostructured  Lipid  Carriers:  Structure,  Prep aration  and 
+Application. Adv Pharm Bull 2015; 5: 305-13. 
+[203] Fadeel B, Garcia-Bennett AE. Better safe than sorry: Understanding the toxicological properties of inorganic nanoparticle s manu- 
+factured for biomedical applications. Adv Drug Deliv Rev 2010;62: 362-74. 
+[204]     Yu M, Zheng J. Clearance Pathways and Tumor Targeting of Imag- ing Nanoparticles. ACS Nano 2015; 9: 6655-74. 
+[205] Kotagiri N, Kim JW.  Stealth nanotubes: strategies of  shielding carbon nanotubes to evade opsonization and improve biodi stribu- 
+tion. Int J Nanomedicine 2014; 9 Suppl 1: 85-105. 
+[206] Zhang XD, Wu D, Shen X, Liu PX, Fan FY, Fan SJ. In vivo renal clearance, biodistribution, toxicity of gold nanoclusters. Biomateri- 
+als 2012; 33: 4628-38. 
+[207] Alric C,  Miladi I, Kryza D,  et al.  The biodistribution of  gold nanoparticles designed for  renal  clearance. Nanoscal e 2013;  
+5:5930-9. 
+[208] Chithrani BD, Ghazani AA, Chan WC. Determining the size and shape dependence of  gold nanoparticle uptake into mammalian 
+cells. Nano Lett 2006; 6: 662-8. 
+[209] Gu L, Fang RH, Sailor MJ, Park JH. In vivo clearance and toxicity of  monodisperse iron  oxide  nanocrystals. ACS  Nano  2012;  
+6:4947-54. 
+[210] Ahlinder  L,  Ekstrand-Hammarstrom B,  Geladi  P,  Osterlund  L. Large uptake of titania and iron oxide nanoparticles in the nucleus 
+of lung epithelial cells as measured by Raman imaging and multi- variate classification. Biophys J 2013; 105: 310-9. 
+[211]     Moghimi SM, Hunter AC, Murray JC. Long-circulating and target- specific nanoparticles: Theory to practice. Pharmacol Rev 2001; 
+53: 283-318. 
+[212]     Anselmo AC, Zhang M, Kumar S, et al. Elasticity of nanoparticles influences their blood circulation, phagocytosis, en docytosis, and 
+targeting. ACS Nano 2015; 9: 3169-77. 
+[213]     Farace C, Sanchez-Moreno P, Orecchioni M, et al. Immune cell impact of three differently coated lipid nanocapsules: p luronic, chi- 
+tosan and polyethylene glycol. Sci Rep 2016; 6: 18423. 
+[214]     Farrera C, Fadeel B. It takes two to tango: Understanding the inter- actions between engineered nanomaterials and the  immune system. 
+Eur J Pharm Biopharm 2015; 95: 3-12. 
+[215]     Hajipour MJ, Laurent S, Aghaie A, Rezaee F, Mahmoudi M. Per- sonalized protein coronas: a "key" factor at the 
+nanobiointerface. Biomater Sci-Uk 2014; 2: 1210-21. 
+[216] Stoddart A. Corona creation. Nature Materials 2013; 12: 946-. 
+[217] Lynch I, Salvati A, Dawson KA. Protein-Nanoparticle Interactions What Does the Cell See? Nature Nanotechnology 2009; 4: 546-7. 
+[218]     Thiele L, Diederichs JE, Reszka R, Merkle HP, Walter E. Competi- tive adsorption of serum proteins at microparticles affects phagocy- 
+tosis by dendritic cells. Biomaterials 2003; 24: 1409-18. 
+[219]     Karmali PP, Simberg D. Interactions of nanoparticles with plasma proteins: implication on clearance and toxicity of d rug delivery sys- 
+tems. Expert Opinion on Drug Delivery 2011; 8: 343-57. 
+[220]     Sanchez-Moreno P, Buzon P, Boulaiz H, et al. Balancing the effect of corona on therapeutic efficacy and macrophage up take of lipid 
+nanocapsules. Biomaterials. 2015 Aug; 61: 266-78. 
+[221]   Salvati  A,  Pitek  AS,  Monopoli  MP,  et  al.  Transferrin- functionalized nanoparticles lose their targeting capabil ities when a 
+biomolecule corona adsorbs on the surface. Nat Nanotechnol 2013;8: 137-43. 
+[222]   Moghimi SM, Hunter AC. Poloxamers and poloxamines in nanoparticle engineering and experimental medicine. Trends Bio- te chnol 
+2000; 18: 412-20.[223]     Moghimi SM, Muir IS, Illum L, Davis SS, Kolbbachofen V. Coat- ing Particles with a Block-Copolymer 
+(Poloxamine-908) Sup- presses Opsonization but Permits the Activity of Dysopsonins in the Serum. Biochimica Et Biophysica Acta 
+1993; 1179: 157-65. 
+[224]     Hong W, Chen D, Zhang X, et al. Reversing multidrug resistance by intracellular delivery of Pluronic(R) P85 unimers. 
+Biomaterials 2013 Dec; 34: 9602-14. 
+[225]     Saxena V, Hussain MD. Polymeric Mixed Micelles for Delivery of Curcumin to Multidrug Resistant Ovarian Cancer. Journa l of Bio- 
+medical Nanotechnology 2013; 9: 1146-54. 
+[226]     Flens MJ, Zaman GJR, vanderValk P, et al. Tissue distribution of the multidrug resistance protein. Am J Pathol 1996; 148: 1237- 
+47. 
+[227]     Owens DE, Peppas NA. Opsonization, biodistribution, and phar- macokinetics of polymeric nanoparticles. Int J Pharm 20 06; 
+307:93-102. 
+[228]    Abuchowski A, Vanes T, Palczuk NC, Davis FF. Alteration of Immunological Properties of Bovine Serum-Albumin by Covalen t 
+Attachment of Polyethylene-Glycol. J Biol Chem 1977; 252: 3578- 81. 
+[229]     Pelaz B, del Pino P, Maffre P, et al. Surface Functionalization of Nanoparticles with Polyethylene Glycol: Effects on  Protein Ad- 
+sorption and Cellular Uptake. ACS Nano 2015 Jul 28; 9: 6996-7008. 
+[230] Perry JL, Reuter KG, Kai MP, et al. PEGylated PRINT Nanoparti cles: The Impact of PEG Density on Protein Binding, 
+MacrophageAssociation,  Biodistribution,  and  Pharmacokinetics.  Nano  Lett 2012; 12: 5304-10. 
+[231]     Lee H. Molecular Dynamics Studies of PEGylated Single-Walled Carbon Nanotubes: The Effect of PEG Size and Grafting De nsity. J 
+Phys Chem C 2013; 117: 26334-41. 
+[232]    Rodriguez PL, Harada T, Christian DA, Pantano DA, Tsai RK, Discher DE. Minimal "Self" Peptides That Inhibit Phagocytic  
+Clearance and Enhance Delivery of Nanoparticles. Science. 2013; 339: 971-5. 
+[233]     Grant DS, Williams TL, Zahaczewsky M, Dicker AP. Comparison of antiangiogenic activities using paclitaxel (taxol) and  
+docetaxel (taxotere). Int J Cancer 2003; 104: 121-9. 
+[234]     Desai NP, Soon-Shiong P. Nanoparticles of pac litaxel and albumin in combination with bevacizumab against cancer EP 2481405 A1, 
+Patent 2012. 
+[235]     Mrozek E, Layman R, Ramaswamy B, et al. Phase II trial of neoad- juvant weekly nanoparticle albumin-bound paclitaxel,  carboplatin, 
+  
+and biweekly bevacizumab therapy in women with clinical stage II or III HER2-negative breast cancer. Clin Breast Cancer 2014; 
+14:228-34. 
+[236]     Yardley DA, Hart L, Bosserman L, et al. Phase II study evaluating lapatinib in combination with nab-paclitaxel in HER 2- 
+overexpressing metastatic breast cancer patients who have received no more than one prior chemotherapeutic regimen. Breast 
+Cancer Res Treat 2013; 137: 457-64. 
+[237] Pottier A, Borghi E, Levy L. New Use of Metals as Nanosized Radioenhancers. Anticancer Res 2014; 34: 443-53. 
+[238]     Gaur S, Wang YF, Kretzner L, et al. Pharmacodynamic and phar- macogenomic study of the nanoparticle conjugate of 
+camptothecin CRLX101  for  the  treatment  of  cancer.  Nanomed-Nanotechnol 2014; 10: 1477-86. 
+[239] Bergs JWJ, Wacker MG, Hehlgans S, Piiper A, Multhoff G, Rodel C, et al. The role of recent nanotechnology in enhancing the effi- 
+cacy of radiation therapy. Bba-Rev Cancer 2015; 1856: 130-43. 
+[240] Garraway  LA.  Genomics-Driven Oncology: Framework  for  an Emerging Paradigm. J Clin Oncol 2013; 31: 1806-14. 
+[241]     Simoes MCF, Sousa JJS, Pais AACC. Skin cancer and new treat- ment perspectives: A review. Cancer Lett 2015; 357: 8-42 . 
+[242]    Ramirez A, Boulaiz H, Morata-Tarifa C, et al. HER2-signaling pathway, JNK and ERKs kinases, and cancer stem-like cells  are 
+targets of Bozepinib small compound. Oncotarget 2014; 5: 3590-606. 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+     
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+     
+ 
+ 
+TABLES AND FIGURES 
+ 
+ 
+Table  1.  Examples of different nanostructured carrier systems  and  the  properties that  influence their suitability 
+for parenteral adm inistration. 
+ 
+Nanocarrier Size Range Solubility Stability Clear- 
+ance/Filtr ation Toxicity Uptake by Can- 
+cer Cells Suitability for Pa r- 
+enteral Administra- 
+tion Ref. 
+Liposomes 50nm- 
+above 1¡.m High solubility Poor stability Rapid removal by 
+reticuloendothelial 
+system Almost bio- 
+logically inert. 
+Can cause 
+“complement 
+activation - 
+related pseu- 
+doallergy”  High uptake *** [81] 
+[202] 
+Polimeric 
+Nanoparticles 1-1000nm High solubility Stable Long time circula- 
+tion in blood Reduced tox- 
+icity with a 
+limited inter- 
+action with 
+healthy cellsEnhanced uptake *** [81] 
+Lipid 
+Nanoemul- 
+sions less than 
+~200-300 
+nm High solubility kinetically stable The use of polymer s 
+with hydroph ilic 
+segment such as 
+PEG, poloxamers, or 
+chitosan helps to 
+extend the life-time
+in the blood stream  Low toxicity 
+and reduced 
+side effects Nanoparticle s 
+smaller than 100 
+nm preferentially 
+accumulate in 
+cancer tissues. 
+High uptake  *** [81] 
+Solid Lipid 
+Nanoparticles 40-1000nm Poor stability High physical 
+stability Optimum particle 
+size for lymphatic 
+uptake 10 -100 nm. 
+Increase in particle 
+size leads to ex- 
+tended blood circu- 
+lation  Good toler- 
+ability and 
+biodegra dabil-
+ity Relatively low 
+tumor uptake * [15] 
+Ceramic 
+nanoparticles 2-1000nm Generally soluble 
+but TiO2 NPs High stability Efficient renal clear-
+ance < 10nm. 
+Liver, spleen accu- 
+mulation and hepatic 
+excretion if >10nmGenerally bio-
+inert but non 
+biodegradable. 
+Production of 
+ROS for TiO2 .Higher below 
+200nm  ** [143] 
+[203] [204] 
+Carbon nano- 
+tubes 1-50 nm 
+diameter 
+ 
+100nm- 
+5¡.m in 
+length Poorly soluble. 
+Solubility im- 
+proved with 
+chemical modi fi- 
+cations Native aggregate d 
+state. Processing 
+strategies to mod- 
+ify the surface 
+commonly prac- 
+ticed  A higher degree of 
+surface functional 
+groups causes lesser 
+accumulation in the 
+liver and faster 
+clearance through 
+the renal system. 
+Rapid clearance of 
+<500 nm NPs Highly cyto- 
+toxic; asbes- 
+tos-like toxic- 
+ity. 
+Biocompati - 
+bility in- 
+creases if 
+functionalized 
+with soluble 
+and biocom-  
+patible materi-
+als Acceptable tumor 
+uptake * [81] 
+[205] 
+Gold 
+nanoparticles 2-400nm High. Few cases 
+of hemolysis and 
+blood clotting High  5-30nm clearance by 
+kidney.  
+>40nm accumula - 
+tion in liver and 
+spleen  Very low. But 
+production of 
+ROS  Very high for NPs 
+below 100nm *** [206-208] 
+Iron oxide 
+nanoparticles 5-1000nm Coating makes 
+them highly hy- 
+droph ilic Excellent chemi- 
+cal stability Poor. Accumulation 
+in liver and spleen Low High for small 
+particles *** [209, 210] 
+*** very suitable; ** suitable; * low suitable. 
+ 
+  
+ 
+ 
+ 
+Table  2.  Nanomedicines currently available on the market. 
+ 
+ 
+Product  
+Company  
+Drug Formulation Indication  
+Route of Administration
+Abraxane Abrasix Bioscience, As- 
+traZeneca  
+ 
+Celgene  Paclitaxel  
+ 
+ 
+Paclitaxel in combination 
+with gemcitabine  Albumin-bound nanopar- 
+ticles Metastatic breast cancer  
+ 
+Metastatic pancreatic 
+cancer  iva 
+DaunoXome Gilead Science Daunorubicin Liposome HIV-related Kaposi sar- 
+coma iva 
+DepoCyt Skype Pharma  
+Enzon Cytarabine Liposome Lymhomatous meningitis intrathecal 
+Doxil Sequus Pharmaceutical Doxorubicin Liposome Kaposi sarcoma iva 
+Doxy (Caelyx) Orthobiotech 
+Scheri ng-P lough 
+Janssen  Doxorubicin Pegylated liposome Metastatic breast and 
+ovarian cancer; Kaposi 
+sarcoma ima 
+Genexol-PM Samyang Paclitaxel Polymeric micelle Breast cancer, Small cell 
+lung cancer iva 
+Marqibo Talon therapeutics Vincristine Liposome Philadelphia chromo- 
+some-negative lym- 
+phoblastic leukemia iva 
+Mepact (mifamurtide) IDM Pharma SAS Synthetic derivative of 
+muramyl dipeptide Liposome Osteosarcoma iva 
+Myocet  Elan Pharmaceuticals / 
+Sopherion Therapeutic s 
+Zeneus Pharma Ltd Doxorubicin Liposome Metastatic breast cancer iva 
+Oncaspar Enzon Asparaginase PEG nanoparticle Acute Lymphocytic Leu- 
+kemia iv/ima 
+Zinostatin  Stimalmer Yamanouchi Japan Neocarzinostatin Polymer-drug conjugates Hepatocellular carcinoma Local, via hepatic artery 
+infusion 
+a iv, intravenous; im, intramuscular. 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. (1). Time course of publications  related  to nanomedicine.  Data reported  here reflect manuscripts  available  through  PubMed  database 
+until September 2015 using the term “nanomedicine”  as a key word. (http://www.ncbi.nlm.nih.gov/pubmed/?term=nanomedicine).  
+ 
+ 
+Fig. (2). Five leading cancer types for the estimated deaths, by gender in the United States.  
+ 
+  
+
+  
+ 
+Fig. (3). Examples of drug-delivery  platforms: A) Polymeric nanoparticle. B) Magnetic nanoparticle. C) Liposome. D) Carbon nan otube. E) 
+Nanoemulsion. F) Gold nanoparticle. G) Dendrimer. H) Micelle.  
+ 
+ 
+ 
+Fig.   (4).  Schematic   representation   of  passive   tissue   targeting, achieved   by  tumor-site   accumulation   of  nanoparticles   that  ex- 
+travasate through enlarged pores of tumor vasculature (EPR effect).  
+ 
+Fig. (5). Schematic representation  of active targeting which can be achieved  by functionalizing  the surface of nanocarriers  with moie- ties 
+that specifically recognize and bind to tumor cells.  
+ 
+
+ 
+ 
+ 
+ 
+ 
+Fig. (6). Schematic representation of protein corona developed on the surface of nanoparticles in the presence of serum proteins.  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Fig. (7). Structure of 
+Pluronics.  
+ 
+

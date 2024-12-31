@@ -1,0 +1,645 @@
+Journal of Alzheimer’s Disease 43 (2015) 575–588
+DOI 10.3233/JAD-140741IOS Press575
+The Murine Version of BAN2401 (mAb158)
+Selectively Reduces Amyloid- /H9252Protoﬁbrils
+in Brain and Cerebrospinal Fluid oftg-ArcSwe Mice
+Stina Tuckera, Christer M ¨ollera,∗, Karin Tegerstedta, Anna Lorda, Hanna Laudona, Johan Sj ¨odahla,
+Linda S ¨oderberga, Erika Spensa, Charlotte Sahlina, Erik Rollman Waaraa, Andrew Satlinb,
+P¨ar Gellerforsa, Gunilla Osswaldaand Lars Lannfelta,c
+aBioArctic Neuroscience AB, Stockholm, Sweden
+bEisai Inc., Woodcliff Lake, NJ, USA
+cDepartment of Public Health/Geriatrics, Uppsala University, Uppsala, Sweden
+Handling Associate Editor: Thomas Bayer
+Accepted 19 June 2014
+Abstract . Amyloid- /H9252(A/H9252) immunotherapy for Alzheimer’s disease (AD) has good preclinical support from transgenic mouse
+models and clinical data suggesting that a long-term treatment effect is possible. Soluble A /H9252protoﬁbrils have been shown to
+exhibit neurotoxicity in vitro and in vivo , and constitute an attractive target for immunotherapy. Here, we demonstrate that the
+humanized antibody BAN2401 and its murine version mAb158 exhibit a strong binding preference for A /H9252protoﬁbrils over
+A/H9252monomers. Further, we conﬁrm the presence of the target by showing that both antibodies efﬁciently immunoprecipitate
+soluble A /H9252aggregates in human AD brain extracts. mAb158 reached the brain and reduced the brain protoﬁbril levels by 42%
+in an exposure-dependent manner both after long-term and short-term treatment in tg-ArcSwe mice. Notably, a 53% reductionof protoﬁbrils/oligomers in cerebrospinal ﬂuid (CSF) that correlated with reduced brain protoﬁbril levels was observed afterlong-term treatment, suggesting that CSF protoﬁbrils/oligomers could be used as a potential biomarker. No change in nativemonomeric A /H9252
+42could be observed in brain TBS extracts after mAb158-treatment in tg-ArcSwe mice. By conﬁrming the
+speciﬁc ability of mAb158 to selectively bind and reduce soluble A /H9252protoﬁbrils, with minimal binding to A /H9252monomers, we
+provide further support in favor of its position as an attractive new candidate for AD immunotherapy. BAN2401 has undergonefull phase 1 development, and available data indicate a favorable safety proﬁle in AD patients.
+Keywords: Alzheimer’s disease, amyloid- /H9252, antibody, BAN2401, biomarker, cerebrospinal ﬂuid, immunotherapy, mAb158,
+oligomer, protoﬁbrils
+INTRODUCTION
+Alzheimer’s disease (AD) is a neurodegenerative
+disorder characterized by brain deposition of amy-loid plaques and neuroﬁbrillary tangles. Research over
+∗Correspondence to: Christer M ¨oller, BioArctic Neuroscience
+AB, Warfvinges v ¨ag 35, SE-112 51 Stockholm, Sweden. Tel.: +46
+8 695 69 30; Fax: +46 8 695 69 39; E-mail: Christer.moller@bioarctic.se.the past several decades support a critical role for
+amyloid- /H9252(A/H9252)42in this process [1, 2]. A /H925242, a cleav-
+age product of amyloid- /H9252protein precursor (A /H9252PP),
+is prone to aggregation and is a major constituent ofamyloid plaques [3, 4]. Since a deﬁnitive correlationbetween amyloid plaques and degree of dementia inAD has not been established [5, 6], attention has turnedto soluble aggregates of A /H9252such as oligomers and
+protoﬁbrils.
+ISSN 1387-2877/15/$27.50 © 2015 – IOS Press and the authors. All rights reserved
+
+576 S. Tucker et al. / mAb158 Reduces Brain and CSF A βProtoﬁbrils
+A wide spectrum of soluble A /H9252aggregates with
+pathogenic effects has been described (reviewed in[2]). These soluble aggregates display neurotoxicityand the ability to inhibit synaptic function in vitro
+and in vivo [7–15]. Further, amelioration of cogni-
+tive impairment in transgenic mouse models using A /H9252
+immunotherapy has been demonstrated in the absenceof amyloid plaque reduction, suggesting that solubleA/H9252species are associated with memory impairment in
+these models [16, 17]. Perhaps more importantly, datafrom AD patients indicate that the pool of soluble brainA/H9252species appears to be a better correlate of cognitive
+decline than amyloid plaque burden [18–20]. Similarlyto the French mutation (A /H9252PPV715M) [21], a familial
+form of early-onset AD caused by the Arctic mutation(A/H9252PPE693G or A /H9252PP
+Arc) is characterized by reduced
+total A /H9252levels compared to most other familial AD
+mutations. However, the Arctic mutation interestinglyresults in accelerated formation of A /H9252protoﬁbrils
+[22–24]. Indeed, Arctic mutation carriers that haddeveloped the disease were negative for PiB PET, animaging technique that detects insoluble ﬁbrillar A /H9252
+deposits, suggesting that protoﬁbrils have a centralrole in the disease mechanism [25]. A /H9252protoﬁbrils,
+ﬁrst described by Walsh et al. in 1997 [26], have beenfound to be the major A /H9252species in the soluble pool
+of A/H9252extracted from the brain of AD patients as well
+as tg-ArcSwe mice [27]. The fractions containing A /H9252
+protoﬁbrils also showed signiﬁcant cell toxicity. Theincreased protoﬁbril levels found in young tg-ArcSwemice correlate with diminished spatial learning [28],supporting the in vitro ﬁndings of protoﬁbril neuro-
+toxicity. Therefore, A /H9252protoﬁbrils constitute a highly
+relevant target for disease intervention.
+Current treatments for AD only ameliorate the
+symptoms of the disease. Therefore, novel thera-peutic strategies are aimed at halting or attenuatingdisease progression, for example by inhibiting forma-tion, or promoting clearance of A /H9252
+42. These therapies
+include inhibitors of BACE and /H9253-secretase enzymes
+that cleave A /H9252from A /H9252PP, and immunotherapeu-
+tic approaches utilizing antibodies to target A /H9252. The
+BACE and /H9253-secretase inhibitors have suffered from
+toxicity and challenges with target speciﬁcity. For /H9253-
+secretase inhibitors, this has led to discontinuation ofclinical trials due to worsening of cognitive decline inAD patients, and increased frequency of skin cancer[29, 30]. BACE1 inhibitors have thus far been well tol-erated in phase I studies and their success in patientsis still under evaluation, but this enzyme has severalsubstrates that may result in toxicity after prolongedtreatment [29, 31, 32]. Since the initial A /H9252immu-nization studies performed by Schenk et al. (1999),
+numerous studies in transgenic mouse models of ADhave shown a dramatic effect on plaque burden andcognition using both active immunization and passivetransfer of A /H9252antibodies [16, 17, 33–39].
+A phase 2 clinical trial of A /H9252
+42immunization
+(AN1792) was stopped due to symptoms consistentwith meningoencephalitis in 6% of the patients. Thecases of meningoencephalitis were independent ofantibody titers [40]. Interestingly, signiﬁcantly reducedcognitive decline was found in antibody responderscompared to placebo-treated patients. This providespreliminary support for the potential long-term bene-ﬁts of A /H9252immunotherapy, though these studies were
+based on very small sample sizes in part due to thelimited number of antibody responders [41–43]. Sincethen, passive administration of A /H9252antibodies has
+been used as an alternative therapeutic approach thatis believed to minimize the risk of a proinﬂamma-tory T-cell based response [44]. Monoclonal antibodyadministration has been safely employed for over 20years with more than 25 antibodies currently in clin-ical use [45], supporting this approach. Clinical trialsof bapineuzumab, a monoclonal antibody directedagainst ﬁbrillar A /H9252, were stopped because of imaging
+abnormalities and absence of clinical effects. However,pooled data from mild AD patients in two phase 3 stud-ies of another monoclonal antibody targeting solubleA/H9252, solanezumab, have shown some effects on cogni-
+tive measures indicating that beneﬁcial effects of A /H9252
+immunotherapy are possible [43, 46–50]. In this report,we examine the potential of BAN2401, an antibodywith a unique target binding proﬁle selective for A /H9252
+protoﬁbrils, to provide an effective treatment for AD.
+Here we conﬁrm that BAN2401, the humanized ver-
+sion of mAb158, exhibits a strong binding preferencefor soluble A /H9252protoﬁbrils compared to monomers.
+Further, we ﬁnd that the mAb158-mediated selectivereduction of brain A /H9252protoﬁbrils was mirrored by a
+similar lowering of protoﬁbrils in cerebrospinal ﬂuid(CSF) from tg-ArcSwe mice, indicating a possible useof CSF A /H9252protoﬁbrils as a clinical biomarker. These
+results indicate the potential for BAN2401 to effec-tively reduce brain A /H9252protoﬁbrils in AD patients.
+MATERIALS AND METHODS
+Ethics statement
+The use of human brain material was approved
+by the regional ethical committee in Uppsala (deci-sion number 2009/089). Written informed consent was
+S. Tucker et al. / mAb158 Reduces Brain and CSF A βProtoﬁbrils 577
+obtained from all subjects involved in the study (or
+their relatives). All animal procedures were performedin accordance with the ethical committee in Stockholm(decision number N247/09), and applicable guidelinesfor animal experimentation and animal care were fol-lowed.
+Aβmonomers and protoﬁbrils
+A/H9252
+1-40and A /H92521-42peptides were purchased from
+American Peptide Company, CA, USA. Lyophilizedpeptides were dissolved to 100 /H9262M in 10 mM NaOH.
+A/H9252
+42protoﬁbrils were prepared by diluting the A /H92521-42
+peptide to 50 /H9262M in 0.1 M Phosphate buffer containing
+0.3 M NaCl, pH 7.4. The preparation was incubated for30 min at 37
+◦C and then centrifuged at 16000 ×g for
+5 min to pellet potential large aggregates. The super-natants were further puriﬁed from monomers by sizeexclusion chromatography (Superdex 75 column, GEHealthcare, Sweden) at a ﬂow rate of 0.08 ml/min in0.05 M Phosphate buffer, 0.15 M NaCl, pH 7.4, andprotoﬁbrils were collected in the void fraction as pre-viously described [22, 26, 27], see SupplementaryFigs. 1–3.
+Antibodies
+The protoﬁbril-selective monoclonal mouse anti-
+body mAb158 (IgG2a, BioArctic Neuroscience,Stockholm) was formulated in sterile PBS (pH 7.5) at aconcentration of 2 mg/ml and has previously been char-acterized [51]. Its humanized form, BAN2401 (EisaiCo., Ltd., Tokyo) was formulated in sterile PBS (pH7.5) at a concentration of 2 mg/ml.
+Biacore analysis
+BAN2401 and mAb158 binding to A /H9252monomers
+and A /H9252protoﬁbrils were evaluated by surface plas-
+mon resonance (SPR) analysis using a Biacore T100instrument. For the antibody-A /H9252protoﬁbril interaction
+experiments, 80 resonance units (RU) A /H9252
+42protoﬁb-
+rils were immobilized on a Biacore CM5 sensor chipsurface using amine coupling chemistry. HBS-EP wasused as running buffer and 0.78, 1.6, 3.1, 6.3, 13,25, 50, and 100 nM antibody samples were passedover the sensor surface at a ﬂow rate of 30 /H9262l/min.
+Using this setup for the protoﬁbril, each individ-ual antibody binding event to the protoﬁbril will bedetected. The rate constants for the interaction weredetermined by ﬁtting the SPR sensorgrams to a biva-lent analyte model. For the antibody-A /H9252monomerinteraction experiments, 2000 RU antibody (mAb158
+or BAN2401) were immobilized on a Biacore CM5sensor chip surface using amine coupling chemistry.HBS-EP was used as running buffer and 0.061, 0.13,0.25, 0.5, 1, 2, and 4 /H9262MA/H9252
+1-40monomer samples
+were passed over the sensor surface at a ﬂow rate of30/H9262l/min. The kinetic constants were determined by
+ﬁtting the SPR sensorgrams to a 1 : 1 Langmuir bindingmodel.
+Inhibition ELISA
+The half maximal inhibitory concentration (IC50)
+values of BAN2401 and mAb158 for A /H9252protoﬁbrils
+and A /H9252monomers were determined using an inhibition
+ELISA in which antibodies were pre-incubated in solu-tion with protoﬁbrils or monomers and then transferredto A/H9252coated ELISA plates [51]. When A /H9252peptide
+is adhered to a substrate such as an ELISA plate,it behaves similarly to an A /H9252protoﬁbril in solution
+with respect to its ability to capture the protoﬁbril-selective mAb158 antibody. A /H9252
+42protoﬁbrils were
+diluted to 500 nM in incubation buffer (Dulbecco’sPBS containing 0.1% BSA and 0.05% Tween-20) andA/H9252
+1-40monomers were diluted to 25 /H9262M. The solu-
+tions were then further diluted in duplicates in an11-step 3x serial dilution in 96-well storage plates,to generate a ﬁnal volume of 30 /H9262l per well. To each
+well, 30 /H9262l of antibody (0.1 /H9262g/ml) were added and
+the plates were incubated for 45 min at room tem-perature (RT) with shaking (900 rpm). The sampleswere then transferred to ELISA plates that had beencoated with 0.5 /H9262MA/H9252
+1-40overnight at +4◦C, and
+blocked with 1% BSA in Dulbecco’s PBS (D-PBS).Samples were incubated for 25 min at RT withoutshaking, after which anti-mouse IgG-ALP (Mabtech,Sweden, 1 : 1000) or anti-human IgG-ALP (Mabtech,Sweden, 1 : 3000) was added for 45 min. Plates weredeveloped with ALP substrate (pNPP tablets, SigmaAldrich, USA) for 30–60 min and optical density wasmeasured at 405 nm (Inﬁnite M1000, Tecan, Switzer-land).
+Immunoprecipitation
+Five AD brains, AD1 (Swedish mutation carrier),
+AD6, AD10, AD11, and AD19, and one controlbrain (C12) from Uppsala brain bank were includedin this study. Brain samples, obtained from tempo-ral cortex, were homogenized on ice using Douncehomogenizer (2 ×10 strokes) in 1 : 10 weight:volume
+Tris buffered saline (20 mM Tris, 137 mM NaCl,
+578 S. Tucker et al. / mAb158 Reduces Brain and CSF A βProtoﬁbrils
+pH 7.6, TBS) containing protease inhibitors (Com-
+plete mini, Roche). The samples were centrifuged at16000 ×g for 1 h and the supernatants were deﬁned as
+TBS extracts. Immunoprecipitations were performedon the TBS extracts using mAb158, BAN2401, ora hIgG1 control antibody (SIGMA, 15154). Anti-bodies were covalently coupled to Tosyl-activatedM280 Dynabeads™ (20 /H9262g antibody/mg Dynabeads)
+according to the manufacturer’s recommendations(Invitrogen). A DynaMag™-2 magnet (Invitrogen)was used in all steps where liquid was separatedfrom beads. All incubations were performed with end-over-end rotation. In brief, coupling was performedovernight at 37
+◦C, followed by blocking with 0.5%
+BSA in D-PBS (1 h at 37◦C). Brain TBS extracts
+(50/H9262l) were diluted by adding 420 /H9262l IP-buffer (D-
+PBS containing 0.1% BSA and 0.5% Tween-20).Antibody-coupled Dynabeads (30 /H9262l) were added to
+the samples and the immunoprecipitation reactionswere allowed to incubate for 2 h at RT. The Dyna-beads were washed 4 ×10 min in IP-buffer followed
+by a ﬁnal rapid wash in D-PBS and careful removalof all liquid. Immunoprecipitated A /H9252was eluted and
+monomerized by adding 20 /H9262l 70% formic acid (FA).
+Aβ
+42ELISA on immunoprecipitated human brain
+samples
+Total soluble A /H925242levels in TBS extracts denatured
+with 70% FA, and in immunoprecipitated samples(eluted in 70% FA), were measured using the high sen-sitive Human/Rat /H9252Amyloid (42) ELISA Kit (Wako).
+Samples were neutralized using 19 parts 1 M Tristo one part denatured/eluted sample. Diluted sampleswere run in duplicate and manufacturer’s protocol wasfollowed.
+Animal treatments
+In a short-term study, 19 (13–14 months old) tg-
+ArcSwe mice [52] were equally distributed in threegroups, treated for four weeks and sacriﬁced 24 h(mAb158) or 7 days (mAb158 and PBS) after the lastinjection. The PBS group and the 24 h group containedtwo female and four male mice, and the group sac-riﬁced 7 days after the last injection contained threefemale and four male mice. In a long-term study, 111(11–13 months old) tg-ArcSwe mice were equally dis-tributed in two groups and treated for 13 weeks. ThePBS group contained 27 females and 28 males, andthe mAb158 treatment group contained 27 femalesand 29 males. Animals were sacriﬁced 7 days afterthe last injection. In both studies, animals received
+weekly intraperitoneal (i.p.) injections of either D-PBS(5 ml/kg) or 10 mg/kg mAb158. Four animals in themAb158-treatment group of the long-term study devel-oped anti-drug antibodies and were excluded from allsubsequent analyses.
+Tissue sampling
+At animal study termination, CSF was collected
+from cisterna magna and immediately frozen ondry ice. The amount of blood contamination of CSFsamples was evaluated by visual inspection and gradedon a scale from zero to two, with zero indicatingno visible blood contamination and two indicatingclearly visible blood contamination. Blood wassampled from the heart and collected in EDTA tubes(BD), and plasma was prepared. The mice were trans-cardially perfused with physiological saline at bodytemperature, brains were collected and after removalof olfactory bulbs and cerebellum, the left hemispherewas immediately frozen on dry ice. The success of theperfusion was assessed by visual inspection and eachbrain was graded on a scale from zero to two, with zeroindicating no visible blood contamination and twoindicating clearly visible blood contamination. Frozenbrains were homogenized on ice using Dounce homo-genizer (2 ×10 strokes) in 1 : 10 weight:volume TBS
+containing protease inhibitors (Complete mini, Roche)followed by either 16000 ×g or 100000 ×g centrifuga-
+tion. The supernatants were deﬁned as TBS extracts.
+mAb158 sandwich ELISA
+The mAb158 sandwich ELISA, previously
+described in [51], speciﬁcally detects A /H9252protoﬁbrils
+[27] without interference from A /H9252monomers or
+mAb158 at levels present in brain TBS extracts fromtg-ArcSwe mice analyzed here. ELISA plates werecoated with 2 /H9262g/ml mAb158 in D-PBS overnight at
++4
+◦C and blocked with 1% BSA in D-PBS for 90 min.
+TBS extracts were incubated in duplicate for 2 h at22
+◦C with shaking (900 rpm), thereafter biotinylated
+mAb158 (0.5 /H9262g/ml) was added and the plates
+were incubated for another hour. Streptavidin-HRP(Mabtech, Sweden 1 : 5000) was used as detectionagent (45 min incubation). Plates were developed withTMB substrate and the reaction was stopped after15 min by the addition of 2 M H
+2SO4. Optical density
+was measured at 450 nm and sample concentrationswere calculated from an A /H9252
+42protoﬁbril standard
+curve using a 4-parameter equation.
+S. Tucker et al. / mAb158 Reduces Brain and CSF A βProtoﬁbrils 579
+82E1 sandwich ELISA
+82E1 is an antibody that detects the N-terminus of /H9252-
+secretase cleaved A /H9252PP. In the 82E1 sandwich ELISA
+described here, 82E1 is used for both capture and detec-tion. Hence, the 82E1 sandwich ELISA detects A /H9252
+oligomers/protoﬁbrils (dimers to protoﬁbrils) withoutbinding A /H9252monomers or interference by mAb158 at
+levels present in CSF from tg-ArcSwe mice analyzedhere (see Supplementary Fig. 4). White 384-well plates(Greiner bio-one) were coated overnight at +4
+◦C with
+0.25/H9262g/ml of 82E1 antibody (IBL, Japan) diluted in
+D-PBS. After blocking in 1% BSA in D-PBS, CSFsamples were diluted 1 : 50 in incubation buffer andadded in duplicate (25 /H9262l/well) and incubation was car-
+ried out overnight at +8
+◦C. Biotinylated 82E1 antibody
+(0.25/H9262g/ml) was added and plates were incubated for
+2 h at RT, followed by detection using streptavidin-HRP, diluted 1 : 4000 (45 min incubation at RT). Plateswere developed with SuperSignal substrate (ThermoScientiﬁc) and luminescence was measured after shak-ing the plate for 1 min. Sample concentrations werecalculated from an A /H9252
+42protoﬁbril standard curve
+using a 4-parameter equation.
+ELISA analysis of mAb158 in plasma and brain
+The levels of mAb158 in TBS brain extracts and
+plasma samples were measured using a direct ELISA.ELISA plates were coated with 0.5 /H9262MA/H9252
+1-40in PBS
+at +4◦C overnight. The ELISA plates were blocked
+with protein-free blocking buffer (Thermo FisherScientiﬁc, USA). Samples were diluted in incuba-tion buffer and incubated on the plate for 90 min.Detection was carried out for 1 h using an HRP-conjugated goat anti-mouse IgG (Southern Biotech,1 : 10000). Plates were developed with TMB substrate(Neogen, USA) and the reaction was stopped after15 min by the addition of 2 M H
+2SO4. Optical density
+was measured at 450 nm and sample concentrationswere calculated from a mAb158 standard curve using a4-parameter equation in the Magellan software (Tecan,Switzerland). The mAb158 levels in TBS extracts wereconverted to nanogram antibody per gram brain tis-sue using a multiplication factor of 10 to account forthe 10-fold dilution that is introduced when the tis-sue is homogenized in TBS. This measurement ofmAb158 does not discriminate between free mAb158or mAb158 potentially bound to A /H9252. Animals with
+a perfusion grade of > 0 were excluded from ELISAanalyses of mAb158 concentration in brain ( n=2
+from short-term study, n= 11 from long-term study),to avoid overestimating the degree of mAb158 brain
+penetrance.
+Analysis of A β
+1-42in mouse brain
+Soluble A /H92521-42was measured in 16000 ×g brain
+TBS extracts from the long-term study that had eitherbeen subjected to denaturation/monomerization byboiling in 1% SDS or had been left untreated (native).ELISA plates were coated with 0.5 /H9262g/ml polyclonal
+rabbit anti-A /H9252
+42(BioArctic Neuroscience, Sweden)
+in D-PBS overnight at +4◦C and blocked with 1%
+BSA in D-PBS for 90 min. TBS extracts were addedin duplicate and incubated for 2 h at RT. Biotinylated82E1 antibody (0.25 /H9262g/ml) was added and plates were
+incubated for 1 h. Plates were developed with TMBsubstrate for 15–30 min and the reaction was stoppedby adding 2 M H
+2SO4.Optical density was measured
+at 450 nm and sample concentrations were calculatedfrom an A /H9252
+42standard curve using a 4-parameter equa-
+tion. This measurement of A /H925242does not discriminate
+between free A /H925242or A/H925242bound to mAb158.
+Statistical analysis
+All statistical analyses were performed using
+GraphPad Prism version 6.02 for Windows (Graph-Pad Software, San Diego, CA, www.graphpad.com).Unpaired two-tailed t-test of mAb158-treated versus
+placebo-treated mice was performed at a signiﬁ-cance level of p< 0.05. Correlation analysis was
+performed using a two-tailed Pearson correlation. One-way ANOV A with Tukey’s multiple comparison testwas performed at a signiﬁcance level of p< 0.05. IC50
+values were computed using non-linear regression withvariable slope (four parameters) of the log (inhibitor)versus normalized response using y= 0 as 0%.
+RESULTS
+BAN2401 and mAb158 bind selectively to A β
+protoﬁbrils analyzed by surface plasmonresonance
+The binding characteristics of BAN2401 and its
+murine version mAb158 were evaluated by SPR. A /H9252
+protoﬁbrils were immobilized on the sensor chip andantibodies passed over the surface to allow the antibod-ies to bind individually to the protoﬁbrils. Since eachantibody will give rise to two linked binding eventsin this setting, a bivalent analyte model was used forevaluation. This model allows for determination of an
+580 S. Tucker et al. / mAb158 Reduces Brain and CSF A βProtoﬁbrils
+Fig. 1. mAb158 and BAN2401 show stronger binding to A /H925242protoﬁbrils than to A /H9252monomers. SPR sensorgrams from mAb158 antibody
+(A) and BAN2401 antibody (B) interactions with A /H925242protoﬁbrils. In the experiments, 80 RU A /H925242protoﬁbril was immobilized on the chip
+surface and 0.78, 1.6, 3.1, 6.3, 13, 25, 50, and 100 nM antibody samples were passed sequentially over the chip surface. The experimental dataare shown in red, while the black curves represent ﬁtting to a bivalent analyte model, assuming two binding events for each molecule. The rateconstants for the initial binding were k
+a1= 5.1×1051/Ms and k d1= 0.0032 1/s for mAb158 and k a1= 6.6×1051/Ms and k d1= 0.0013 1/s for
+BAN2401, calculated from duplicate analyses. The apparent equilibrium dissociation constants, K D1(only taking the ﬁrst interaction of two into
+account), were 6.3 nM for mAb158 and 2.0 nM for BAN2401. SPR sensorgrams from mAb158 (C) and BAN2401 (D) interactions with A /H92521-40
+monomer. In these experiments, 2000 RU antibody was immobilized on the chip surface and 0.061, 0.13, 0.25, 0.5, 1, 2, and 4 /H9262MA/H92521-40
+monomer samples were passed sequentially over the chip surface. The experimental data are shown in red, while the black curves represent
+curve ﬁtting to a 1 : 1 Langmuir binding model. The kinetic constants were calculated from duplicate analysis, for mAb158 k a= 3.6×1041/Ms,
+kd= 0.15 1/s and K D= 4.2/H9262M; and for BAN2401 k a= 3.8×1041/Ms, k d= 0.12 1/s and K D= 3.3/H9262M.
+apparent equilibrium dissociation constant (K D) for the
+ﬁrst interaction. A regular K Dcannot be determined
+since the second binding event is dependent on theﬁrst. However, the apparent K
+Dfor the ﬁrst interac-
+tion (K D1) can be used for approximate comparisons.
+As seen in Fig. 1A (mAb158) and 1B (BAN2401), aslow dissociation from A /H9252protoﬁbrils was observed
+for both antibodies, demonstrating strong binding tothe protoﬁbril. The apparent K
+D(KD1) was found
+to be in the low nanomolar range for both mAb158and BAN2401. As seen in Fig. 1C (mAb158) and 1D(BAN2401), a rapid dissociation of A /H9252monomer was
+observed for both antibodies and the K
+Dwere found to
+be 4.2 and 3.3 /H9262M for mAb158 and BAN2401, respec-
+tively. Although it is not possible to directly comparethe afﬁnities obtained from the different evaluation
+models, it is clear that both antibodies show consid-erably stronger binding to A /H9252protoﬁbrils compared to
+monomeric A /H9252.
+BAN2401 and mAb158 bind selectively to A β
+protoﬁbrils analyzed by inhibition ELISA
+To verify the SPR results, we compared the binding
+characteristics of BAN2401 and mAb158 in solutionusing an inhibition ELISA. The antibodies were incu-bated with A /H9252protoﬁbrils and monomers at increasing
+concentrations in solution. By measuring the amountof unbound antibody present in solution, we achievedan indirect measurement of antibody binding to soluble
+S. Tucker et al. / mAb158 Reduces Brain and CSF A βProtoﬁbrils 581
+Fig. 2. BAN2401 and mAb158 are highly selective for protoﬁb-
+rils over monomers by inhibition ELISA. ELISA plates were coatedwith 0.5 /H9262MA/H9252
+1-40. Binding of BAN2401 or mAb158 to increasing
+concentrations of A /H92521-40monomers (A /H925240)o rA /H925242protoﬁb-
+rils (Protoﬁbrils) were performed in solution, before the mixturewas added to the ELISA plate. Free BAN2401 or mAb158 wasallowed to bind to the plate and detection was performed using anALP-conjugated anti-human IgG antibody for BAN2401 and ALP-conjugated anti-mouse IgG antibody for mAb158. The concentrationof A/H9252
+42protoﬁbrils and A /H92521-40monomers in the inhibition ELISA
+are expressed as nM of monomeric A /H9252(x-axis). Protoﬁbril inhibition
+of binding to the A /H9252coat was pronounced for both BAN2401 and
+mAb158 (IC50 = 1.1 nM for BAN2401/Protoﬁbrils versus 2.6 nMfor mAb158/Protoﬁbrils), while monomer (A /H9252
+40) inhibition of anti-
+body binding to the A /H9252coat was considerably less efﬁcient for both
+BAN2401 and mAb158 (IC50 ∼40000 nM for BAN2401/A /H925240ver-
+sus 20000 nM for mAb158/A /H925240). The IC50 values for monomer
+binding were calculated by extrapolation of the curve.
+protoﬁbrils and monomers. The antigen concentration
+required to inhibit half of the maximum signal in theinhibition ELISA was deﬁned as IC50, which was usedas an estimate of the antibody’s binding preferencefor A/H9252protoﬁbrils or monomers [53]. Both BAN2401
+and mAb158 displayed highly selective binding for A /H9252
+protoﬁbrils over monomeric A /H9252(Fig. 2). Both antibod-
+ies exhibited an IC50 in the low nM range for protoﬁb-rils, while the IC50 for monomer (A /H9252
+1-40) was consid-
+erably higher (IC50 >20000 nM for both antibodies).These results are consistent with data obtained by SPR.
+BAN2401 and mAb158 immunoprecipitate large
+soluble aggregates of A β
+42in AD brains
+To conﬁrm that BAN2401 and mAb158 were able
+to bind to their target in human AD brain, theantibodies were used for immunoprecipitation in16000 ×g brain TBS extracts from ﬁve human
+Fig. 3. BAN2401 and mAb158 successfully immunoprecipitated
+soluble aggregated A /H925242from human AD brain. Immunoprecipi-
+tation was performed using BAN2401 (BAN2401-IP) and mAb158(mAb158-IP) in 16000 ×g TBS extracts from ﬁve human AD brains
+(AD1, AD6, AD10, AD11 and AD19) and one age matched con-trol brain (C12). Total A /H9252
+42levels were measured in the eluted
+immunoprecipitates and in denatured TBS extracts using Wako A /H925242
+ELISA. All soluble A /H925242in the TBS extracts was immunoprecipi-
+tated using both BAN2401 and mAb158, whereas no A /H925242could be
+immunoprecipitated from the control brain (LOD = 0.63 pmol/g).
+AD brains and one age-matched control brain,
+followed by ELISA analysis of A /H925242levels. As
+shown in Fig. 3, complete immunoprecipitation ofthe total soluble A /H9252
+42present in TBS extracts
+was accomplished with mAb158 and BAN2401,as shown by nearly identical levels of A /H9252
+42in
+the eluted immunoprecipitates and the total dena-tured A /H9252
+42levels (30–100 pmol/g) measured in the
+16000 ×g brain TBS extracts. To verify that the efﬁci-
+ency of the immunoprecipitation reaction, the A /H925242
+levels in the supernatants from two of the patients (AD6
+and AD11) were also measured. The supernatants con-tained less than 10% of the total A /H9252
+42measured,
+supporting the conclusion that the vast majority of theA/H9252
+42was immunoprecipitated using BAN2401 and
+mAb158. No A /H9252was immunoprecipitated from the
+control brain by mAb158 or BAN2401 (Fig. 3), andthe human IgG1 control antibody did not immunopre-cipitate A /H9252from any of the samples (data not shown).
+Long-term administration of mAb158 in tg-ArcSwe
+mice reduces A βprotoﬁbril levels in brain and
+CSF
+In order to evaluate whether the protoﬁbril-selective
+mAb158 antibody could bind and clear soluble A /H9252
+protoﬁbrils in vivo , we performed weekly antibody
+administrations to tg-ArcSwe mice for 13 weeks (long-term study) and sacriﬁced the animals 7 days afterthe last injection. A signiﬁcant 42% reduction of
+582 S. Tucker et al. / mAb158 Reduces Brain and CSF A βProtoﬁbrils
+Fig. 4. Long-term treatment with mAb158 reduces A /H9252protoﬁbril levels in brain and CSF of tg-ArcSwe mice. A) A /H9252protoﬁbril (PF) levels in
+16000 ×g TBS brain extracts were measured with the mAb158 sandwich ELISA after long-term treatment with mAb158. A signiﬁcant 42%
+reduction in brain protoﬁbril levels was detected in mice receiving long-term treatment with mAb158, compared to placebo-treated mice ( t-test,
+p< 0.0001). Mice were sacriﬁced 7 days after the last injection. B) A /H9252protoﬁbril/oligomer levels in CSF were measured with the 82E1 sandwich
+ELISA. A signiﬁcant 53% reduction in protoﬁbril/oligomer levels was detected in mAb158-treated mice, compared to placebo-treated mice(t-test, p< 0.0001). C) A highly signiﬁcant correlation was observed between protoﬁbrils in brain and protoﬁbrils/oligomers in CSF (Pearson’s
+rank correlation, p< 0.0001, R
+2= 0.291). Protoﬁbril levels are expressed as molarity of the monomeric A /H92521-42subunit (4.5 kDa) ±SEM.
+brain protoﬁbrils was detected in mAb158-treated
+mice compared to placebo-treated mice (Fig. 4A).To assess the levels of A /H9252protoﬁbrils in CSF, the
+82E1 sandwich ELISA was used to avoid inter-ference from the treatment antibody. This assay dif-fers from the mAb158 sandwich ELISA used for brainprotoﬁbrils in that the 82E1 assay also detects smallersoluble A /H9252species (dimers to protoﬁbrils). A 53%
+reduction of protoﬁbrils/oligomers was detected inCSF from mAb158-treated mice compared to placebo(Fig. 4B). The levels of brain protoﬁbrils and CSFprotoﬁbrils/oligomers in individual tg-ArcSwe micedisplayed a highly signiﬁcant correlation indicating arelationship between protoﬁbrils in the brain and CSFcompartments (Fig. 4C). The treatment effect was alsoevaluated in 100000 ×g brain TBS extracts and was
+similar to the effect observed in the 16000 ×g TBS
+extracts (46% reduction in protoﬁbril levels after long-term treatment with mAb158 compared to placebo,data not shown). This result was consistent with ourprevious ﬁndings [54]. To ensure that these results werenot limited to a transgenic model carrying the Arcticmutation, long-term treatment with mAb158 was per-formed in Tg2576 mice, resulting in a 27% reduction inbrain protoﬁbril levels after treatment with 12 mg/kgmAb158, and a 40% reduction after treatment with24 mg/kg mAb158 (see Supplementary Fig. 6).
+Short-term administration of mAb158 in tg-ArcSwe
+mice reduces A βprotoﬁbril levels in brain and CSF
+To investigate whether shorter treatment duration
+with mAb158 could also clear soluble A /H9252protoﬁbrils
+in tg-ArcSwe mice, we performed weekly antibodyadministrations for 4 weeks (short-term study). Fur-
+ther, the mice were sacriﬁced 24 h or 7 days after thelast injection to allow us to identify potential changes inCSF protoﬁbril levels at two time-points after antibodyadministration. Short-term treatment with mAb158resulted in a signiﬁcant 42% reduction of A /H9252protoﬁb-
+rils in brain TBS extracts from mAb158-treated micesacriﬁced 7 days after the last injection, comparedto placebo-treated mice (Fig. 5A). A trend towardprotoﬁbril reduction was observed in brain of mAb158-treated mice sacriﬁced 24 h after the last injectionand in CSF protoﬁbrils/oligomers of mice sacriﬁcedat 7 days and 24 h, although these reductions did notreach signiﬁcance (Fig. 5B). Consistent with the ﬁnd-ings after long-term treatment, a signiﬁcant correlationwas seen between brain protoﬁbrils and CSF protoﬁb-rils/oligomers after short-term treatment (Fig. 5C). Theprotoﬁbril reductions observed in TBS extracts aftershort-term treatment with mAb158 were veriﬁed withthe 82E1 sandwich ELISA. A 42% reduction in brainprotoﬁbrils/oligomers was observed in mice sacriﬁced24 h after the last injection, and a 48% reduction in micesacriﬁced 7 days after the last injection. The mAb158sandwich ELISA analysis correlated strongly with the82E1 sandwich ELISA analysis in TBS extracts fromthis study ( p< 0.0001, R
+2= 0.923, see Supplementary
+Fig. 5).
+mAb158 reaches the brain and correlates with
+reduced brain protoﬁbril levels in tg-ArcSwe mice
+To verify that mAb158 reached the brain of tg-
+ArcSwe mice, antibody levels in brain and plasmaat the time of sacriﬁce were measured. Long-termtreatment resulted in 0.2% brain penetrance of
+S. Tucker et al. / mAb158 Reduces Brain and CSF A βProtoﬁbrils 583
+Fig. 5. Short-term treatment with mAb158 reduces A /H9252protoﬁbril levels in brain and CSF of tg-ArcSwe mice. A) A /H9252protoﬁbril (PF) levels
+in 16000 ×g TBS brain extracts from tg-ArcSwe mice after short-term treatment with mAb158 sacriﬁced 24 h or 7 days (7 d) after the last
+injection were measured with the mAb158 sandwich ELISA. A signiﬁcant 42% reduction in protoﬁbrils was detected in mAb158-treatedmice sacriﬁced 7 days after the last injection, compared to PBS-treated mice (also sacriﬁced 7 days after the last injection, one-way ANOV Ap= 0.0076, followed by Tukey’s multiple comparison test). A trend towards reduction in brain protoﬁbrils was observed 24 h after the last
+mAb158 injection, but this reduction was non-signiﬁcant. B) A /H9252protoﬁbril/oligomer levels in CSF were measured with the 82E1 sandwich
+ELISA. A trend towards reduction in protoﬁbril/oligomer levels was detected in mAb158-treated mice, compared to untreated mice, but thisreduction did not reach signiﬁcance (one-way ANOV A p= 0.054). C) A highly signiﬁcant correlation was observed between protoﬁbrils in
+brain and protoﬁbrils/oligomers in CSF ( p= 0.031, R
+2= 0.331). Protoﬁbril levels are expressed as molarity of the monomeric A /H92521-42subunit
+(4.5 kDa) ±SEM.
+Fig. 6. mAb158 reaches the brain and correlates with reduced protoﬁbril levels in tg-ArcSwe mice. mAb158 levels in plasma and brain
+(TBS extracts) were measured by ELISA. Brain samples with remaining blood contamination after PBS perfusion (by visual inspection)were excluded from analysis. Brain protoﬁbril levels (mean: 5.2 ±1.6 pmol/g) correlated negatively with brain mAb158 concentrations (mean:
+197.3±165.9 ng/g) in tg-ArcSwe mice that had received long-term treatment with mAb158 (Pearson’s rank correlation, p= 0.005, R
+2= 0.203,
+A), and in tg-ArcSwe mice that had received short-term treatment with mAb158 (mean brain protoﬁbril levels 6.8 ±2.3 pmol/g, mean brain
+mAb158 concentrations 174.4 ±113.1 ng/g, Pearson’s rank correlation, p= 0.018, R2= 0.445, B). The dotted line in A and B indicates the
+average protoﬁbril level of the placebo-treated groups in each respective study (8.8 pmol/g protoﬁbrils in A and 10.4 pmol/g protoﬁbrils inB). Brain penetrance from the plasma compartment was calculated by dividing brain mAb158 concentration (mAb158 concentration per grambrain tissue) by plasma mAb158 concentration (mAb158 concentration per milliliter plasma), assuming a density of 1 g/ml for both plasmaand brain, as previously reported [68]. For animals that had received long-term treatment with mAb158, brain penetrance was 197.3 ng/g /99000 ng/ml = 0.2% at the time of sacriﬁce. For animals that had received short-term treatment with mAb158, brain penetrance was 168.2 ng/ml/ 156833 ng/ml = 0.1% for the group sacriﬁced 24 h after the last injection and 180.7 ng/g / 79857 ng/ml = 0.2% for the group sacriﬁced 7 daysafter the last injection.
+mAb158 from the plasma compartment in samples
+taken 7 days post-dosing. The brain levels of mAb158showed a signiﬁcant negative correlation with thelevels of brain protoﬁbrils, suggesting an exposure-dependent relationship (Fig. 6A). In the short-termstudy, the brain penetrance from the plasma compart-ment was 0.1% in the 24 h group and 0.2% in the 7-daygroup, and also here a strong negative correlation wasseen between brain levels of mAb158 and protoﬁbrils
+(Fig. 6B).
+Long-term treatment with mAb158 reduces soluble
+aggregated A βlevels in brain
+To determine whether treatment with mAb158
+affected total brain levels of A /H9252
+42, we measured A /H925242
+584 S. Tucker et al. / mAb158 Reduces Brain and CSF A βProtoﬁbrils
+Fig. 7. Long-term treatment with mAb158 reduces SDS-denatured
+A/H92521-42levels in brain from tg-ArcSwe mice. A /H92521-42levels were
+measured in 16000 ×g brain TBS extracts by ELISA after boiling in
+1% SDS (+SDS) or in the absence of SDS pre-treatment (-SDS). Asigniﬁcant 29% reduction in SDS-denatured A /H9252
+1-42was detected in
+the mice that received mAb158, compared to placebo-treated mice(t-test, p< 0.001). No treatment effect on native monomeric A /H9252
+1-42
+levels (-SDS) was found.
+by ELISA in native 16000 ×g TBS extracts and in
+16000 ×g TBS extracts that had been boiled in 1%
+SDS. As this SDS pre-treatment denatures aggregatedA/H9252species and can also dissociate other types of A /H9252-
+protein interactions, it allows us to measure total A /H9252
+42
+in the brain. In native TBS extracts, monomeric A /H9252
+species would be detected in this ELISA. A signiﬁcant29% reduction of total A /H9252
+42in SDS-denatured TBS
+extracts was observed in mice that had received long-term treatment with mAb158 compared to placebo(Fig. 7). Notably, in native TBS extracts, no changein monomeric A /H9252
+42could be found after mAb158-
+treatment. Taken together, these results indicate thespeciﬁc ability of mAb158 to selectively bind andreduce soluble A /H9252protoﬁbrils in vitro and in vivo , with
+minimal binding to native A /H9252monomers.
+DISCUSSION
+Here, we demonstrate that both BAN2401 and its
+murine version, mAb158, exhibit high selectivity forsoluble A /H9252protoﬁbrils over A /H9252monomers. Further,
+we provide evidence that the A /H9252protoﬁbril target of
+these antibodies is present in brains from AD patients.We have also used mAb158 for long- and short-termtreatment of tg-ArcSwe mice, and found that mAb158reaches the brain from the plasma compartment andthat the treatment leads to reduced levels of soluble A /H9252
+protoﬁbrils in brain extracts in an exposure-dependentmanner. Importantly, we demonstrate that the reduc-tion of brain protoﬁbrils in tg-ArcSwe mice wasmirrored by a reduction of protoﬁbrils/oligomers inCSF, indicating the use of CSF protoﬁbrils/oligomers
+as a biomarker for treatment effect. To our know-ledge, this is the ﬁrst report of a correlation betweenA/H9252protoﬁbrils in brain and CSF.
+Interestingly, near complete immunoprecipitation of
+the total A /H9252
+42found in TBS extracts from AD patients
+was achieved with the protoﬁbril-selective antibodiesmAb158 and BAN2401. This suggests that the majori-ty of the soluble A /H9252
+42species found in TBS extracts
+are in the form of soluble aggregates. Similarly, whensubjecting brain TBS extracts from tg-ArcSwe miceto denaturation by boiling in 1% SDS, the majorityof the soluble pool of A /H9252
+42in these brain extracts
+were found to be in aggregated form. These results areconsistent with the ﬁndings of Sehlin and colleagueswho found that most A /H9252in soluble brain extracts from
+AD patients and tg-ArcSwe mice were high molecularweight species matching the size of the 80–500 kDasynthetic A /H9252protoﬁbrils [27]. mAb158 displayed a
+treatment effect on total A /H9252
+1-42in SDS-denatured
+brain extracts from tg-ArcSwe mice, but not on thelow levels of monomeric A /H9252in native TBS extracts,
+supporting the conclusion that the in vivo target is
+large soluble aggregated forms of A /H9252
+42. However,
+one potential caveat to these experiments is that de-naturation of TBS brain extracts could dissociate otherA/H9252-protein complexes or release A /H9252bound to mem-
+branes, thereby increasing the levels of monomeric A /H9252
+available for detection by the A /H9252
+42ELISA. Further
+characterization is necessary to conclusively prove thatthe majority of soluble brain A /H9252
+42consists of aggre-
+gated species.
+In both the long-term and the short-term mAb158
+treatment studies in tg-ArcSwe mice, a signiﬁcanttreatment effect on brain protoﬁbrils was found, andthis effect correlated to brain mAb158 concentrationsuggesting an exposure-dependent treatment effect. Astrong treatment effect on brain protoﬁbril levels couldbe observed after long- and short-term treatment inthe subgroup sacriﬁced 7 days after the last injection.Ideally, a non-selective, A /H9252-speciﬁc control antibody
+(such as 6E10) would have been used for comparison inthese studies. A previous study has compared preven-tive treatment with mAb158 to 1C3, a non-protoﬁbrilselective antibody that binds the N-terminus of A /H9252,
+in tg-ArcSwe mice. This study resulted in signiﬁcantreductions in brain protoﬁbril levels using mAb158,but not 1C3 [54]. In addition to the brain protoﬁbrilclearance, a reduction in CSF protoﬁbrils that corre-lated to brain protoﬁbrils was observed in the long-termstudy. However, a trend toward brain and CSF protoﬁb-ril reductions could be shown in the subgroup of mice
+S. Tucker et al. / mAb158 Reduces Brain and CSF A βProtoﬁbrils 585
+that had received short-term treatment and was sac-
+riﬁced 24 h after the last injection. It is possible thatadministration of mAb158 for 4 weeks is near thethreshold of the exposure level or the time neces-sary to robustly clear protoﬁbrils from brain and CSF.Nonetheless, the consistent correlations between brainand CSF protoﬁbril levels observed in both studiesshown here provide a compelling case for a relationshipbetween A /H9252protoﬁbrils in brain and CSF, at least in the
+tg-ArcSwe mouse model. Since soluble A /H9252oligomers
+and protoﬁbrils may be upstream from neurodegenera-tion and plaque formation [18–20, 55], early treatmentcould be pivotal to disease intervention. Therefore, abiomarker such as A /H9252protoﬁbrils in CSF would be
+of importance both to monitor treatment response andassist with early diagnosis of AD patients.
+There is increasing interest in antibodies that bind
+oligomeric forms of A /H9252, and a number of other groups
+are developing oligomer-binding antibodies for use inAD immunotherapy studies [38, 56–59]. The bind-ing characteristics and selectivity of these antibodiescould be instrumental both to the safety proﬁle andthe ability to selectively clear the correct target. It ischallenging to determine antibody binding afﬁnitiesfor various A /H9252aggregates. In our experience, antibody
+binding to various conformational states of A /H9252can
+change when these A /H9252species are adhered to a sub-
+strate, such as in immunoblot and dot blot. Therefore,antibody binding to oligomeric forms of A /H9252is best
+performed in solution, where it is possible to discrim-inate between different forms of A /H9252. Although many
+of the antibodies under development are suggested tobind oligomers, the nature of their binding characteris-tics is still largely unclear. PFA1, a protoﬁbril-bindingantibody, has been shown to react to protoﬁbrils butalso to ﬁbrils by SPR and competition ELISA, and tooligomers and monomers by immunoblot [58, 60]. Thenon-ﬁbrillar oligomer-speciﬁc antibodies describedby Kayed and Rasool and colleagues [38, 61] aredescribed as oligomer-speciﬁc but are primarily char-acterized by dot blot and immunoblot. The MABTantibody (crenezumab) described by Adolfssonet al. [59] has been shown to bind A /H9252
+42monomers,
+oligomers, and ﬁbrils by ELISA, but it is unclearwhether the antibody interaction with these A /H9252species
+occurs in solution. A-887755 is an oligomer-speciﬁcA/H9252antibody generated against A /H9252
+20-42globulomers
+[56]. This antibody is shown to recognize an SDS-stable pool of oligomers in brain extracts from ADpatients and transgenic mice, but the antibody bindingcharacterization comparing its binding to monomersand ﬁbrils is performed by dot blot. The binding ofgantenerumab, an antibody generated utilizing phage
+display, was characterized by SPR and this antibodybinds A /H9252ﬁbrils and oligomers with slightly higher
+afﬁnity over A /H9252monomers [57]. The mAb158 and
+BAN2401 antibodies have approximately 1000-foldhigher selectivity for A /H9252protoﬁbrils over monomers
+in solution across different experimental platforms,which has not been shown, to our knowledge, byother groups. Further, binding studies performed byMagnusson et al. [62] have shown that mAb158 dis-plays approximately three-fold higher binding afﬁnityto A/H9252protoﬁbrils over ﬁbrils, and when saturated this
+binding was 10–15 fold higher for protoﬁbrils overﬁbrils. This group has also shown diffuse binding ofradiolabeled mAb158 in brain parenchyma, suggest-ing that the primary target of this antibody is solubleprotoﬁbrils.
+Many of the oligomer-binding antibodies mentioned
+here have shown amyloid plaque clearance [38, 57, 59]as well as improved performance in memory-relatedtasks in transgenic mouse models of AD [38, 56, 59].We have not yet evaluated the effect of mAb158-treatment on memory-related tasks in the tg-ArcSwemouse model, however, it would be of great interest tostudy whether amelioration of cognitive impairmentcan be achieved in the absence of plaque clearanceas previously observed by Dodart et al. and Kotilineket al. [16, 17]. mAb158 has previously been shown toinhibit ﬁbril formation in vitro [54], and when admini-
+stered preventively to tg-ArcSwe mice prior to amyloidplaque onset, plaque formation was inhibited. Thesedata suggest that sustained clearance of protoﬁbrils canprevent plaque formation. However, when mAb158was administered to tg-ArcSwe mice after amyloidplaque onset, reduced protoﬁbril levels were observedbut this reduction was not accompanied by signiﬁ-cant changes in amyloid plaque burden in this modelof early-onset AD [54]. There is some data to sug-gest that antibodies targeting amyloid plaques may beassociated with microhemorrhage and could increasecerebral amyloid angiopathy [63–67]. We hypothe-size that an antibody that is selective for protoﬁbrilswith minimal monomer or A /H9252PP binding [51] has a
+higher possibility of reaching and clearing its targetwhen not competing with monomeric A /H9252species in
+plasma or brain. The selectivity of mAb158/BAN2401for A /H9252protoﬁbrils over amyloid plaques and A /H9252
+monomers could contribute to a favorable safety pro-ﬁle of BAN2401 in the clinic, and data from an earlyclinical study of BAN2401 in AD patients have indi-cated that this antibody is well tolerated and associatedwith a beneﬁcial safety proﬁle [49].
+586 S. Tucker et al. / mAb158 Reduces Brain and CSF A βProtoﬁbrils
+In summary, we have conﬁrmed that mAb158 and
+BAN2401 selectively bind to the toxic soluble A /H9252
+protoﬁbrils with high preferential binding comparedto soluble monomers. We have shown target engage-ment of mAb158 after treatment of transgenic mice,and seen an effect of treatment in terms of reducedlevels of protoﬁbrils in brain and CSF. A clinicallyrelevant biomarker of AD is of importance for a di-sease modifying treatment in AD patients, and CSFA/H9252protoﬁbrils could potentially ﬁll that function.
+BAN2401 has undergone a full phase 1 developmentand is currently being evaluated in clinical phase 2b(Lannfelt et al., unpublished). The unique target pro-ﬁle of this antibody offers a novel approach for A /H9252
+immunotherapy which will hopefully provide a suc-cessful treatment for AD.
+ACKNOWLEDGMENTS
+We would like to thank our colleagues at BioArctic
+Neuroscience for their innovative work and speciﬁ-cally to Charlotte Nerelius for helpful feedback onthis manuscript. We would also like to thank EisaiInc. Ltd and the team at Uppsala University MolecularGeriatrics/Rudbeck Laboratory for a fruitful collabo-ration. Lars Lannfelt and P ¨ar Gellerfors are founders
+of BioArctic Neuroscience. Gunilla Osswald is CEOand Christer M ¨oller is CSO. Andrew Satlin is Head of
+Clinical Development for Neuroscience and GeneralMedicine at Eisai. All other authors are employees ofBioArctic Neuroscience and ﬁnancial support for thisresearch is provided by BioArctic Neuroscience.
+Authors’ disclosures available online (http://www.j-
+alz.com/disclosures/view.php?id=2401).
+SUPPLEMENTARY MATERIAL
+The supplementary material is available in the elec-
+tronic version of this article: http://dx.doi.org/10.3233/JAD-140741.
+REFERENCES
+[1] Golde T, Eckman CB, Younkin SG (2000) Biochemical
+detection of Abeta isoforms: Implications for pathogenesis,diagnosis, and treatment of Alzheimer’s disease. Biochim Bio-
+phys Acta 1502 , 172-187.
+[2] Walsh DM, Teplow DB (2012) Alzheimer’s disease and the
+amyloid beta-protein. Prog Mol Biol Transl Sci 107, 101-124.
+[3] Jarrett JT, Berger EP, Lansbury PT Jr (1993) The C-terminus
+of the beta protein is critical in amyloidogenesis. Ann N Y
+Acad Sci 695, 144-148.
+[4] Jarrett JT, Berger EP, Lansbury PT Jr (1993) The carboxy
+terminus of the beta amyloid protein is critical for the seedingof amyloid formation: Implications for the pathogenesis of
+Alzheimer’s disease. Biochemistry 32, 4693-4697.
+[5] Katzman R, Terry R, DeTeresa R, Brown T, Davies P, Fuld P,
+Renbing X, Peck A (1988) Clinical, pathological, and neuro-chemical changes in dementia: A subgroup with preservedmental status and numerous neocortical plaques. Ann Neurol
+23, 138-144.
+[6] Terry RD, Masliah E, Salmon DP, Butters N, DeTeresa R,
+Hill R, Hansen LA, Katzman R (1991) Physical basis ofcognitive alterations in Alzheimer’s disease: Synapse loss isthe major correlate of cognitive impairment. Ann Neurol 30,
+572-580.
+[7] Hartley DM, Walsh DM, Ye CP, Diehl T, Vasquez S, Vassilev
+PM, Teplow DB, Selkoe DJ (1999) Protoﬁbrillar intermedi-ates of amyloid beta-protein induce acute electrophysiologicalchanges and progressive neurotoxicity in cortical neurons. J
+Neurosci 19, 8876-8884.
+[8] Walsh DM, Klyubin I, Fadeeva JV , William K, Cullen W,
+Anwyl R, Wolfe MS, Rowan MJ, Selkoe DJ (2002) Naturallysecreted oligomers of the Alzheimer amyloid beta-proteinpotently inhibit hippocampal long-term potentiation in vivo .
+Nature 416, 535-539.
+[9] Klyubin I, Walsh DM, Cullen WK, Fadeeva JV , Anwyl R,
+Selkoe DJ, Rowan MJ (2004) Soluble Arctic amyloid betaprotein inhibits hippocampal long-term potentiation in vivo .
+Eur J Neurosci 19, 2839-2846.
+[10] Whalen BM, Selkoe DJ, Hartley DM (2005) Small non-
+ﬁbrillar assemblies of amyloid beta-protein bearing the Arcticmutation induce rapid neuritic degeneration. Neurobiol Dis
+20, 254-266.
+[11] Townsend M, Shankar GM, Mehta T, Walsh DM, Selkoe DJ
+(2006) Effects of secreted oligomers of amyloid beta-proteinon hippocampal synaptic plasticity: A potent role for trimers.J Physiol 572, 477-492.
+[12] Knobloch M, Farinelli M, Konietzko U, Nitsch RM, Mansuy
+IM (2007) Abeta oligomer-mediated long-term potentiationimpairment involves protein phosphatase 1-dependent mech-anisms. J Neurosci 27, 7648-7653.
+[13] Lacor PN, Buniel MC, Furlow PW, Clemente AS, Velasco
+PT, Wood M, Viola KL, Klein WL (2007) Abeta oligomer-induced aberrations in synapse composition, shape, anddensity provide a molecular basis for loss of connectivity inAlzheimer’s disease. J Neurosci 27, 796-807.
+[14] Shankar GM, Bloodgood BL, Townsend M, Walsh DM,
+Selkoe DJ, Sabatini BL (2007) Natural oligomers of theAlzheimer amyloid-beta protein induce reversible synapseloss by modulating an NMDA-type glutamate receptor-dependent signaling pathway. J Neurosci 27, 2866-2875.
+[15] O’Nuallain B, Freir DB, Nicoll AJ, Risse E, Ferguson N,
+Herron CE, Collinge J, Walsh DM (2010) Amyloid beta-protein dimers rapidly form stable synaptotoxic protoﬁbrils.J Neurosci 30, 14411-14419.
+[16] Dodart JC, Bales KR, Gannon KS, Greene SJ, DeMattos RB,
+Mathis C, DeLong CA, Wu S, Wu X, Holtzman DM, PaulSM (2002) Immunization reverses memory deﬁcits withoutreducing brain Abeta burden in Alzheimer’s disease model.Nat Neurosci 5, 452-457.
+[17] Kotilinek LA, Bacskai B, Westerman M, Kawarabayashi
+T, Younkin L, Hyman BT, Younkin S, Ashe KH (2002)Reversible memory loss in a mouse transgenic model ofAlzheimer’s disease. J Neurosci 22, 6331-6335.
+[18] Lue L-F, Kuo Y-M, Roher AE, Brachova L, Shen Y , Sue L,
+Beach T, Kurth JH, Rydel RE, Rogers J (1999) Soluble amy-loid/H9252peptide concentration as a predictor of synaptic change
+in Alzheimer’s disease. Am J Pathol 155, 853-862.
+S. Tucker et al. / mAb158 Reduces Brain and CSF A βProtoﬁbrils 587
+[19] McLean C, Cherny R, Fraser F, Fuller S, Smith M, Beyreuther
+K, Bush A, Masters C (1999) Soluble pool of Abeta amyloid asa determinant of severity of neurodegeneration in Alzheimer’sdisease. Ann Neurol 46, 860-866.
+[20] Wang J, Dickson DW, Trojanowski JQ, Lee VM (1999) The
+levels of soluble versus insoluble brain Abeta distinguishAlzheimer’s disease from normal and pathologic aging. Exp
+Neurol 158, 328-337.
+[21] Ancolio K, Dumanchin C, Barelli H, Warter JM, Brice A,
+Campion D, Frebourg T, Checler F (1999) Unusual pheno-typic alteration of beta amyloid precursor protein (betaAPP)maturation by a new Val-715 –>Met betaAPP-770 muta-tion responsible for probable early-onset Alzheimer’s disease.Proc Natl Acad Sc iUSA 96, 4119-4124.
+[22] Nilsberth C, Westlind-Danielsson A, Eckman CB, Condron
+MM, Axelman K, Forsell C, Stenh C, Luthman J, Teplow DB,Younkin SG, N ¨aslund J, Lannfelt L (2001) The ‘Arctic’ APP
+mutation (E693G) causes Alzheimer’s disease by enhancedAbeta protoﬁbril formation. Nat Neurosci 4, 887-893.
+[23] Lashuel HA, Hartley DM, Petre BM, Wall JS, Simon MN,
+Walz T, Lansbury PT (2003) Mixtures of wild-type and apathogenic (E22G) form of A /H925240in vitro accumulate protoﬁb-
+rils, including amyloid pores. J Mol Biol 332, 795-808.
+[24] Johansson AS, Berglind-Dehlin F, Karlsson G, Edwards
+K, Gellerfors P, Lannfelt L (2006) Physiochemical charac-terization of the Alzheimer’s disease-related peptides Abeta1-42Arctic and Abeta 1-42wt. FEBS J 273, 2618-2630.
+[25] Sch ¨oll M, Wall A, Thordardottir S, Ferreira D, Bogdanovic N,
+L˚angstr ¨om B, Almkvist O, Graff C, Nordberg A (2012) Low
+PiB PET retention in presence of pathologic CSF biomarkersin Arctic APP mutation carriers. Neurology 79, 229-236.
+[26] Walsh DM, Hartley DM, Kusumoto Y , Fezoui Y , Lomakin
+A, Benedek GB, Condron MM, Teplow DB (1997) Amyloidbeta-protein ﬁbrillogenesis. J Biol Chem 272, 22364-22372.
+[27] Sehlin D, Englund H, Simu B, Karlsson M, Ingelsson M,
+Nikolajeff F, Lannfelt L, Ekholm Pettersson F (2012) Largeaggregates are the major soluble Abeta species in AD brainfractionated with density gradient ultracentrifugation. PloS
+One 7, e32014.
+[28] Lord A, Englund H, S ¨oderberg L, Tucker S, Clausen F,
+Hillered L, Gordon M, Morgan D, Lannfelt L, Ekholm Petters-son F, Nilsson LNG (2009) Amyloid-beta protoﬁbril levelscorrelate with spatial learning in Arctic Alzheimer’s diseasetransgenic mice. FEBS J 276, 995-1006.
+[29] May PC, Dean RA, Lowe SL, Martenyi F, Sheehan SM, Boggs
+LN, Monk SA, Mathes BM, Mergott DJ, Watson BM, StoutSL, Timm DE, Smith Labell E, Gonzales CR, Nakano M,Jhee SS, Yen M, Ereshefsky L, Lindstrom TD, Calligaro DO,Cocke PJ, Greg Hall D, Friedrich S, Citron M, Audia JE(2011) Robust central reduction of amyloid-beta in humanswith an orally available, non-peptidic beta-secretase inhibitor.J Neurosci 31, 16507-16516.
+[30] D’Onofrio G, Panza F, Frisardi V , Solfrizzi V , Imbimbo BP,
+Paroni G, Cascavilla L, Seripa D, Pilotto A (2012) Advancesin the identiﬁcation of gamma-secretase inhibitors for thetreatment of Alzheimer’s disease. Expert Opin Drug Discov
+7, 19-37.
+[31] Cai J, Qi X, Kociok N, Skosyrski S, Emilio A, Ruan Q, Han
+S, Liu L, Chen Z, Bowes Rickman C, Golde T, Grant MB,Saftig P, Serneels L, de Strooper B, Joussen AM, BoultonME (2012) beta-Secretase (BACE1) inhibition causes retinalpathology by vascular dysregulation and accumulation of agepigment. EMBO Mol Med 4, 980-991.
+[32] Willem M, Garratt AN, Novak B, Citron M, Kaufmann S,
+Rittger A, DeStrooper B, Saftig P, Birchmeier C, Haass C(2006) Control of peripheral nerve myelination by the beta-
+secretase BACE1. Science 314, 664-666.
+[33] Schenk D, Barbour R, Dunn W, Gordon G, Grajeda H, Guido
+T, Hu K, Huang J, Johnson-Wood K, Khan K, KholodenkoD, Lee M, Liao Z, Lieberburg I, Motter R, Mutter L, SorianoF, Shopp G, Vasquez N, Vandevert C, Walker S, Wogulis M,Yednock T, Games D, Seubert P (1999) Immunization withamyloid-beta attenuates Alzheimer-disease-like pathology inthe PDAPP mouse. Nature 400, 173-177.
+[34] Bard F, Cannon C, Barbour R, Burke RL, Games D, Gra-
+jeda H, Guido T, Hu K, Huang J, Johnson-Wood K, Khan K,Kholodenko D, Lee M, Lieberburg I, Motter R, Nguyen M,Soriano F, Vasquez N, Weiss K, Welch B, Seubert P, SchenkD, Yednock T (2000) Peripherally administered antibodiesagainst amyloid beta-peptide enter the central nervous sys-tem and reduce pathology in a mouse model of Alzheimerdisease. Nat Med 6, 916-919.
+[35] Janus C, Pearson J, McLaurin J, Mathews PM, Jiang Y ,
+Schmidt SD, Chishti MA, Horne P, Heslin D, French J,Mount HT, Nixon RA, Mercken M, Bergeron C, Fraser PE, StGeorge-Hyslop P, Westaway D (2000) Abeta peptide immu-nization reduces behavioural impairment and plaques in amodel of Alzheimer’s disease. Nature 408, 979-982.
+[36] Morgan D, Diamond DM, Gottschall PE, Ugen KE, Dickey
+C, Hardy J, Duff K, Jantzen P, DiCarlo G, Wilcock D, ConnorK, Hatcher J, Hope C, Gordon M, Arendash GW (2000) Abetapeptide vaccination prevents memory loss in an animal modelof Alzheimer’s disease. Nature 408, 982-985.
+[37] DeMattos RB, Bales KR, Cummins DJ, Dodart JC, Paul SM,
+Holtzman DM (2001) Peripheral anti-Abeta antibody altersCNS and plasma Abeta clearance and decreases brain Abetaburden in a mouse model of Alzheimer’s disease. Proc Natl
+Acad Sc iUSA 98, 8850-8855.
+[38] Rasool S, Martinez-Coria H, Wu JW, LaFerla F, Glabe CG
+(2013) Systemic vaccination with anti-oligomeric mono-clonal antibodies improves cognitive function by reducingAbeta deposition and tau pathology in 3xTg-AD mice. J Neu-
+rochem 126, 473-482.
+[39] Zago W, Buttini M, Comery TA, Nishioka C, Gardai SJ,
+Seubert P, Games D, Bard F, Schenk D, Kinney GG (2012)Neutralization of soluble, synaptotoxic amyloid beta speciesby antibodies is epitope speciﬁc. J Neurosci 32, 2696-2702.
+[40] Orgogozo JM, Gilman S, Dartigues JF, Laurent B, Puel M,
+Kirby LC, Jouanny P, Dubois B, Eisner L, Flitman S, MichelBF, Boada M, Frank A, Hock C (2003) Subacute menin-goencephalitis in a subset of patients with AD after Abeta42immunization. Neurology 61, 46-54.
+[41] Vellas B, Black R, Thal LJ, Fox NC, Daniels M, McLen-
+nan G, Tompkins C, Leibman C, Pomfret M, GrundmanM (2009) Long-term follow-up of patients immunized withAN1792: Reduced functional decline in antibody responders.Curr Alzheimer Res 6, 144-151.
+[42] Hock C, Konietzko U, Streffer JR, Tracy J, Signorell A,
+Muller-Tillmanns B, Lemke U, Henke K, Moritz E, GarciaE, Wollmer MA, Umbricht D, de Quervain DJ, HofmannM, Maddalena A, Papassotiropoulos A, Nitsch RM (2003)Antibodies against beta-amyloid slow cognitive decline inAlzheimer’s disease. Neuron 38, 547-554.
+[43] Lannfelt L, Relkin NR, Siemers ER (2014) Amyloid-beta
+directed immunotherapy for Alzheimer’s disease. J Intern
+Med 275, 284-295.
+[44] Monsonego A, Imitola J, Zota V , Oida T, Weiner HL (2003)
+Microglia-mediated nitric oxide cytotoxicity of T cells follow-ing amyloid beta-peptide presentation to Th1 cells. J Immunol
+171, 2216-2224.
+588 S. Tucker et al. / mAb158 Reduces Brain and CSF A βProtoﬁbrils
+[45] An Z (2010) Monoclonal antibodie s - a proven and rapidly
+expanding therapeutic modality for human diseases. Protein
+Cell 1, 319-330.
+[46] Blennow K, Zetterberg H, Rinne J, Salloway S, Wei J, Black
+R, Grundman M, Liu E (2012) Effect of immunotherapywith bapineuzumab on cerebrospinal ﬂuid biomarker levelsin pateints with mild to moderate Alzheimer disease. Arch
+Neurol 69, 1002-1010.
+[47] Rinne J, Brooks D, Rossor M, Fox N, Bullock R, Klunk W,
+Mathis C, Blennow K, Barakos J, Okello A, Rodriguez Mar-tinez de Liano S, Liu E, Koller M, Gregg K, Schenk D, BlackR, Grundman M (2010) 11C-PiB PET assessment of change inﬁbrillar amyloid-beta load in patients with Alzheimer’s dis-ease treated with bapineuzumab: A phase 2, double-blind,placebo-controlled, ascending dose study. Lancet Neurol 9,
+363-372.
+[48] Lobello K, Ryan JM, Liu E, Rippon G, Black R (2012) Tar-
+geting beta-amyloid: A clinical review of immunotherapeuticapproaches in Alzheimer’s disease. Int J Alzheimers Dis 2012 ,
+628070.
+[49] Lannfelt L, M ¨oller C, Basun H, Osswald G, Sehlin D, Satlin
+A, Logovinsky V , Gellerfors P (2014) Perspectives on futureAlzheimer therapies: Amyloid-beta protoﬁbril s–an e wt a r g e t
+for immunotherapy with BAN2401 in Alzheimer’s disease.Alzheimers Res Ther 6, 16.
+[50] Salloway S, Sperling R, Fox NC, Blennow K, Klunk W,
+Raskind M, Sabbagh M, Honig LS, Porsteinsson AP, Ferris S,Reichert M, Ketter N, Nejadnik B, Guenzler V , MiloslavskyM, Wang D, Lu Y , Lull J, Tudor IC, Liu E, GrundmanM, Yuen E, Black R, Brashear HR, Bapineuzumab, Clini-cal Trial I (2014) Two phase 3 trials of bapineuzumab inmild-to-moderate Alzheimer’s disease. N Engl J Med 370,
+322-333.
+[51] Englund H, Sehlin D, Johansson AS, Nilsson LN, Gellerfors
+P, Paulie S, Lannfelt L, Pettersson FE (2007) Sensitive ELISAdetection of amyloid-beta protoﬁbrils in biological samples.J Neurochem 103, 334-345.
+[52] Lord A, Kalimo H, Eckman CB, Zhang X-Q, Lannfelt L,
+Nilsson LNG (2006) The Arctic Alzheimer mutation facili-tates early intraneuronal Abeta aggregation and senile plaqueformation in transgenic mice. Neurobiol Aging 27, 67-77.
+[53] Neri D, Montigiani S, Kirkham PM (1996) Biophysical
+methods for the determination of antibody-antigen afﬁnities.Trends Biotechnol 14, 465-470.
+[54] Lord A, Gumucio A, Englund H, Sehlin D, Screpanti
+Sundquist V , S ¨oderberg L, M ¨oller C, Gellerfors P, Lannfelt L,
+Ekholm Pettersson F, Nilsson LNG (2009) An amyloid-betaprotoﬁbril-selective antibody prevents amyloid formation ina mouse model of Alzheimer’s disease. Neurobiol Dis 36,
+425-434.
+[55] N ¨aslund J, Haroutunian V , Mohs R, Davis KL, Davies P,
+Greengard P, Buxbaum J (2000) Correlation between ele-vated levels of amyloid beta-peptide in the brain and cognitivedecline. JAMA 283, 1571-1577.
+[56] Hillen H, Barghorn S, Striebinger A, Labkovsky B, Muller
+R, Nimmrich V , Nolte MW, Perez-Cruz C, van der AuweraI, van Leuven F, van Gaalen M, Bespalov AY , SchoemakerH, Sullivan JP, Ebert U (2010) Generation and therapeuticefﬁcacy of highly oligomer-speciﬁc beta-amyloid antibodies.J Neurosci 30, 10369-10379.
+[57] Bohrmann B, Baumann K, Benz J, Gerber F, Huber W,
+Knoﬂach F, Messer J, Oroszlan K, Rauchenberger R, RichterWF, Rothe C, Urban M, Bardroff M, Winter M, NordstedtC, Loetscher H (2012) Gantenerumab: A novel human anti-Abeta antibody demonstrates sustained cerebral amyloid-betabinding and elicits cell-mediated removal of human amyloid-
+beta. J Alzheimers Dis 28, 49-69.
+[58] Minami SS, Sidahmed E, Aid S, Shimoji M, Niikura T, Moc-
+chetti I, Rebeck GW, Prendergast JS, Dealwis C, Wetzel R,Bosetti F, Matsuoka Y , Hoe HS, Turner RS (2010) Therapeu-tic versus neuroinﬂammatory effects of passive immunizationis dependent on Abeta/amyloid burden in a transgenic mousemodel of Alzheimer’s disease. J Neuroinﬂammation 7, 57.
+[59] Adolfsson O, Pihlgren M, Toni N, Varisco Y , Buccarello AL,
+Antoniello K, Lohmann S, Piorkowska K, Gafner V , AtwalJK, Maloney J, Chen M, Gogineni A, Weimer RM, MortensenDL, Friesenhahn M, Ho C, Paul R, Pfeifer A, Muhs A, WattsRJ (2012) An effector-reduced anti-beta-amyloid (Abeta)antibody with unique abeta binding properties promotes neu-roprotection and glial engulfment of Abeta. J Neurosci 32,
+9677-9689.
+[60] Gardberg AS, Dice LT, Ou S, Rich RL, Helmbrecht E, Ko
+J, Wetzel R, Myszka DG, Patterson PH, Dealwis C (2007)Molecular basis for passive immunotherapy of Alzheimer’sdisease. Proc Natl Acad Sc iUSA 104
+, 15659-15664.
+[61] Kayed R, Canto I, Breydo L, Rasool S, Lukacsovich T, Wu
+J, Albay R, 3rd, Pensalﬁni A, Yeung S, Head E, Marsh JL,Glabe C (2010) Conformation dependent monoclonal anti-bodies distinguish different replicating strains or conformersof preﬁbrillar Abeta oligomers. Mol Neurodegener 5, 57.
+[62] Magnusson K, Sehlin D, Syv ¨anen S, Svedberg MM, Philip-
+son O, S ¨oderberg L, Tegerstedt K, Holmquist M, Gellerfors
+P, Tolmachev V , Antoni G, Lannfelt L, Hall H, NilssonLN (2013) Speciﬁc uptake of an amyloid-beta protoﬁbril-binding antibody-tracer in AbetaPP transgenic mouse brain.J Alzheimers Dis 37, 29-40.
+[63] Patton RL, Kalback WM, Esh CL, Kokjohn TA, Van Vickle
+GD, Luehrs DC, Kuo Y-M, Lopez J, Brune D, Ferrer I,Masliah E, Newel AJ, Beach TG, Casta ˜no EM, Roher AE
+(2006) Amyloid- /H9252peptide remnants in AN-1792-immunized
+Alzheimer’s disease patients. Am J Pathol 169, 1048-1063.
+[64] Racke MM, Boone LI, Hepburn DL, Parsadainian M, Bryan
+MT, Ness DK, Piroozi KS, Jordan WH, Brown DD, Hoff-man WP, Holtzman DM, Bales KR, Gitter BD, May PC, PaulSM, DeMattos RB (2005) Exacerbation of cerebral amyloidangiopathy-associated microhemorrhage in amyloid precur-sor protein transgenic mice by immunotherapy is dependenton antibody recognition of deposited forms of amyloid beta.J Neurosci 25, 629-636.
+[65] Pfeifer M, Boncristiano S, Bondolﬁ L, Stalder A, Deller T,
+Staufenbiel M, Mathews PM, Jucker M (2002) Cerebral hem-orrhage after passive anti-Abeta immunotherapy. Science 298,
+1379.
+[66] Wilcock DM, Rojiani A, Rosenthal A, Subbarao S, Freeman
+MJ, Gordon MN, Morgan D (2004) Passive immunotherapyagainst Abeta in aged APP-transgenic mice reverses cogni-tive deﬁcits and depletes parenchymal amyloid deposits inspite of increased vascular amyloid and microhemorrhage. J
+Neuroinﬂammation 1, 24.
+[67] Wilcock DM, Alamed J, Gottschall PE, Grimm J, Rosenthal
+A, Pons J, Ronan V , Symmonds K, Gordon MN, MorganD (2006) Deglycosylated anti-amyloid-beta antibodies elimi-nate cognitive deﬁcits and reduce parenchymal amyloid withminimal vascular consequences in aged amyloid precursorprotein transgenic mice. J Neurosci 26, 5340-5346.
+[68] Fenyk-Melody JE, Shen X, Peng Q, Pikounis W, Colwell
+L, Pivnichny J, Anderson LC, Tamvakopoulos CS (2004)Comparison of the effects of perfusion in determining brainpenetration (brain-to-plasma ratios) of small molecules inrats. Comp Med 54, 378-381.

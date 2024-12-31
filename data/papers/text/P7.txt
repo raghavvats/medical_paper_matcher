@@ -1,0 +1,387 @@
+ORIGINAL INVESTIGATION
+Healthy Lifestyle and the Risk of Stroke in Women
+Tobias Kurth, MD, ScD; Steven C. Moore, MPH; J. Michael Gaziano, MD, MPH; Carlos S. Kase, MD;
+Meir J. Stampfer, MD, DrPH; Klaus Berger, MD, MPH, MSc; Julie E. Buring, ScD
+Background :Healthy lifestyle has been associated with
+decreased risk of coronary heart disease. In contrast, littleis known about its association with stroke risk.
+Methods :This is a prospective cohort study among
+37 636 women 45 years or older participating in the Wom-en’s Health Study. Stroke was self-reported and con-firmed by means of medical record review. We consid-ered the following self-reported lifestyle factors: smoking,alcohol consumption, exercise, body mass index, and diet.The health index was calculated from these variables byassigning scores from 0 to 4 to the respective variable cat-egories, with a higher score indicating healthier behav-ior. Healthy behavior was defined as never smoking, al-cohol consumption between 4 and 10.5 drinks per week,exercise 4 or more times per week, body mass index (cal-culated as weight in kilograms divided by the square ofheight in meters) less than 22, and a diet high in cerealfiber, folate, and omega-3 fatty acids, with a high ratioof polyunsaturated to saturated fat, and low in trans fat
+and glycemic load.Results :During 10 years of follow-up, 450 strokes (356
+ischemic, 90 hemorrhagic, and 4 undefined) were con-firmed. Compared with participants with 0 to 4 healthindex points (4.3%), women with 17 to 20 health indexpoints (4.7%) had multivariable-adjusted hazard ratios(95% confidence interval) of 0.45 (0.24-0.83; P/H11021.001 for
+trend) for total stroke, 0.29 (0.14-0.63; P/H11021.001 for trend)
+for ischemic stroke, and 1.27 (0.37-4.29; P=.62 for trend)
+for hemorrhagic stroke.
+Conclusions :In this large prospective cohort of appar-
+ently healthy women, a healthy lifestyle consisting of ab-stinence from smoking, low body mass index, moderatealcohol consumption, regular exercise, and healthy diet
+was associated with a significantly reduced risk of totaland ischemic stroke but not of hemorrhagic stroke. Ourfindings underscore the importance of healthy behav-iors in the prevention of stroke.
+Arch Intern Med. 2006;166:1403-1409
+STROKE REMAINS A LEADING
+cause of morbidity and mor-
+tality worldwide. In theUnited States alone, approxi-mately 700 000 strokes oc-
+cur each year, of which approximately 23%are fatal; an equal number of people areleft permanently disabled and in need ofassistance with activities of daily living.
+1
+Effective therapies for the treatment ofacute ischemic stroke are used uncom-monly
+2and often do not completely re-
+verse the impaired brain functions. Thus,identification of modifiable lifestyle fac-tors remains critical for stroke preven-tion, particularly for women who, in theUnited States, have relatively more strokesthan myocardial infarctions when com-pared with men.
+1
+The association between many indi-
+vidual behavioral risk factors (includingsmoking,
+3,4alcohol consumption,5exer-
+cise,6,7body mass index [BMI],8,9and some
+dietary factors)10,11and stroke incidence
+has been studied. In contrast to findingsfor coronary heart disease12and diabetes
+mellitus,13however, the combined ef-
+fects of health-related behaviors on the riskof stroke and stroke subtypes have notbeen studied. We thus aimed to evaluatewhether a composite of healthy lifestylefactors reduces the risk of stroke and strokesubtypes in more than 37 000 apparentlyhealthy women.
+METHODS
+PARTICIPANTS
+Study subjects were all participants in the
+Women’s Health Study (WHS), a completedrandomized trial of low-dose aspirin and vita-min E in the primary prevention of cardiovas-cular disease and cancer. The methods and re-sults of the WHS have been described in detailpreviously.
+14-16Briefly, 39 876 female health pro-
+fessionals in the United States who were 45years or older at the beginning of 1993 and whodid not have a history of cardiovascular dis-ease, cancer, or other major illnesses were ran-
+Author Affiliations are listed at
+the end of this article.
+(REPRINTED) ARCH INTERN MED/ VOL 166, JULY 10, 2006 WWW.ARCHINTERNMED.COM
+1403
+©2006 American Medical Association. All rights reserved.
+domly assigned to receive aspirin (100 mg on alternate days),
+vitamin E (600 IU on alternate days), both active agents, or bothplacebos. Baseline information on many lifestyle variables wascollected by means of a mailed questionnaire. Twice in the firstyear and yearly thereafter, participants were sent follow-up ques-tionnaires asking about study outcomes and other informa-tion during the study period. For this analysis, we included fol-low-up information from the time of randomization throughMarch 31, 2004. As of this date, follow-up was 97.2% com-plete for morbidity and 99.4% for mortality.
+HEALTH INDEX
+To create a health index with components that have been pre-viously proposed,
+12,13we considered self-reported lifestyle in-
+formation from the baseline questionnaires, incorporating in-formation about smoking, exercise, BMI, alcohol consumption,and dietary factors.
+Smoking is a strong risk factor for ischemic
+3and hemor-
+rhagic4stroke in women, and the risk increases with the num-
+ber of cigarettes smoked. We categorized participants as neversmokers, past smokers who smoked less than 20 pack-years,past smokers who smoked 20 or more pack-years, current smok-ers who smoke fewer than 15 cigarettes per day, and currentsmokers who smoke 15 or more cigarettes per day.
+Physical activity has been associated inconsistently with
+risk of stroke. Findings from a recent meta-analysis
+7of obser-
+vational studies showed that moderately intense physical activ-ity compared with inactivity was protective for total stroke aswell as for ischemic and hemorrhagic stroke. We categorizedexercise on the basis of self-reported frequency of weeklystrenuous exercise as rarely or never, less than once per week,once per week, 2 to 3 times per week, or 4 or more times perweek.
+Body mass index, calculated as weight in kilograms di-
+vided by the square of height in meters, has been associatedconsistently with a steady increase in risk of total and ische-mic stroke.
+8,9,17Although the association between BMI and hem-
+orrhagic stroke is less clear,8,9,17we decided to use the lowest
+category as the healthiest group, which is similar to previousapproaches.
+8,12,13,17We categorized BMI as lower than 22.0, 22.0
+to 24.9, 25.0 to 29.9, 30.0 to 34.9, and 35.0 or more.
+The association between alcohol consumption and risk of
+stroke has been described as J-shaped, with the most benefitfor light to moderate consumption of alcohol.
+5,18Study partici-
+pants reported alcohol consumption as drinks per week or day.We categorized alcohol intake as never, less than 1, 1 to 3, 4 toless than 10.5, and 10.5 or more drinks per week. We assignedthe health index points for alcohol consumption favoring mod-erate drinking habits and assigned a low health index score forwomen who rarely or never drank alcohol. Reassigning the lowhealth index score to the highest alcohol consumption cat-egory did not substantially change the association between thehealth index and risk of stroke.
+Women reported dietary intake on a 161-item standard-
+ized food frequency questionnaire.
+19Nutrient intake was cal-
+culated by multiplying the reported frequency by the nutri-tional content of the indicated portion sizes. We calculatedglycemic load in a manner similar to previous approaches.
+20
+We adjusted each nutrient for total energy intake by usingthe residual method.
+21To incorporate diet into the health
+index, we considered 6 dietary factors as proposed by oth-ers
+12,13and the association of each with vascular disease22-25:
+cereal fiber, folate (including from supplement intake), theratio of polyunsaturated to saturated fat, omega-3 fatty acids,trans fats, and glycemic load. Consumption of these dietary
+components was grouped into deciles and scored from 0 to 9(inverse for trans fat and glycemic load), with 0 being least
+healthy consumption. The individual scores were thensummed to a total diet score, which we categorized intoquintiles.
+The overall health index was calculated by assigning scores
+of 0 to 4 to each individual variable category, for which a higherpoint value indicates a healthier behavior. The health indexranged from 0 to 20. Healthiest behavior was defined as neversmoking, consumption of between 4 and less than 10.5 alco-holic drinks per week, exercise 4 or more times weekly, a BMIlower than 22, and a healthy diet (ie, high in cereal fiber, fo-late, and omega-3 fatty acids, with a high ratio of polyunsatu-rated to saturated fat, and low in trans fat and glycemic load).
+The assigned point scheme per individual health behavior issummarized in
+Table 1 . We a priori divided the health index
+into categories of 0 to 4, 5 to 8, 9 to 12, 13 to 16, and 17 to 20points, reflecting the 4-point scheme that was used to createthe index. We also evaluated the association between the healthindex as a continuous term and stroke risk.
+ASCERTAINMENT OF STROKE
+Participants who reported a stroke on a follow-up question-naire were asked for permission to review their medical rec-ords. A diagnosis of stroke was confirmed only after review ofthe medical records by an end-points committee of physi-cians. A nonfatal stroke was defined as a focal-neurological defi-cit of sudden onset and vascular mechanism that lasted morethan 24 hours. Cases of fatal stroke were documented if theyhad evidence of cerebrovascular mechanism using informa-tion obtained from all available sources, including death cer-tificates and hospital records. Clinical information and resultsfrom brain imaging were used to distinguish among ischemic,hemorrhagic, and unknown subtype. The interobserver agree-ment of the classification of stroke and its major subtypes inthe WHS was excellent.
+26
+STATISTICAL ANALYSES
+Of the 39 876 participants, we excluded 2237 women with in-formation missing on lifestyle factors and 3 women who re-ported a stroke before the baseline questionnaire, leaving 37 636for this analysis. We used Cox proportional hazards models toevaluate the association between the health index and the risk oftotal, ischemic, and hemorrhagic stroke. We calculated age- andmultivariable-adjusted hazard ratios (HRs) and their correspond-ing 95% confidence intervals (CIs), using the category conven-tionally believed to be least healthy as the reference group. Wedistinguished 2 multivariable models. Model 1 controlled for age(quadratic term), postmenopausal hormone use (never, past, orcurrent), past and present use of oral contraceptives, family his-tory of myocardial infarction before age 60 years, annual house-hold income ( /H11021$50 000, $50 000 to /H11021$100 000, or /H11350$100 000),
+highest level of education (less than a bachelor’s degree, bach-elor’s degree, or master’s degree or doctorate), location of resi-dence (Northeast, Southeast, Midwest, or West), marital status(single, married, or other), ethnicity (white, black, or other), andrandomized treatment assignments. Model 2 additionally con-trolled for the potential consequences of an unhealthy lifestyle—history of hypertension (defined as systolic blood pressure of atleast 140 mm Hg, diastolic blood pressure of at least 90 mm Hg,or self-reported physician-diagnosed hypertension), antihyper-tensive treatment, history of diabetes mellitus, and history of cho-lesterol of 240 mg/dL (6.21 mmol/L) or higher.
+We evaluated whether the association between the health
+index and stroke was modified by age ( /H1102155, 55-64, or /H1135065 years)
+and history of hypertension (defined as before). We tested age-
+(REPRINTED) ARCH INTERN MED/ VOL 166, JULY 10, 2006 WWW.ARCHINTERNMED.COM
+1404
+©2006 American Medical Association. All rights reserved.
+adjusted effect modification by using the likelihood ratio test.
+We calculated Pfor trend across the mean values of health in-
+dex categories. All analyses were performed with SAS version9.1 (SAS Institute Inc, Cary, NC); Pvalues are 2-tailed, and we
+considered P/H11021.05 statistically significant.
+RESULTS
+After a mean of 10 years of follow-up (374 658 person-
+years), 450 strokes (356 ischemic, 90 hemorrhagic, and4 unknown) were confirmed among the 37 636 partici-pating women. Table 1 summarizes the association be-tween health index categories and the individual com-ponents of the index. In addition, we provide theassociation between individual components and risk oftotal stroke. As expected, women with 17 or morehealth index points (4.7% of the study population)were less likely to be current smokers, exercised moreregularly, drank alcohol in moderation, had a leanBMI, and had a high diet score. We found strong asso-
+ciations between smoking, as well as BMI, and risk ofstroke, whereas there was no apparent associationbetween alcohol consumption and exercise withstroke risk. The diet score was inversely associatedwith stroke risk.
+In
+Table 2 , we summarize the association between
+various baseline characteristics and health index catego-ries. As expected, the proportion of participants who re-ported history of hypertension, antihypertensive medi-cation use, diabetes mellitus, or history of elevatedcholesterol was higher in the lower health index catego-ries. Current use of postmenopausal hormones was higherin the high health index categories, whereas the propor-tion of women with a family history of premature myo-cardial infarction was lower. Black women were morelikely to be in the low health index category. Women inthe low health index category reported lower annualhousehold income, had lower levels of education, wereTable 1. Distribution of Modifiable Lifestyle Factors According to Health Index Categories *
+and Relative Hazard of Total Stroke in the Women’s Health Study
+Individual Component Points†Health Index
+Total
+(N = 37 636)Hazard Ratio‡
+(95% CI)0-4
+(n = 1615
+[4.3%])5-8
+(n = 9891
+[26.3%])9-12
+(n = 15 109
+[40.1%])13-16
+(n = 9265
+[24.6%])17-20
+(n = 1756
+[4.7%])
+Smoking, %
+Current /H1135015 cigarettes/d 0 54.3 13.9 4.6 1.0 0.0 8.1 1.00
+Current /H1102115 cigarettes/d 1 12.0 7.5 4.3 2.2 0.2 4.7 0.65 (0.43-0.98)
+Past/H1135020 pack-years 2 13.4 13.1 11.5 9.2 3.9 11.1 0.36 (0.25-0.50)
+Past/H1102120 pack-years 3 11.8 20.9 25.1 30.4 31.6 25.1 0.35 (0.25-0.46)
+Never 4 8.5 44.7 54.5 57.2 64.2 51.0 0.29 (0.22-0.38)
+Body mass index, %§
+/H1135035.0 0 31.5 12.1 3.2 0.4 0.0 5.9 1.00
+30.0-34.9 1 25.4 22.0 10.9 3.6 0.3 12.2 0.67 (0.44-1.00)25.0-29.9 2 24.2 36.5 34.5 24.6 6.7 30.9 0.57 (0.39-0.82)22.0-24.9 3 13.8 20.7 32.7 38.5 35.7 30.3 0.53 (0.37-0.77)/H1102122.0 4 5.2 8.8 18.7 33.0 57.4 20.8 0.48 (0.32-0.71)
+Exercise, %
+Rarely or never 0 85.8 65.5 35.9 11.4 0.0 38.1 1.00/H110211 time/wk 1 12.1 23.9 23.7 14.3 1.7 19.9 1.13 (0.88-1.45)
+1 time/wk 2 1.6 5.9 12.1 12.5 5.2 9.8 1.02 (0.72-1.43)2-3 times/wk 3 0.5 4.2 21.4 39.7 43.1 21.5 0.89 (0.68-1.17)/H113504 times/wk 4 0.0 0.5 6.9 22.1 50.1 10.7 0.98 (0.70-1.37)
+Alcohol consumption, %
+Never 0 86.2 70.7 44.8 17.6 0.0 44.6 1.00/H110211 drink/wk 1 12.0 16.9 17.7 12.5 1.8 15.2 0.77 (0.57-1.04)
+1-3 drinks/wk 3 0.9 5.6 16.4 24.9 21.6 15.2 0.95 (0.72-1.26)4t o/H1102110.5 drinks/wk 4 0.2 3.4 15.8 39.1 72.7 20.3 0.82 (0.63-1.06)
+/H1135010.5 drinks/wk 2 0.7 3.5 5.3 5.9 3.9 4.7 0.84 (0.55-1.29)
+Diet score quintile, % /H14067
+1st 0 65.3 37.1 15.8 4.5 0.0 20.0 1.002nd 1 25.8 33.6 26.3 14.2 1.8 24.1 1.20 (0.88-1.63)3rd 2 6.8 15.2 20.5 18.0 9.0 17.4 1.13 (0.81-1.58)4th 3 1.9 9.6 20.5 27.5 27.8 18.9 1.50 (1.10-2.04)5th 4 0.3 4.6 16.9 35.8 61.4 19.7 1.63 (1.20-2.22)
+Abbreviation: CI, confidence interval.
+*Percentages may not add up to 100 because of rounding.
+†Assigned point value to create the health index.‡Adjusted for age and the components of the health index; the category conventionally believed to be least healthy serves as the reference group.§Calculated as weight in kilograms divided by the square of height in meters.
+/H14067The intakes of cereal fiber, folate (including from supplement intake), omega-3 fatty acids, the ratio of polyunsaturated to saturated fat, trans fat, and glycemic
+load were categorized in deciles. The decile values for each nutrient were summed (inverse for trans fat and glycemic load), and the sum was categorized into
+quintiles; a higher score indicates a healthier diet.
+(REPRINTED) ARCH INTERN MED/ VOL 166, JULY 10, 2006 WWW.ARCHINTERNMED.COM
+1405
+©2006 American Medical Association. All rights reserved.
+less likely to be married, and were more likely to live in
+the Southeast or Midwest.
+The overall health index showed strong associations
+between total and ischemic stroke but not hemorrhagicstroke (
+Table 3 ). Compared with women with 0 to 4
+health index points, women with 17 to 20 points had mul-tivariable-adjusted (model 1) HRs of 0.45 (95% CI, 0.24-0.83) for total, 0.29 (95% CI, 0.14-0.63) for ischemic,and 1.27 (95% CI, 0.37-4.29) for hemorrhagic stroke.There was a significant trend across the mean values ofhealth index categories for total and ischemic stroke(P/H11021.001 for both) but not for hemorrhagic stroke ( P=.62).
+Additional adjustment for the potential consequences ofan unhealthy lifestyle—indicators of hypertension, dia-betes mellitus, and elevated cholesterol—attenuated theseassociations; however, there remained a statistically sig-
+nificant reduction of risk for total and ischemic stroke.
+When we evaluated the association between health in-
+dex as a continuous term and stroke, a 1-unit increasewas associated with a 5% reduction (95% CI, −2% to −7%)for total stroke, a 6% reduction (95% CI, −3% to −9%)for ischemic stroke, and 0% (95% CI, −6% to 6%) for hem-orrhagic stroke. We found no statistically significant de-viation from linearity ( P/H11022.27 for total, ischemic, and hem-
+orrhagic stroke).
+The beneficial effect of healthy lifestyle was apparent
+in all age groups, although the trend was not statisticallysignificant among women 65 years or older. Overall, how-ever, the association between healthy lifestyle and risk oftotal stroke was not statistically significantly modified byTable 2. Age-Adjusted Baseline Characteristics According to Health Index Categories *
+CharacteristicHealth Index (N = 37 636)
+Total
+(N = 37 636)0-4
+(n = 1615
+[4.3%])5-8
+(n = 9891
+[26.3%])9-12
+(n = 15 109
+[40.1%])13-16
+(n = 9265
+[24.6%])17-20
+(n = 1756
+[4.7%])
+Age, mean (SE), y 53.5 (0.18) 54.4 (0.07) 54.9 (0.06) 54.6 (0.07) 54.5 (0.17) 54.6 (0.04)
+Systolic blood pressure, mean (SE), mm Hg 129.9 (0.33) 126.8 (0.13) 123.8 (0.11) 121.2 (0.14) 119.2 (0.31) 124.0 (0.07)History of hypertension, %† 38.1 32.6 25.0 19.3 14.6 25.7Antihypertensive medication use, % 18.7 17.9 13.2 10.4 6.9 13.7History of diabetes mellitus, % 5.7 4.0 2.2 1.2 0.8 2.5History of elevated cholesterol ( /H11350240 mg/dL
+[/H113506.21 mmol/L]), %34.7 31.7 30.1 25.7 23.0 29.3
+Postmenopausal hormone use, %
+Never 55.2 52.9 49.6 47.1 44.3 49.8Past 14.2 10.7 8.6 7.5 6.0 9.0Current 30.4 36.2 41.6 45.3 49.6 41.0
+Ever used oral contraceptives, % 68.0 67.4 68.7 72.0 75.0 69.4Family history of MI before age 60 years, % 15.2 13.6 12.7 12.1 12.2 12.9Ethnicity, %
+White 94.5 93.5 94.0 95.5 96.9 94.4Black 3.3 2.7 2.3 1.4 0.9 2.1Other 2.2 3.8 3.8 3.1 2.2 3.5
+Annual household income, %
+/H11021$50 000 66.7 56.5 46.1 36.1 28.6 46.4
+$50 000-$100 000 30.1 36.9 42.5 44.5 41.7 41.0/H11350$100 000 3.2 6.6 11.4 19.4 29.7 12.6
+Highest level of education, %
+Less than bachelor’s degree 79.0 67.2 56.5 46.1 38.7 56.9Bachelor’s degree 13.6 19.4 23.9 26.8 28.6 23.2Master’s degree or doctorate 7.4 13.4 19.6 27.2 32.7 19.9
+Marital status, %
+Single 7.0 6.4 6.0 4.9 4.5 5.8Married 61.7 70.6 74.6 76.8 77.8 73.7Other 31.3 23.0 19.4 18.4 17.7 20.5
+Geographic location, %‡
+Northeast 20.3 19.3 19.1 20.2 17.9 19.4Southeast 24.3 23.8 23.7 21.5 20.9 23.1Midwest 41.2 40.1 36.1 31.6 27.2 35.8West 14.2 16.8 21.1 26.7 34.0 21.6
+Abbreviations: MI, myocardial infarction.
+*Percentages may not add up to 100 because of rounding or missing values.
+†Defined as systolic blood pressure of at least 140 mm Hg, diastolic blood pressure of at least 90 mm Hg, or self-reported physician-diagnosed hyperte nsion.
+‡Northeast: Maine, New Hampshire, Vermont, Massachusetts, Connecticut, Rhode Island, New York, New Jersey, Pennsylvania.Southeast: Delaware, Maryland, Washington, DC, Virginia, West Virginia, Kentucky, Tennessee, North Carolina, South Carolina, Georgia, Florida, Alabama,
+Mississippi.
+Midwest: Ohio, Michigan, Indiana, Illinois, Wisconsin, Minnesota, North Dakota, South Dakota, Nebraska, Kansas, Iowa, Missouri, Oklahoma, Arkan sas,
+Louisiana, Texas.
+West: Montana, Idaho, Wyoming, Colorado, New Mexico, Arizona, Utah, Nevada, Washington, Oregon, California, Alaska, Hawaii.
+(REPRINTED) ARCH INTERN MED/ VOL 166, JULY 10, 2006 WWW.ARCHINTERNMED.COM
+1406
+©2006 American Medical Association. All rights reserved.
+age ( P=.67). Healthy lifestyle consistently reduced the risk
+of total stroke among women with hypertension ( P=.007
+for trend) and among women with no history of hyper-tension ( P=.03 for trend); hypertensive state was not a sta-
+tistically significant effect modifier ( P=.59 for interac-
+tion). Furthermore, there was no effect modificationaccording to randomized aspirin ( P=.95 for interaction)
+or vitamin E ( P=.23 for interaction) assignment.
+Because some may consider an increased relative body
+weight (ie, BMI) to be a consequence rather than a com-ponent of an unhealthy lifestyle, we also created anotherhealth index incorporating all lifestyle variables except BMI.This score ranged from 0 to 16 points. The association be-tween this health index and stroke showed similar butweaker associations compared with the health index in-cluding BMI. Compared with women with 0 to 4 points,women with 13 to 16 points (healthiest category) had mul-tivariable-adjusted HRs of 0.58 (95% CI, 0.37-0.92; P=.03
+for trend) for total, 0.54 (95% CI, 0.31-0.92; P=.04 for
+trend) for ischemic, and 0.36 (95% CI, 0.27-1.60; P=.35
+for trend) for hemorrhagic stroke. Additional adjust-ments for BMI categories reduced the effect estimates andled to nonsignificant trends across health index catego-ries for all outcomes. The association between the healthindex that excluded BMI and total stroke was not statis-tically significantly modified by BMI categories.
+COMMENT
+In this large prospective cohort of women, a compositehealthy lifestyle involving abstinence from smoking, lowBMI, moderate alcohol consumption, regular exercise,
+and a healthy diet was associated with a substantial re-duction in risk of total and ischemic stroke. These asso-ciations were apparent even after controlling for the po-tential biological mediators hypertension, diabetesmellitus, and elevated cholesterol. The association wasnot significantly modified by age or history of hyperten-sion. The association between healthy lifestyle and hem-orrhagic stroke was less clear, and the results suggesteda U-shaped association. However, the number of hem-orrhagic stroke cases was small, so the effect estimateswere imprecise.
+With regard to the individual components of the health
+index, we found substantial reduction of stroke risk forwomen who never smoked or were past smokers and forwomen who had lower BMI. Alcohol consumption andphysical activity were only weakly associated with riskof total stroke. Surprisingly, the diet index was in-versely related to stroke risk. The increased risk of strokeamong those with the healthier diet was apparent for is-chemic and hemorrhagic stroke (data not shown). Ex-
+cluding diet from the health index did not change theassociation between the remaining health index with totaland ischemic stroke ( P/H11021.001 for trend) and showed no
+significant beneficial association with hemorrhagic stroke(P=.30 for trend).
+Our finding for smoking is in agreement with results
+from previous studies that established smoking as an in-dependent risk factor for ischemic
+3,27and hemor-
+rhagic4,28,29stroke. The risk of stroke from smoking is dose
+related, and there is good evidence that smoking cessa-Table 3. Relative Hazards of Total, Ischemic, and Hemorrhagic Stroke According to Health Index Categories
+Health Index Category
+and PointsNo. of Subjects
+With StrokeAge-Adjusted
+HR (95% CI)Model 1 *
+HR (95% CI)Model 2†
+HR (95% CI)
+Total Stroke 450 ... ... ...
+0-4 (n = 1615) 31 1.00 1.00 1.005-8 (n = 9891) 131 0.59 (0.40-0.88) 0.63 (0.42-0.93) 0.65 (0.44-0.97)9-12 (n = 15 109) 190 0.53 (0.36-0.77) 0.58 (0.40-0.86) 0.65 (0.44-0.95)13-16 (n = 9265) 82 0.38 (0.25-0.58) 0.43 (0.28-0.65) 0.51 (0.33-0.78)17-20 (n = 1756) 16 0.40 (0.22-0.73) 0.45 (0.24-0.83) 0.56 (0.30-1.05)Pfor trend /H11021.001 /H11021.001 .01
+Ischemic Stroke 356 ... ... ...
+0-4 (n = 1615) 26 1.00 1.00 1.005-8 (n = 9891) 106 0.57 (0.37-0.87) 0.59 (0.39-0.91) 0.62 (0.40-0.96)9-12 (n = 15 109) 156 0.51 (0.34-0.77) 0.55 (0.36-0.84) 0.63 (0.41-0.96)13-16 (n = 9265) 59 0.32 (0.20-0.51) 0.35 (0.22-0.57) 0.43 (0.27-0.70)17-20 (n = 1756) 9 0.27 (0.12-0.57) 0.29 (0.14-0.63) 0.38 (0.18-0.82)Pfor trend /H11021.001 /H11021.001 .001
+Hemorrhagic Stroke 90 ... ... ...
+0-4 (n = 1615) 5 1.00 1.00 1.005-8 (n = 9891) 24 0.71 (0.27-1.85) 0.77 (0.29-2.03) 0.79 (0.30-2.08)9-12 (n = 15 109) 33 0.61 (0.24-1.56) 0.72 (0.28-1.87) 0.73 (0.28-1.91)13-16 (n = 9265) 22 0.67 (0.26-1.78) 0.85 (0.32-2.30) 0.92 (0.34-2.49)17-20 (n = 1756) 6 0.98 (0.30-3.22) 1.27 (0.37-4.29) 1.38 (0.41-4.71)Pfor trend .94 .62 .49
+Abbreviations: CI, confidence interval; HR, hazard ratio.
+*Model 1 adjusted for age, postmenopausal hormone use, oral contraceptive use, family history of myocardial infarction, income, geographic locatio n of home,
+level of education, ethnicity, marital status, and randomized treatment assignments.
+†Model 2 adjusted for all variables in model 1 plus history of hypertension, antihypertensive treatment, diabetes mellitus, and elevated cholester ol (/H11350240
+mg/dL [ /H113506.21 mmol/L]).
+(REPRINTED) ARCH INTERN MED/ VOL 166, JULY 10, 2006 WWW.ARCHINTERNMED.COM
+1407
+©2006 American Medical Association. All rights reserved.
+tion can reduce the risk of stroke,3which is supported
+by our results.
+Overweight and obesity have been associated consis-
+tently with increased risk of total and ischemic stroke.8,9
+However, the association between BMI and hemor-rhagic stroke is less clear, with a generally positive as-sociation in men
+17but inconsistent associations in wom-
+en,8,9which may explain in part the lack of association
+between our health index and risk of hemorrhagic stroke.When we evaluated a healthy lifestyle excluding BMI, wefound similar but weaker associations with stroke riskcompared with the health index incorporating BMI.
+With regard to physical activity and alcohol consump-
+tion, meta-analyses of observational studies indicate a pro-tective effect of moderately intense physical activity ontotal stroke,
+7a J-shaped association between alcohol con-
+sumption and the risks of total and ischemic stroke,18and
+a linear association between alcohol consumption andthe risk of hemorrhagic stroke. Heavy alcohol consump-tion was associated with an increased relative risk of total,ischemic, and hemorrhagic stroke.
+18In our data, mod-
+erate alcohol consumption and vigorous physical activ-ity were not strongly associated with stroke risk.
+Compared with the association between diet and coro-
+nary heart disease, the association between dietary fac-tors and stroke risk is less well studied. In this study, weconsidered the main components of a previously pro-posed diet index that mostly related to coronary heartdisease.
+12,13,22-25Although results from previous studies
+did not indicate strong associations with components ofthe diet index and risk of stroke, such as consumptionof polyunsaturated fatty acids,
+30glycemic load among
+obese women,31or even inverse associations with hem-
+orrhagic stroke,32our diet results were still unexpected.
+Future study should address the association between di-etary factors and risk of stroke and stroke subtypes. AWestern dietary pattern may increase stroke risk, but adiet rich in fruits, vegetables, whole grains, and fish mayprotect against stroke.
+11
+Despite the numerous studies on individual lifestyle
+factors and risk of stroke, evaluations of combined ef-fects of these factors are sparse. For coronary heart dis-ease, analyses from the Nurses’ Health Study showed asubstantial reduction in risk of coronary heart disease forwomen who lived healthy lifestyles.
+12Women who never
+smoked, had low BMI, exercised regularly, consumed al-cohol moderately, and ate a healthy diet had an ad-justed relative risk of coronary heart disease of 0.17 (95%CI, 0.07-0.41) compared with the other women in thestudy. In secondary analyses, the authors also includedtotal stroke in the outcome, yielding a relative risk of 0.25(95% CI, 0.14-0.44) for the healthy lifestyle group com-pared with the other women. The number of stroke caseswas too small, however, to provide separate estimates forstroke.
+Strengths of our study include the large number of out-
+come events and participants, long follow-up and highparticipation rate, detailed standardized information onmany lifestyle factors, confirmed stroke cases with highinterobserver agreement,
+26and the homogeneity of the
+cohort, which reduces confounding by access to medi-cal care.Several limitations should be considered when inter-
+preting our findings. First, information on all lifestyle fac-tors was self-reported, so misclassification is possible.However, in a prospective study, misclassification is typi-cally considered nondifferential and therefore is ex-pected to lead to an underestimation of risk. In addi-tion, health professionals are known to report their healthstatus and lifestyle factors with reasonable accuracy.
+33Sec-
+ond, women who participated in the WHS were healthprofessionals and mostly white. Thus, generalizability toother populations may be limited; blacks and Hispanicshave a higher incidence of stroke,
+34and lifestyle factors
+may be part of the reason for this observation. Our datasupport the contention that blacks and those with lowersocioeconomic status have less healthy lifestyles. Third,despite adjustments for potential confounding factors, re-sidual confounding remains plausible because our studydesign is observational. Fourth, we did not update in-formation on lifestyle factors during follow-up becausesuch updated information was not ascertained for all fac-tors that were included in the health index. Fifth, the re-lationship between the health index and stroke is influ-enced by the weight given to each component of the index.Because we did not aim to maximize the likelihood ofobserving a significant effect, we chose to give equal weightto each health-behavior component. However, becausethe use of equal weight is an imperfect approximationof the underlying biological relationships between the dif-ferent health behaviors and stroke, future analyses shouldexamine the issue of weighting.
+In conclusion, in this large prospective cohort of ap-
+parently healthy women, a healthy lifestyle was associ-ated with a substantial and statistically significant reduc-tion in the risk of total and ischemic stroke with noapparent benefit in the incidence of hemorrhagic stroke.Our findings show the importance of healthy behaviorsin the prevention of total and ischemic stroke.
+Accepted for Publication: April 3, 2006.
+Author Affiliations: Divisions of Preventive Medicine
+(Drs Kurth, Gaziano, and Buring) and Aging (Drs Kurth,Gaziano, and Buring), Channing Laboratories (DrStampfer), Department of Medicine, Brigham and Wom-en’s Hospital, Harvard Medical School; Department ofEpidemiology, Harvard School of Public Health (DrsKurth, Stampfer, and Buring); Department of Ambula-tory Care and Prevention, Harvard Medical School (DrBuring); Massachusetts Veterans Epidemiology Researchand Information Center, Boston Veterans Affairs Health-care System (Dr Gaziano); Department of Neurology,Boston University School of Medicine (Dr Kase), Boston,Mass; Department of Epidemiology, Yale School of Pub-lic Health, New Haven, Conn (Mr Moore); and Instituteof Epidemiology and Social Medicine, University ofMuenster, Muenster, Germany (Dr Berger).Correspondence: Tobias Kurth, MD, ScD, Division of Pre-
+ventive Medicine, Brigham and Women’s Hospital, 900Commonwealth Ave E, Boston, MA 02215 (tkurth@rics.bwh.harvard.edu).Financial Disclosure: None reported.
+Funding/Support: This study was supported by grants
+HL-43851 and CA-47988 from the National Heart, Lung,
+(REPRINTED) ARCH INTERN MED/ VOL 166, JULY 10, 2006 WWW.ARCHINTERNMED.COM
+1408
+©2006 American Medical Association. All rights reserved.
+and Blood Institute and the National Cancer Institute.
+We thank Elisabeth and Alan Doft and their family fortheir philanthropic support of this project.Acknowledgment: We are indebted to the participants in
+the Women’s Health Study for their outstanding commit-ment and cooperation and to the entire Women’s HealthStudy staff for their expert and unfailing assistance.
+REFERENCES
+1. Thom T, Haase N, Rosamond W, et al. Heart disease and stroke statistics–2006
+update: a report from the American Heart Association Statistics Committee andStroke Statistics Subcommittee. Circulation . 2006;113:e85-e151.
+2. Heuschmann PU, Berger K, Misselwitz B, et al. Frequency of thrombolytic therapy
+in patients with acute ischemic stroke and the risk of in-hospital mortality: theGerman Stroke Registers Study Group. Stroke . 2003;34:1106-1113.
+3. Kawachi I, Colditz GA, Stampfer MJ, et al. Smoking cessation and decreased risk
+of stroke in women. JAMA . 1993;269:232-236.
+4. Kurth T, Kase CS, Berger K, Gaziano JM, Cook NR, Buring JE. Smoking and risk
+of hemorrhagic stroke in women. Stroke . 2003;34:2792-2795.
+5. Berger K, Ajani UA, Kase CS, et al. Light-to-moderate alcohol consumption and
+risk of stroke among U.S. male physicians. N Engl J Med . 1999;341:1557-
+1564.
+6. Lee IM, Hennekens CH, Berger K, Buring JE, Manson JE. Exercise and risk of
+stroke in male physicians. Stroke . 1999;30:1-6.
+7. Wendel-Vos GC, Schuit AJ, Feskens EJ, et al. Physical activity and stroke: a meta-
+analysis of observational data. Int J Epidemiol . 2004;33:787-798.
+8. Kurth T, Gaziano JM, Rexrode KM, et al. Prospective study of body mass index
+and risk of stroke in apparently healthy women. Circulation . 2005;111:1992-
+1998.
+9. Rexrode KM, Hennekens CH, Willett WC, et al. A prospective study of body mass
+index, weight change, and risk of stroke in women. JAMA . 1997;277:1539-
+1545.
+10. He K, Rimm EB, Merchant A, et al. Fish consumption and risk of stroke in men.
+JAMA . 2002;288:3130-3136.
+11. Fung TT, Stampfer MJ, Manson JE, Rexrode KM, Willett WC, Hu FB. Prospec-
+tive study of major dietary patterns and stroke risk in women. Stroke . 2004;
+35:2014-2019.
+12. Stampfer MJ, Hu FB, Manson JE, Rimm EB, Willett WC. Primary prevention of
+coronary heart disease in women through diet and lifestyle. N Engl J Med . 2000;
+343:16-22.
+13. Hu FB, Manson JE, Stampfer MJ, et al. Diet, lifestyle, and the risk of type 2 dia-
+betes mellitus in women. N Engl J Med . 2001;345:790-797.
+14. Ridker PM, Cook NR, Lee IM, et al. A randomized trial of low-dose aspirin in the
+primary prevention of cardiovascular disease in women. N Engl J Med . 2005;
+352:1293-1304.
+15. Cook NR, Lee IM, Gaziano JM, et al. Low-dose aspirin in the primary prevention
+of cancer: the Women’s Health Study: a randomized controlled trial. JAMA . 2005;
+294:47-55.16. Lee IM, Cook NR, Gaziano JM, et al. Vitamin E in the primary prevention of car-
+diovascular disease and cancer: the Women’s Health Study: a randomized con-trolled trial. JAMA . 2005;294:56-65.
+17. Kurth T, Gaziano JM, Berger K, et al. Body mass index and the risk of stroke in
+men. Arch Intern Med . 2002;162:2557-2562.
+18. Reynolds K, Lewis B, Nolen JD, et al. Alcohol consumption and risk of stroke: a
+meta-analysis. JAMA . 2003;289:579-588.
+19. Willett WC, Sampson L, Browne ML, et al. The use of a self-administered ques-
+tionnaire to assess diet four years in the past. Am J Epidemiol . 1988;127:188-
+199.
+20. Liu S, Willett WC, Stampfer MJ, et al. A prospective study of dietary glycemic
+load, carbohydrate intake, and risk of coronary heart disease in US women. Am
+J Clin Nutr . 2000;71:1455-1461.
+21. Willett W, Stampfer MJ. Total energy intake: implications for epidemiologic analyses.
+Am J Epidemiol . 1986;124:17-27.
+22. McCullough ML, Feskanich D, Rimm EB, et al. Adherence to the Dietary Guide-
+lines for Americans and risk of major chronic disease in men. Am J Clin Nutr .
+2000;72:1223-1231.
+23. Hu FB, Willett WC. Optimal diets for prevention of coronary heart disease. JAMA .
+2002;288:2569-2578.
+24. Liu S, Willett WC. Dietary glycemic load and atherothrombotic risk. Curr Ath-
+eroscler Rep . 2002;4:454-461.
+25. Pereira MA, O’Reilly E, Augustsson K, et al. Dietary fiber and risk of coronary
+heart disease: a pooled analysis of cohort studies. Arch Intern Med . 2004;164:
+370-376.
+26. Atiya M, Kurth T, Berger K, Buring JE, Kase CS. Interobserver agreement in the
+classification of stroke in the Women’s Health Study. Stroke . 2003;34:565-
+567.
+27. Robbins AS, Manson JE, Lee IM, Satterfield S, Hennekens CH. Cigarette smok-
+ing and stroke in a cohort of U.S. male physicians. Ann Intern Med . 1994;120:
+458-462.
+28. Juvela S. Risk factors for multiple intracranial aneurysms. Stroke . 2000;31:392-
+397.
+29. Kurth T, Kase CS, Berger K, Schaeffner ES, Buring JE, Gaziano JM. Smoking and
+the risk of hemorrhagic stroke in men. Stroke . 2003;34:1151-1155.
+30. He K, Merchant A, Rimm EB, et al. Dietary fat intake and risk of stroke in male
+US healthcare professionals: 14 year prospective cohort study. BMJ . 2003;
+327:777-782.
+31. Oh K, Hu FB, Cho E, et al. Carbohydrate intake, glycemic index, glycemic load,
+and dietary fiber in relation to risk of stroke in women. Am J Epidemiol . 2005;
+161:161-169.
+32. Iso H, Stampfer MJ, Manson JE, et al. Prospective study of fat and protein in-
+take and risk of intraparenchymal hemorrhage in women. Circulation . 2001;
+103:856-863.
+33. Colditz GA, Martin P, Stampfer MJ, et al. Validation of questionnaire information
+on risk factors and disease outcomes in a prospective cohort study of women.Am J Epidemiol . 1986;123:894-900.
+34. Sacco RL, Boden-Albala B, Abel G, et al. Race-ethnic disparities in the impact of
+stroke risk factors: the northern Manhattan stroke study. Stroke . 2001;32:1725-
+1731.
+(REPRINTED) ARCH INTERN MED/ VOL 166, JULY 10, 2006 WWW.ARCHINTERNMED.COM
+1409
+©2006 American Medical Association. All rights reserved.

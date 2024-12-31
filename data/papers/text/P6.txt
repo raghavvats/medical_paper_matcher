@@ -1,0 +1,400 @@
+ORIGINAL CONTRIBUTION
+Mediterranean Diet, Lifestyle Factors,
+and 10-Year Mortality in ElderlyEuropean Men and Women
+The HALE Project
+Kim T. B. Knoops, MSc
+Lisette C. P. G. M. de Groot, PhD
+Daan Kromhout, PhD
+Anne-Elisabeth Perrin, MD, MSc
+Olga Moreiras-Varela, PhD
+Alessandro Menotti, MD, PhD
+Wija A. van Staveren, PhD
+THE NUMBER OF OLDER PEOPLE IS
+growing rapidly worldwide.
+More than 580 million peopleare older than 60 years, and the
+number is projected to rise to 1000 mil-lion by 2020.
+1With the increase in life
+expectancy, the leading causes of deathhave shifted dramatically from infec-tious diseases to noncommunicable dis-eases and from younger to older indi-viduals. In industrialized countries,about 75% of deaths in persons olderthan the age of 65 are now from car-diovascular diseases and cancer.
+2
+Regardless of predisposing factors,
+diet and lifestyle influence morbidityand mortality during the course of life.
+2
+Because of the cumulative effect of ad-verse factors throughout life, it is par-ticularly important for older persons toadopt diet and lifestyle practices thatminimize their risk of death from mor-bidity and maximize their prospects forhealthful aging.
+2
+Dietary patterns and other modifi-
+able lifestyle factors are associated withmortality from all causes, coronaryheart disease (CHD), cardiovascular
+diseases (CVD), and cancer.
+3-8As yet,
+few studies have investigated the com-bined effect of diet and other lifestylefactors.
+7,9
+In the current study, we investi-
+gated the association of individual andcombined dietary patterns and life-style factors (alcohol use, smoking sta-Author Affiliations: Division of Human Nutrition,
+Wageningen University, the Netherlands (Drs de Groot,Kromhout, and van Staveren, and Ms Knoops); Na-tional Institute for Public Health and the Environ-ment, Bilthoven, the Netherlands (Dr Kromhout); Uni-versite ´ Louis Pasteur, France (Dr Perrin); Universidad
+Complutense de Madrid, Spain (Dr Moreiras-Varela); Associazione per la Ricerca Cardiologica, Roma,Italy (Dr Menotti).Corresponding Author: Kim T. B. Knoops, MSc, Wa-
+geningen University, Human Nutrition, PO Box 8129,6700 EV Wageningen, the Netherlands (Kim.Knoops@wur.nl).Context Dietary patterns and lifestyle factors are associated with mortality from all
+causes, coronary heart disease, cardiovascular diseases, and cancer, but few studieshave investigated these factors in combination.
+Objective To investigate the single and combined effect of Mediterranean diet, being
+physically active, moderate alcohol use, and nonsmoking on all-cause and cause-specific mortality in European elderly individuals.
+Design, Setting, and Participants The Healthy Ageing: a Longitudinal study in
+Europe (HALE) population, comprising individuals enrolled in the Survey in Europe onNutrition and the Elderly: a Concerned Action (SENECA) and the Finland, Italy, theNetherlands, Elderly (FINE) studies, includes 1507 apparently healthy men and 832women, aged 70 to 90 years in 11 European countries. This cohort study was con-ducted between 1988 and 2000.
+Main Outcome Measures Ten-year mortality from all causes, coronary heart dis-
+ease, cardiovascular diseases, and cancer.
+Results During follow-up, 935 participants died: 371 from cardiovascular diseases,
+233 from cancer, and 145 from other causes; for 186, the cause of death was un-known. Adhering to a Mediterranean diet (hazard ratio [HR], 0.77; 95% confidenceinterval [CI], 0.68-0.88), moderate alcohol use (HR, 0.78; 95% CI, 0.67-0.91), physi-cal activity (HR, 0.63; 95% CI, 0.55-0.72), and nonsmoking (HR, 0.65; 95% CI, 0.57-0.75) were associated with a lower risk of all-cause mortality (HRs controlled for age,sex, years of education, body mass index, study, and other factors). Similar results wereobserved for mortality from coronary heart disease, cardiovascular diseases, and can-cer. The combination of 4 low risk factors lowered the all-cause mortality rate to 0.35(95% CI, 0.28-0.44). In total, lack of adherence to this low-risk pattern was associ-ated with a population attributable risk of 60% of all deaths, 64% of deaths from coro-nary heart disease, 61% from cardiovascular diseases, and 60% from cancer.
+Conclusion Among individuals aged 70 to 90 years, adherence to a Mediterranean
+diet and healthful lifestyle is associated with a more than 50% lower rate of all-causesand cause-specific mortality.
+JAMA. 2004;292:1433-1439 www.jama.com
+See also pp 1440 and 1490.
+©2004 American Medical Association. All rights reserved. (Reprinted) JAMA, September 22/29, 2004—Vol 292, No. 12 1433
+tus, and physical activity) with mor-
+tality from all causes, CHD, CVD, andcancer in elderly men and women from11 European countries in the HealthyAgeing: a Longitudinal study in Eu-rope (HALE) population.
+METHODS
+Study Population
+The HALE project included partici-pants of the Survey in Europe on Nu-trition and the Elderly: a Concerned Ac-tion (SENECA) and Finland, Italy, theNetherlands, Elderly (FINE) studieswho were examined in 1988-1991 andwere followed up for 10 years. Detailsabout the SENECA and FINE studieshave been described elsewhere
+10,11and
+are briefly summarized herein.
+The SENECA study started in 1988
+and consisted of a random age- and sex-stratified sample of inhabitants, born be-tween 1913 and 1918, of 19 Europeantowns. In the HALE project, 13 centersthat carried out mortality follow-up wereincluded. The original participation ratein the centers varied from 37% to 81%.
+12
+Surveys were repeated in 1993 and 1999.The response rates for SENECA were68% in 1993 and 55% in 1999, and forFINE they were 86% in 1993 and 85%in 1993. All men and women of the fol-lowing towns were included: Hamme,Belgium; Roskilde, Denmark;Strasbourg, France; Valence, France;Iraklion, Greece; Monor, Hungary;Padua, Italy; Culemborg, the Nether-lands; Vila Franca de Xira, Portugal;Betanzos, Spain; and Yverdon, Burg-dorf, and Bellinzona, Switzerland.
+10
+The FINE study consists of the sur-
+vivors of 5 cohorts of the Seven Coun-tries Study: Ilomantsi, East Finland;Po¨ytya¨, and Mellila ¨, West Finland; Cre-
+valcore and Montegiorgio, Italy; andZutphen, the Netherlands. The FINEstudy, which started in 1984 and con-tinued to 2000, recruited men who wereborn between 1900 and 1920. For ourstudy, we used the 1989-1991 base-line measurements of men aged 70 to90 years.
+11Surveys were repeated in the
+years 1994-1995 and 1999-2000. Theresponse rates in 1989-1991 were 92%for the Finnish cohorts, 74% for theDutch cohort, and 76% for the Italian
+cohorts.
+13
+Because CHD, CVD, cancer, and dia-
+betes increase the risk of mortality andcan induce changes in diet and life-style, participants who had these dis-eases were excluded at baseline. The av-erage follow-up time was 10 years inboth SENECA and FINE.
+In both studies, food consumption
+data were collected by trained dieti-tians using a dietary history method.
+10,11
+This method provides informationabout the usual food consumption ofthe participants from the month be-fore the interview in SENECA and from2 to 4 weeks before the interview inFINE. The central part of the dietaryhistory was the same for both studies.The coding was based on frequencytables, which were the same in bothstudies, but the start of the dietary in-terview about usual food consump-tion patterns was based on a foodrecord and by an oral interview inFINE. Both dietary histories were vali-dated.
+10, 13
+Information on smoking status;
+physical activity level; educationalachievement (number of years); theprevalence of CHD, stroke, diabetes,and cancer; the use of antihyperten-sive medication (only in FINE); and oc-cupation (only in FINE) was collectedusing questionnaires. The prevalence ofchronic diseases was confirmed by gen-eral practitioners, hospital registrants,or both in the FINE study only.
+Information on physical habitual ac-
+tivity was obtained using the Voorripsquestionnaire in SENECA and the Mor-ris questionnaire in FINE.
+14,15Both
+questionnaires were developed for re-tired elderly individuals and focus onleisure-time activities, such as walk-ing, cycling, and gardening. SENECAalso included household activities.
+14,15
+Weight, height, and waist circum-
+ference (SENECA only) measure-ments have been described in detailelsewhere.
+10,11Body mass index (BMI)
+was calculated as weight in kilogramsdivided by height in meters squared. Inthe analyses, BMI was dichotomized as25 or less vs greater than 25. The HALEstudy comprised 98.6% of individuals
+who lived independently.
+Definition of Low-Risk Groups
+To assess the association of diet and thelifestyle factors with mortality, a low-risk group was defined for diet and life-style factors. For dietary intake, the low-risk group was defined as those whohad a score of at least 4 on a modifiedversion of the Mediterranean diet scoreproposed by Trichopoulou et al.
+4
+The modified Mediterranean diet score
+comprised 8 components: ratio of mono-unsaturated to saturated fat; legumes,nuts, and seeds; grains; fruit; vegetablesand potatoes; meat and meat products;dairy products; and fish. Intake of eachcomponent was adjusted to daily in-takes of 2500 kcal (10.5 MJ) for men and2000 kcal (8.5 MJ) for women. The sex-specific median intake values were takenas cutoff points. The diet score variedfrom 0 (low-quality diet) to 8 (high-quality diet). For the components mono-unsaturated fatty acids to saturated fattyacids (MUFA to SAFA) ratio; fruits andfruit products; vegetables and potatoes;legumes, nuts, and seeds; fish; and grains,a value of 1 was assigned to personswhose consumption was at least as highas the sex-specific median value, and 0to the others. The vegetables group of theoriginal Mediterranean diet score was re-placed by the vegetables and potatoesgroup because the European classifica-tion system (EUROCODE) was usedwhen the 2 food groups were assessedtogether.
+16For meat and meat products
+and dairy products, a value of 1 was as-signed to persons whose consumptionwas less than the sex-specific median and0 to the others .
+The low-risk group for alcohol was
+defined as those who consumed moret h a n0go f alcohol per day. Alcohol
+consumption was initially divided into3 groups: 0 g, 1 to 29 g, and 30 g ormore of alcohol per day. However, theKaplan-Meier survival curves of the 3alcohol groups showed no difference insurvival between participants who con-sumed betwee n1gt o2 9go f alcohol
+per day and those who consumed 30 gor more alcohol per day.DIET, LIFESTYLE, AND 10-YEAR MORTALITY IN THE ELDERLY
+1434 JAMA, September 22/29, 2004—Vol 292, No. 12 (Reprinted) ©2004 American Medical Association. All rights reserved.
+For smoking, individuals were con-
+sidered to be at low risk if they hadnever smoked or had stopped smok-ing more than 15 years ago.
+17-19
+Individuals with a score in the inter-
+mediate and the highest tertile on theVoorrips or Morris questionnaire wereconsidered the low-risk group for physi-cal activity.
+14,15
+A lifestyle score was calculated by
+adding the individual scores for diet,physical activity level, smoking sta-tus, and alcohol intake. Individualsscored 1 point if they belonged to thelow-risk group for diet or a particularlifestyle factor and 0 if they belongedto the high-risk group. In total, an in-dividual could obtain 4 points: 1 pointfor a Mediterranean diet and 3 pointsfor the healthful lifestyle factors.
+Health Status
+Information on vital status and causesof death was collected every 5 years inFINE and in 1999-2000 for SENECAand was available for 99.7% of partici-pants. Causes of death were coded byan experienced physician and classi-fied according to the International Clas-
+sification of Diseases, Ninth Revision(ICD-9 ) coding system.
+20Codes 410-
+414 were used for defining CHD, codes390-459 for CVD, and codes 140-240for cancer. Causes of death were avail-able for 92% of the participants in FINEand 72% of the participants in SENECA.Mortality from other causes was de-fined as total mortality minus the deathsfrom unknown causes, CHD, CVD,and cancer.
+Statistical Analysis
+Statistical analyses were carried out us-ing the SAS statistical software ver-sion 8.2 (SAS Institute, Cary, NC). Be-fore pooling the data for SENECA andFINE, a test for heterogeneity was per-formed, which was not significant(P=.93); no significant interactions be-
+tween diet, lifestyle factors, and studywere found. Cox proportional haz-ards models were used to estimate thesingle and the combined effect of diet,smoking status, alcohol consumption,and physical activity level on mortal-ity.
+21In the analyses for cause-specific
+mortality and mortality from othercauses, individuals with a missing causeof death were excluded. For all mod-els, the Cox proportional hazards as-sumption was tested and met. Dummyvariables were created for the numberof healthful dietary and lifestyle fac-tors; a score of 0 or 1 for the healthfuldietary and lifestyle factor was used asreference category.
+All models were adjusted for the
+other diet and lifestyle factors, sex, ageat baseline, BMI, and study popula-tion (SENECA vs FINE). To correct theestimates for socioeconomic status, themodels were adjusted for the numberof years of education.
+Region (northern or southern
+Europe), center, occupation, waist cir-cumference (continuous), maritalstatus, and use of antihypertensive medi-cation were tested as potential confound-ers but did not affect our estimates. Be-cause several studies indicate thatexposure to pesticides and industrial-ized environment increases the risk ofmortality,
+22we classified participants’ oc-
+cupation as farmers (an indicator of pes-ticide exposure) vs nonfarmers andwhether individuals were exposed or notexposed to an industrialized environ-ment. Occupation as farmer and expo-sure to an industrialized environmentalso did not affect our results.
+To minimize the possibility that diet
+or lifestyle factors had changed in re-sponse to subclinical disease, the analy-ses were repeated after excluding thefirst 2 years of mortality follow-up.
+9In-
+teractions between all dietary and life-style factors and confounders weretested, but none of them was statisti-cally significant at /H9251=.1. To ensure that
+the estimates were not biased by mul-ticollinearity, the crude hazard ratios(HRs) for the dietary and lifestyle fac-tors were also calculated and com-pared with the adjusted HRs. The crudeHRs and the adjusted HRs were simi-lar, indicating that the estimates werenot biased by multicollinearity.
+Population attributable risk, an esti-
+mate of the percentage of mortality inthis population that would not have oc-curred if all participants were in the
+low-risk group, was calculated.
+9,23
+The unadjusted Kaplan-Meier curves
+for the number of protective factors inrelation to all-cause mortality were fit-ted and the log-rank test was calcu-lated. P/H11021.05 was considered to be sta-
+tistically significant for all possiblepredictors in the model, but to inves-tigate interaction between all predic-tors, we considered P/H11021.01 to be statis-
+tically significant.
+RESULTS
+Information about diet, lifestyle fac-
+tors, and vital status was available for1507 men (781 from the SENECAstudy, 726 from the FINE study) and832 women without CHD, CVD, dia-betes, and cancer at baseline ( T
+ABLE 1).
+Men in the SENECA study were 7 yearsyounger on average than men in theFINE study. The median of the dietscore in the total population was 4;3 in northern Europe vs 5 in southernEurope. The mean alcohol intake was21 g/d for men and 6 g/d for women.In northern Europe, the mean alcoholconsumption was 17.5 g/d for men and5.5 g/d for women compared with 31g/d for men and 6 g/d for women insouthern Europe. The cutoff point forthe lowest percentile for activity in theFINE study was 200 min/wk, whichmeans approximately 30 minutes of ac-tivity per day, with an intensity higherthan 2.0 kcal/kg per hour each day. Inthe SENECA study, there were almost5 times as many male smokers as therewere female smokers. The mean fol-low-up time was 10 years, with a rangeof 8.9 to 10.5 years. Twice as many mendied during the 10-year follow-up as didwomen.
+T
+ABLE 2shows that a Mediterra-
+nean diet, moderate alcohol consump-tion, moderate to high physical activ-ity levels, and nonsmoking wereassociated with lower mortality ratesfrom all causes, CHD, CVD, cancer, andother causes during the 10-year follow-up. The models were adjusted for sex,age, years of education, study, and BMI.Individuals with 2, 3, or 4 low-riskfactors had a significantly lower risk ofDIET, LIFESTYLE, AND 10-YEAR MORTALITY IN THE ELDERLY
+©2004 American Medical Association. All rights reserved. (Reprinted) JAMA, September 22/29, 2004—Vol 292, No. 12 1435
+all-cause and cause-specific mortality
+compared with individuals with 0 or 1low-risk factor during 10 years of fol-low-up ( T
+ABLE 3). Sixty percent of all
+deaths were associated with not adher-ing to this low-risk pattern. For cause-specific mortality, 64% of deaths dueto CHD; 61% due to CVD; 60% due tocancer, and 61% due to other causesduring the 10-year follow-up periodwere associated with not adhering tothis low-risk pattern. Including indi-viduals with CHD, CVD, cancer, or dia-betes at baseline in the analysis andadjusting for prevalence of these long-term diseases at baseline did not changeour estimates.
+Similar results were found after ex-
+cluding from the analysis the 140 per-sons who died during the first 2 years offollow-up: adhering to a Mediterraneandiet (HR, 0.77; 95% confidence interval[CI], 0.67-0.89), moderate alcohol con-sumption (HR, 0.83; 95% CI, 0.71-0.91),engaging in physical activity (HR, 0.65;95% CI, 0.56-0.76), and nonsmoking(HR, 0.67, 95% CI, 0.57-0.78) were as-sociated with a significantly lower riskof all-cause mortality. The combinationof 4 low-risk factors lowered the all-cause mortality rate to 0.37 (95% CI,0.29-0.47). For cause-specific mortal-ity, the HRs for the single and the com-bined effects from dietary and lifestylefactors were also similar after excludingthe first 2 years of follow-up.
+The F
+IGURE shows the Kaplan-
+Meier curves for the number of health-ful dietary and lifestyle factors. The cor-Table 1. Baseline Characteristics and 10-Year Mortality Data of the SENECA and FINE
+Studies in Persons Without Prevalent Chronic Diseases
+SENECA FINE
+Women
+(n = 832)Men
+(n = 781)Men
+(n = 726)
+Age, mean (SD), y 73 (1.8) 73 (2.0) 77 (4)
+Northern Europe, No. (%) 355 (43) 350 (45) 462 (64)Years of education, mean (SD) 8 (3.5) 9 (4.0) 7 (4.5)Mediterranean diet score,
+median (10-90 percentile)4 (2-6) 4 (2-6) 4 (2-6)
+Monounsaturated/saturated fat ratio,
+median (10-90 percentile)
+*1 (0.70-1.63) 1 (0.73-1.55) 1 (0.58-2.90)
+Food consumption,
+median (10-90 percentile), g/d *
+Vegetables or potatoes 272 (136-484) 306 (148-504) 248 (113-456)
+Fruit 262 (74-519) 228 (43-528) 209 (47-457)
+Legumes, nuts, or seeds 5 (0-31) 7 (0-38) 10 (0-46)
+Meat and poultry 107 (53-181) 130 (66-217) 113 (58-181)
+Milk and milk products 317 (90-624) 313 (80-683) 392 (28-969)
+Fish 23 (0-73) 26 (2-90) 20 (0-57)
+Grains 194 (116-302) 248 (144-389) 231 (133-379)
+Alcohol users, No. (%) 466 (56) 647 (83) 555 (76)Voorrips score, mean (SD) 12 (9) 19 (13) NA
+Cutoff point lowest tertile 5.5 9.5 NA
+Morris score, mean (SD), min/wk NA NA 598 (605)
+Cutoff point lowest tertile, mean (SD) NA NA 200
+Never smoked or stopped
+/H1102215 years ago, No. (%)731 (88) 337 (43) 444 (58)
+Body mass index /H1102125, No. (%)† 343 (41) 307 (39) 305 (42)
+Causes of death, No. (%)
+All deaths 197 (24) 366 (47) 372 (51)
+Coronary heart disease 18 (9) 45 (12) 59 (16)
+Cardiovascular diseases 76 (39) 117 (32) 178 (48)
+Cancer 35 (18) 96 (26) 102 (27)
+Other causes 27 (13) 56 (15) 62 (17)
+Unknown cause 59 (30) 97 (27) 30 (8)
+Abbreviations: FINE, Finland, Italy, the Netherlands, Elderly; NA, not applicable; SENECA, Survey in Europe on Nutri-
+tion and the Elderly: A Concerned Action.
+*Grams per day calculation is corrected for 2500 kilocalories per day for men and 2000 kilocalories per day for women.
+Median food components for all men: fat ratio, 1; vegetables or potatoes g/d, 284; fruit g/d, 214; legumes, nuts, orseeds g/d, 8; meat and poultry g/d, 123; milk and milk products g/d, 340; fish g/d, 23; and grains g/d, 240.
+†Body mass index is measured as weight in kilograms divided by the square of height in meters.
+Table 2. Cox Proportional Hazard Ratios for Dietary Pattern and 3 Lifestyle Factors for 10-Year All-Cause and Cause-Specific Mortality in
+Elderly Europeans
+VariablesCauses of Death, Hazard Ratio (95% Confidence Interval) *
+All CausesCoronary
+Heart DiseaseCardiovascular
+Disease Cancer Other Causes
+No. at risk 2339 2152 2152 2152 2145
+No. of events 935 122 371 233 145Protective factors†
+Mediterranean diet 0.77 (0.68-0.88) 0.61 (0.43-0.88) 0.71 (0.58-0.88) 0.90 (0.70-1.17) 0.61 (0.44-0.85)
+Moderate alcohol consumption 0.78 (0.67-0.91) 0.60 (0.40-0.88) 0.74 (0.59-0.93) 0.73 (0.54-0.98) 0.63 (0.44-0.90)
+Physical activity 0.63 (0.55-0.72) 0.72 (0.48-1.07) 0.65 (0.52-0.81) 0.64 (0.48-0.84) 0.52 (0.37-0.74)
+Nonsmoking 0.65 (0.57-0.75) 0.80 (0.54-1.17) 0.68 (0.54-0.85) 0.47 (0.36-0.62) 0.92 (0.59-1.24)
+*Model adjusted for the other dietary and lifestyle factors, age, sex, number of years of education, body mass index, and study.
+†To achieve protective factors in each category, participants must have scored at least 4 points for the Mediterranean diet score, consumed more than 0 g of alcohol a day, scored
+in the intermediate or highest tertile for either the Voorrips or Morris questionnaires, and were nonsmokers or had quit smoking for at least 15 years.DIET, LIFESTYLE, AND 10-YEAR MORTALITY IN THE ELDERLY
+1436 JAMA, September 22/29, 2004—Vol 292, No. 12 (Reprinted) ©2004 American Medical Association. All rights reserved.
+responding log-rank test statistic was
+101.9, P/H11021.001.
+COMMENT
+During the 10-year follow-up, men and
+women between the ages of 70 and 90years who had adhered to a Mediter-ranean diet, were nonsmokers or hadstopped smoking more than 15 yearsago, were physically active, and used al-cohol moderately had less than half themortality rate from all causes, CHD,CVD, and cancer, and mortality fromother causes than those who did not.
+Advantages of this Europe-wide
+study were its great diversity in di-etary patterns and lifestyle factors, itsprospective nature, its large sample size,and its measurements of many poten-tial confounders. SENECA and FINEcould be pooled because the estimatesof the separate models were similar andthere were no important differences instudy population and measurement ofrisk factors. To ensure that the rela-tionships between diet, lifestyle fac-tors, and mortality could not be ex-plained by a study effect, this variablewas included as a potential con-founder in all pooled analyses.
+This study also had several limita-
+tions. Despite the large number of par-ticipants and long follow-up, few caseshad no healthful diet or lifestyle fac-tors. Therefore, we had to combinethose who had scores of 0 or 1 in thehealthful diet and lifestyle factor rank-ing to have a stable reference cat-egory. The initial response rate in theSENECA centers was lower (37%-81%) than in the FINE centers (74%-92%).
+12,13In prospective cohort stud-
+ies, distributions of dietary and lifestylefactors in the study population mayhave been affected by selective partici-pation in the different cohorts. How-ever, we had almost 100% mortality fol-low-up, so the relationships betweendietary factors and mortality should notbe distorted.
+24Another limitation is the
+low number of deaths due to cause-specific mortality; for example, only 122deaths were from CHD. Due to theselow numbers, it is possible that thepower was too low to find a signifi-cant effect of all dietary and lifestyle fac-
+tors in the cause-specific analysis.
+A Mediterranean diet score of 4 or
+more points was associated with a lowerrisk of all-cause and cause-specific mor-tality; the strongest association was ob-served for CHD. The Mediterranean diet
+scale relies on generally strong epide-miological evidence concerning the in-dividual dietary components.
+4,6The
+components of the diet score have beenvalidated.
+25In previous studies4,6,7in-
+Figure. Kaplan-Meier Curves for Number of Healthful Lifestyle Factors
+1.0
+0.6
+0.40.8
+0.2
+0.0
+0 2 6 8 10 4 1 5 7 9 3
+Time, ySurvival Probability
+No. at Risk
+Factor ScoreLog-Rank P Value <.0014
+3Healthful Lifestyle 
+Factor Score
+2
+0 to 1
+0 to 1 246 237 217 198 177 159 147 136 122 107 832 702 676 644 622 587 558 519 489 453 386 2823 954 940 912 883 852 824 779 747 703 601 4124 437 433 426 415 406 392 376 360 337 267 192
+The lifestyle score was calculated by adding the individual scores for diet, physical activity level, smoking sta-
+tus, and alcohol intake. Individuals scored 1 point if they belonged to the low-risk group for diet or a particularlifestyle factor and 0 if they belonged to the high-risk group. In total, an individual could obtain 4 points: 1point for a Mediterranean diet and 3 points for the healthful lifestyle factors.Table 3. Cox Proportional Hazard Ratios and Population-Attributable Risks of the Combined
+Diet and Lifestyle Factors for 10-Year All-Cause and Cause-Specific Mortality in ElderlyEuropeans
+MortalityNo. of Protective Factors
+0-1
+(n = 246)2
+(n = 702)3
+(n = 954)4
+(n = 437)
+All-cause
+HR (95% CI) 1.00 0.62 (0.51-0.75) 0.45 (0.37-0.54) 0.35 (0.28-0.44)
+PAR (%) 14 37 60
+Coronary heart disease
+HR (95% CI) 1.00 0.50 (0.29-0.85) 0.43 (0.26-0.71) 0.27 (0.14-0.53)
+PAR (%) 18 38 64
+Cardiovascular diseases
+HR (95% CI) 1.00 0.60 (0.44-0.82) 0.44 (0.33-0.60) 0.33 (0.22-0.47)
+PAR (%) 13 38 61
+Cancer
+HR (95% CI) 1.00 0.65 (0.45-0.96) 0.42 (0.28-0.62) 0.31 (0.19-0.50)
+PAR (%) 14 38 60
+Other causes
+HR (95% CI) 1.00 0.55 (0.34-0.90) 0.38 (0.23-0.61) 0.33 (0.19-0.58)
+PAR (%) 20 40 61
+Abbreviations: CI, confidence interval; HR, hazards ratio; PAR, population attributable risk.DIET, LIFESTYLE, AND 10-YEAR MORTALITY IN THE ELDERLY
+©2004 American Medical Association. All rights reserved. (Reprinted) JAMA, September 22/29, 2004—Vol 292, No. 12 1437
+volving elderly persons in which a
+Mediterranean diet score similar to ourswas used, the reduction in overall mor-tality associated with increased adher-ence to the Mediterranean diet was alsosimilar to that found in our study. Simi-lar results were also noted for mortal-ity from CHD and cancer.
+4Our results
+are also compatible with those of 2 ran-domized trials of secondary preven-tion of CHD through the use of vari-ants of the Mediterranean diet.
+26,27
+In the Mediterranean diet score pro-
+posed by Trichopoulou et al,4alcohol was
+also included. In our study, alcohol wasconsidered as a separate lifestyle factorbecause many studies observed an inde-pendent effect of alcohol on sur-vival.
+28-30When we included alcohol in
+our diet score, we found that individu-als scoring 4 or more points on the origi-nal Mediterranean diet score have a 14%lower risk of mortality compared with23% in the present study. Participantswho were physically active had a lowerrisk of all-cause and cause-specific mor-tality. Other studies found also that a sed-entary lifestyle was associated with a sig-nificantly higher risk of all-cause andcause-specific mortality compared withbeing moderately active.
+17,31Davis et al17
+reported that nonrecreational physicalactivity was an even better predictor ofsurvival time in older persons (aged65-74 years) than in middle-aged per-sons (aged 45-54 years).
+17
+Nonsmoking was associated with
+lower risk from all-cause and cause-specific mortality. Other studies alsofound that smokers had a higher mor-tality risk although the relative risk waslower in older persons than in middle-aged individuals.
+17,18
+Although diet and lifestyle habits can
+change over time, generally they arecharacteristic of a person’s way of liv-ing and reflect lifelong health hab-its.
+32,33For smoking, we contrasted per-
+sons who never smoked or stoppedsmoking more than 15 years ago withthose who still smoked or stopped lessthan 15 years ago. This definition of thesmoking variable takes a long expo-sure period into account. In SENECA,dietary and lifestyle factors were mea-sured 5 years apart. The Spearman cor-
+relation coefficient for alcohol con-sumption, diet score, and physicalactivity between 1988-1989 and 1993was highly significant ( P/H11021.01), sug-
+gesting that diet and lifestyle factorswere stable in older individuals. Sev-eral other studies also found that smok-ing habits and activity patterns inmiddle-aged and many elderly menwere stable over the years.
+32,33
+A multiplicative model was used to
+assess the combined effect of diet andlifestyle factors on all-cause and cause-specific mortality. The more healthfuldietary and lifestyle factors a partici-pant had, the lower the risk for all-cause mortality and cause-specific mor-tality. In the current study, 60% to 64%of mortality was associated with lack ofadherence to this low-risk pattern. Thissupports the hypothesis that partici-pants who follow a Mediterranean typeof diet and maintain a healthful life-style are less likely to die from all-cause and cause-specific mortality evenat ages 70 to 90 years. Establishing acausal relationship would require an in-tervention study, and the number ofyears an individual needs to maintainsuch a lifestyle to realize a benefit is un-known. However, a Mediterranean diet,rich in plant foods in combination withnonsmoking, moderate alcohol con-sumption, and at least 30 minutes ofphysical activity per day is associatedwith a significantly lower mortality rate,even in old age.
+Author Contributions: The principal investigator Mr
+Kromhout for the FINE study, Dr Van Staveren for theSENECA study, and Ms Knoops had full access to all thedata in the study and take responsibility for the integ-rity of the data and the accuracy of the data analysis.Study concept and design: de Groot, Kromhout,
+Moreiras-Varela, van Staveren.Acquisition of data: Kromhout, Perrin, Menotti,
+van Staveren.Analysis and interpretation of data: Knoops, de Groot,
+Kromhout, van Staveren.Drafting of the manuscript: Knoops, de Groot,
+Moreiras-Varela.Critical revision of the manuscript for important in-tellectual content: de Groot, Kromhout, Perrin,
+Menotti, van Staveren.Statistical analysis: Knoops, Menotti.
+Obtained funding: Kromhout, van Staveren.
+Administrative, technical, or material support: Krom-
+hout, Moreiras-Varela, van Staveren.Study supervision: de Groot, Kromhout, van Staveren.
+Funding/Support: This study, based on the HALE
+project, was supported by grant QLK6-CT-2000-00211 from the European Union (Dr Kromhout).
+Role of the Sponsor: The European Union did not par-
+ticipate in the design or conduct of the study; in thecollection, analysis, or interpretation of the data; orin the preparation, review, or approval of the manu-script.Acknowledgment: The following principal investiga-
+tors contributed to the HALE project: Belgium: G.
+Backer, University of Ghent; Denmark: M. Schroll, Bis-
+pebjerk Hospital, Copenhagen; Finland: A. Nissinen,
+National Public Health Institute, Helsinki; France :M .
+Ferry, Centre Hospitalier de Valence, Valence,Schlienger J. L. Universite ´ Louis Pasteur, Strasbourg;
+Greece: A. Kafatos, University of Crete, Iraklion-
+Crete; Hungary: G. Zajkas, Jo ´ zsef Fodor National Cen-
+ter for Public Health, National Institute of Food-Hygiene and Nutrition, Budapest; Italy: G. Enzi,
+Universita ` degli Study di Padova, Padova, F. Fidanza,
+Perugia, S. Giampaoli, Istituto Superiore di Sanita `,
+Roma, G. Maiani, Istituto Nazionale di Ricerca per gliAlimenti e la Nutrizione, Roma, and A. Menotti, As-sociazione per la Ricerca Cardiologica, Roma; the Neth-
+erlands: L. de Groot, Wageningen University, Wa-
+geningen, D. Kromhout, National Institute for PublicHealth and the Environment, Bilthoven, W. van Sta-veren, Wageningen University, Wageningen; and M.Tijhuis, National Institute for Public and the Environ-ment, Bilthoven; Poland : A. Brzozowska, Warsaw Ag-
+ricultural University, Warsaw; Portugal :J .A .A m o r i m
+Cruz, Instituto Nacional de Saude, Lisbon; Spain: O.
+Moreiras-Varela, Universidad Complutense de Madrid,Madrid; Switzerland: D. Schlettwein-Gsell, Basel.
+REFERENCES
+1.Population ageing: a public health challenge. WHO,
+Fact Sheet N 135. Revised September 1998.2.Keep Fit for Life: Meeting the Nutritional Needs
+of Older Persons . Geneva, Switzerland: World Health
+Organisation; 2002.3.Bijnen FC, Caspersen CJ, Mosterd WL. Physical in-
+activity as a risk factor for coronary heart disease: aWHO and International Society and Federation of Car-diology position statement. Bull World Health Or-
+gan. 1994;72:1-4.
+4.Trichopoulou A, Costacou T, Bamia C, Trichopou-
+los D. Adherence to a Mediterranean diet and sur-vival in a Greek population. N Engl J Med . 2003;348:
+2599-2608.5.Trichopoulou A, Costacou T, Bamia C, Trichopou-
+los D. Cancer and Mediterranean dietary traditions. Can-
+cer Epidemiol Biomarkers Prev . 2000;9:869-873.
+6.Trichopoulou A, Kouris-Blazos A, Wahlqvist ML,
+et al. Diet and overall survival in elderly people. BMJ .
+1995;311:1457-1460.7.Haveman-Nies A, de Groot LP, Burema J, Cruz JA,
+Osler M, van Staveren WA, for the SENECA Investi-gators. Dietary quality and lifestyle factors in relationto 10-year mortality in older Europeans: the SENECAstudy. Am J Epidemiol . 2002;156:962-968.
+8.Huijbregts P, Feskens E, Ra ¨s a¨ nen L, et al. Dietary
+pattern and 20-year mortality in elderly men in Fin-land, Italy, and the Netherlands: longitudinal cohortstudy. BMJ . 1997;315:13-17.
+9.Stampfer MJ, Hu FB, Manson JE, Rimm EB, Wil-
+lett WC. Primary prevention of coronary heart dis-ease in women through diet and lifestyle. N Engl J Med .
+2000;343:16-22.10.De Groot CP, van Staveren WA, Dirren H, Haut-
+vast JG. Summary and conclusions of the report onthe second data collection period and longitudinalanalyses of the SENECA Study. Eur J Clin Nutr . 1996;
+50(suppl 2):S123-S124.11.Menotti A, Mulder I, Nissinen A, et al. Cardio-
+vascular risk factors and 10-year all-cause mortalityin elderly European male populations: the FINE study.Eur Heart J . 2001;22:573-579.
+12.Van ’t Hof MA, Hautvast JG, Schroll M, Vlachoni-DIET, LIFESTYLE, AND 10-YEAR MORTALITY IN THE ELDERLY
+1438 JAMA, September 22/29, 2004—Vol 292, No. 12 (Reprinted) ©2004 American Medical Association. All rights reserved.
+kolis IG, for the Euronut SENECA investigators. De-
+sign, methods and participation. Eur J Clin Nutr . 1991;
+45(suppl 3):5-22.13.Kromhout D, Menotti A, Blackburn H. Preven-
+tion of Coronary Heart Disease: Diet, Lifestyle andRisk Factors in the Seven Countries Study . Boston,
+Mass: Kluwer Academic Publishers; 2001.14.Voorrips LE, Revelli AC, Dongelmans PC, Deuren-
+berg P, Van Staveren WA. A physical activity ques-tionnaire for the elderly. Med Sci Sports Exerc . 1991;
+23:974-979.15.Caspersen CJ, Bloemberg BP, Saris WH, Merritt
+RK, Kromhout D. The prevalence of selected physi-cal activities and their relation with coronary heartdisease risk factors in elderly men: the ZutphenStudy, 1985. Am J Epidemiol . 1991;133:1078-
+1092.16.Arab JS, Wittler M, Schetter G. European food
+composition tables in translation . Berlin, Germany:
+Springer-Verslag; 1987.17.Davis MA, Neuhaus JM, Moritz DJ, Lein D, Bar-
+clay JD, Murphy SP. Health behaviors and survivalamong middle-aged and older men and women in theNHANES I Epidemiologic Follow-up Study. Prev Med .
+1994;23:369-376.18.Kawachi I, Colditz GA, Stampfer MJ, et al. Smok-
+ing cessation in relation to total mortality rates in wom-en: a prospective cohort study. Ann Intern Med . 1993;
+119:992-1000.19.Peto R, Darby S, Deo H, Silcocks P, Whitley E,
+Doll R. Smoking, smoking cessation, and lung cancerin the UK since 1950: combination of national statis-tics with two case-control studies. BMJ. 2000;321:
+323-329.20.World Health Organization. International Clas-
+sification of Diseases, Ninth Revision (ICD-9). Geneva,
+Switzerland: World Health Organization; 1977.21.Kleinbaum DG. Survival Analysis: A Self-Learning
+Text. New York, NY: Springer-Verslag Inc; 1996.
+22.Beard J, Sladden T, Morgan G, Berry G, Brooks
+L, McMichael A. Health impacts of pesticide expo-sure in a cohort of outdoor workers. Environ Health
+Perspect . 2003;111:724-730.
+23.Wacholder S, Benichou J, Heineman EF, Hartge
+P, Hoover RN. Attributable risk: advantages of a broaddefinition of exposure. Am J Epidemiol . 1994;140:
+303-309.24.Willett WC. Nutritional Epidemiology . 2nd ed.
+New York, NY: Oxford University Press; 1998.25.Gnardellis C, Trichopoulou A, Katsouyanni K, Poly-
+chronopoulos E, Rimm EB, Trichopoulos D. Repro-ducibility and validity of an extensive semiquantita-tive food frequency questionnaire among Greek schoolteachers. Epidemiology . 1995;6:74-77.
+26.de Lorgeril M, Renaud S, Mamelle N, et al. Medi-
+terranean alpha-linolenic acid-rich diet in secondaryprevention of coronary heart disease. Lancet . 1994;
+343:1454-1459.27.Singh RB, Dubnov G, Niaz MA, et al. Effect of an
+Indo-Mediterranean diet on progression of coronaryartery disease in high risk patients (Indo-Mediterranean Diet Heart Study): a randomised single-blind trial. Lancet . 2002;360:1455-1461.
+28.Mukamal KJ, Conigrave KM, Mittleman MA, et
+al. Roles of drinking pattern and type of alcohol con-sumed in coronary heart disease in men. N Engl J Med .
+2003;348:109-118.29.White IR, Altmann DR, Nanchahal K. Alcohol con-
+sumption and mortality: modelling risks for men andwomen at different ages. BMJ . 2002;325:191-198.
+30.Liao Y, McGee DL, Cao G, Cooper RS. Alcohol
+intake and mortality: findings from the National HealthInterview Surveys (1988 and 1990). Am J Epidemiol .
+2000;151:651-659.31.Ruigomez A, Alonso J, Anto JM. Relationship of
+health behaviours to five-year mortality in an elderlycohort. Age Ageing . 1995;24:113-119.
+32.Paffenbarger RS Jr, Hyde RT, Wing AL, Lee IM,
+Jung DL, Kampert JB. The association of changes inphysical-activity level and other lifestyle characteris-tics with mortality among men. N Engl J Med . 1993;
+328:538-545.33. Wannamethee SG, Shaper AG, Walker M.
+Changes in physical activity, mortality, and incidenceof coronary heart disease in older men. Lancet . 1998;
+351:1603-1608.
+Artistic growth is, more than it is anything else, a re-
+fining of the sense of truthfulness. The stupid be-lieve that to be truthful is easy; only the artist, the greatartist, knows how difficult it is.
+—Willa Cather (1873-1947)DIET, LIFESTYLE, AND 10-YEAR MORTALITY IN THE ELDERLY
+©2004 American Medical Association. All rights reserved. (Reprinted) JAMA, September 22/29, 2004—Vol 292, No. 12 1439

@@ -1,0 +1,30 @@
+{
+  "ideal_profile": {
+    "physical": {
+      "age": [
+        20,
+        60
+      ],
+      "weight": [],
+      "sex": "female",
+      "height": []
+    },
+    "demographics": {
+      "race": "",
+      "location": "asia"
+    },
+    "medical_history": {
+      "preexisting_conditions": [
+        "obesity_metabolic_syndrome"
+      ],
+      "prior_conditions": [],
+      "surgeries": [],
+      "active_medications": []
+    },
+    "lifestyle": {
+      "athleticism": "",
+      "diet": ""
+    }
+  },
+  "conditions": "\"(age AND sex AND location AND preexisting_conditions)\""
+}
