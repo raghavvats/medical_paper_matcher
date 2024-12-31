@@ -4,7 +4,7 @@ from src.ai.openai_client import OpenAIClient
 def main():
     # Initialize the client (make sure you have OPENAI_API_KEY in your environment variables)
     client = OpenAIClient()
-    paper_to_test = 8
+    paper_to_test = 1
     
     paper_text = Path(f"data/papers/text/P{paper_to_test}.txt").read_text()
     
