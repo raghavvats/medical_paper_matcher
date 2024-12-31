@@ -70,14 +70,23 @@ REMEMBER, THIS IS JUST AN EXAMPLE; IT HAS NO BEARING ON THE ACTUAL ANSWER. Make 
 Do your best to build this ideal profile following the logical principles of healthcare; that is, understand the relationships between the paper's content and the characteristics you are building. For example, if the paper is discussing a new drug that could have implications for a certain demographic, make sure to include that demographic in your profile.
 
 IMPORTANT NOTE: Return ONLY the JSON object, and nothing else.
-
-PAPER:
 """
 
-SUMMARY_SYSTEM_PROMPT = """You are an AI trained to summarize medical papers.
-Create a clear, concise summary that includes:
-1. Main findings
-2. Key implications for patients
-3. Important medical considerations
+SUMMARY_SYSTEM_PROMPT = """
+Now, summarize the paper.
+Keep the summary under 500 words and focus on practical implications for patients.
+"""
 
-Keep the summary under 500 words and focus on practical implications for patients."""
+CONDITIONS_SYSTEM_PROMPT = """
+Now, we need to decide whether or not to recommend this paper to a patient.
+As such, you need to return a python-parseable string that evaluates to a boolean: True if it should be recommended to the patient, False otherwise.
+The string should use AND, OR, and parentheses to logically combine conditions, and use the name of the conditions as represented in the ideal profile as a placeholder.
+
+For example, you would return something like:
+"(age AND (race OR location))"
+which means that if the age and either the race or location of the patient matches the ideal profile, then the paper should be recommended.
+
+When constructing the string, try to reason through what the paper is about and to who it would be relevant. For example, if the study the paper discusses is only conducted on diabetic patients, then it is reasonable that that condition MUST apply for that paper to be relevant. On the other hand, if the study's participants are ages 6-70, then age is not relvant, because that range is so wide.
+
+IMPORTANT: Return ONLY the string, and nothing else.
+"""

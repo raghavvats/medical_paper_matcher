@@ -21,5 +21,6 @@ ENV/
 .idea/
 
 # Temporary files & sensitive profiles
-data/papers/text/ 
-data/profiles/
+data/papers/matching
+data/papers/summaries
+data/papers/text
