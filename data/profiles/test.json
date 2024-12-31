@@ -1,0 +1,30 @@
+{
+  "physical": {
+    "age": 12,
+    "weight": 12.0,
+    "sex": "male",
+    "height": 12.0
+  },
+  "demographics": {
+    "race": "asian",
+    "location": "north_america"
+  },
+  "medical_history": {
+    "preexisting_conditions": [
+      "cancer"
+    ],
+    "prior_conditions": [
+      "cancer_remission"
+    ],
+    "surgeries": [
+      "cancer_related"
+    ],
+    "active_medications": [
+      "cancer_therapies"
+    ]
+  },
+  "lifestyle": {
+    "athleticism": "light",
+    "diet": "vegan"
+  }
+}

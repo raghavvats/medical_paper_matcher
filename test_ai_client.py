@@ -12,12 +12,14 @@ def main():
     try:
         analysis = client.analyze_paper(paper_text)
         
+        # Save analysis to separate directories
         client.save_analysis(f"P{paper_to_test}", analysis)
-        print(f"\nAnalysis saved to data/papers/processed/P{paper_to_test}_analysis.json")
+        print(f"\nAnalysis saved:")
+        print(f"- Profile and conditions: data/papers/matching/P{paper_to_test}.json")
+        print(f"- Summary: data/papers/summaries/P{paper_to_test}.txt")
         
     except Exception as e:
         print(f"Error occurred: {str(e)}")
 
 if __name__ == "__main__":
-    import json
     main()
