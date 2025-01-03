@@ -115,7 +115,7 @@ class ProfileInputCLI:
         filepath = f"data/profiles/{filename}.json"
         
         with open(filepath, 'w') as f:
-            json.dump(profile.model_dump(), f, indent=2)
+            json.dump(profile.dict(), f, indent=2)
         print(f"\nProfile saved to {filepath}")
 
 def main():
