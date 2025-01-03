@@ -43,36 +43,65 @@ class ConditionParser:
             bool: True if condition is met, False otherwise
         """
         condition = condition.strip()
+        print(f"\nEvaluating single condition: {condition}")
         
         # Get nested value if it exists
         def get_nested_value(d: Dict, key: str):
-            for category in d.values():
-                if isinstance(category, dict) and key in category:
-                    return category[key]
+            # First try direct access
+            if key in d:
+                return d[key]
+            
+            # Then try each section
+            for section in ['physical', 'demographics', 'medical_history', 'lifestyle']:
+                if section in d:
+                    if isinstance(d[section], dict):
+                        if key in d[section]:
+                            return d[section][key]
+                        # For medical_history, check lists
+                        if section == 'medical_history' and key in ['preexisting_conditions', 'prior_conditions', 'surgeries', 'active_medications']:
+                            return d[section].get(key, [])
             return None
         
         profile_value = get_nested_value(profile, condition)
         ideal_value = get_nested_value(ideal_profile, condition)
         
+        print(f"Profile value: {profile_value}")
+        print(f"Ideal value: {ideal_value}")
+        
         if profile_value is None or ideal_value is None:
+            print(f"One of the values is None")
             return False
             
         # Handle age ranges
         if condition == 'age' and isinstance(ideal_value, list) and len(ideal_value) == 2:
-            return ideal_value[0] <= profile_value <= ideal_value[1]
+            result = ideal_value[0] <= profile_value <= ideal_value[1]
+            print(f"Age range check: {ideal_value[0]} <= {profile_value} <= {ideal_value[1]} = {result}")
+            return result
             
         # Handle list/set type values (e.g., preexisting_conditions)
         if isinstance(profile_value, (list, set)) and isinstance(ideal_value, (list, set)):
             if not ideal_value:  # If ideal value is empty list, accept any value
+                print("Empty ideal list - accepting any value")
                 return True
-            return bool(set(profile_value) & set(ideal_value))
+            
+            # Convert both to sets for intersection
+            profile_set = set(profile_value)
+            ideal_set = set(ideal_value)
+            
+            # Normal set intersection
+            result = bool(profile_set & ideal_set)
+            print(f"Set intersection: {profile_set} & {ideal_set} = {result}")
+            return result
             
         # Handle empty constraints
         if isinstance(ideal_value, list) and not ideal_value:
+            print("Empty constraint - accepting any value")
             return True
             
         # Handle single value comparison
-        return profile_value == ideal_value
+        result = profile_value == ideal_value
+        print(f"Direct comparison: {profile_value} == {ideal_value} = {result}")
+        return result
     
     def _evaluate_compound_conditions(self, conditions: str, profile: Dict, ideal_profile: Dict) -> bool:
         """
