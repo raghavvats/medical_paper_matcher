@@ -2,33 +2,24 @@ from dotenv import load_dotenv
 load_dotenv()
 
 from typing import Dict, List, Optional
-from openai import OpenAI
+from openai import AsyncOpenAI
 from pathlib import Path
 import json
 import os
 from .prompts import PROFILE_SYSTEM_PROMPT, SUMMARY_SYSTEM_PROMPT, CONDITIONS_SYSTEM_PROMPT
 
 class OpenAIClient:
-    def __init__(self, api_key: Optional[str] = ""):
+    def __init__(self, api_key: Optional[str] = None):
         """Initialize OpenAI client with API key from environment or parameter."""
         self.api_key = api_key or os.getenv('OPENAI_API_KEY')
         if not self.api_key:
             raise ValueError("OpenAI API key not found. Set OPENAI_API_KEY environment variable or pass as parameter.")
         
-        self.client = OpenAI(api_key=self.api_key)
+        self.client = AsyncOpenAI(api_key=self.api_key)
 
-    def analyze_paper(self, paper_text: str) -> Dict:
+    async def analyze_paper(self, paper_text: str) -> Dict:
         """
         Analyze paper text to extract ideal reader profile, conditions, and generate summary.
-        Uses a single chat session with follow-up messages for each analysis component.
-        
-        Args:
-            paper_text: The text content of the paper
-        Returns:
-            Dict containing:
-                - ideal_profile: Dict of ideal reader characteristics
-                - conditions: List of condition tokens for matching
-                - summary: String containing paper summary
         """
         try:
             # Initialize chat for profile analysis
@@ -38,40 +29,43 @@ class OpenAIClient:
             ]
             
             # First call: Get ideal profile
-            profile_response = self.client.chat.completions.create(
+            profile_response = await self.client.chat.completions.create(
                 model="gpt-4o",
                 messages=messages,
                 response_format={"type": "json_object"}
             )
             
-            profile_data = json.loads(profile_response.choices[0].message.content)
+            try:
+                profile_data = json.loads(profile_response.choices[0].message.content)
+            except json.JSONDecodeError as e:
+                print(f"Error decoding profile JSON: {e}")
+                print(f"Raw content: {profile_response.choices[0].message.content}")
+                raise
             
+            # Second call: Get conditions
             messages.extend([
                 {"role": "assistant", "content": profile_response.choices[0].message.content},
                 {"role": "system", "content": CONDITIONS_SYSTEM_PROMPT},
                 {"role": "user", "content": "Based on the same paper and the ideal profile you provided, determine the relevancy conditions."}
             ])
             
-            # Second call: Get conditions
-            conditions_response = self.client.chat.completions.create(
+            conditions_response = await self.client.chat.completions.create(
                 model="gpt-4o",
-                messages=messages,
+                messages=messages
             )
             
-            # Store conditions as text instead of parsing as JSON
             conditions_text = conditions_response.choices[0].message.content
             
-            # Add conditions response and request summary
+            # Third call: Get summary
             messages.extend([
                 {"role": "assistant", "content": conditions_response.choices[0].message.content},
                 {"role": "system", "content": SUMMARY_SYSTEM_PROMPT},
                 {"role": "user", "content": "Based on the same paper, provide a summary."}
             ])
             
-            # Third call: Get summary
-            summary_response = self.client.chat.completions.create(
-                model="gpt-4o-mini",
-                messages=messages,
+            summary_response = await self.client.chat.completions.create(
+                model="gpt-4o",
+                messages=messages
             )
             
             summary = summary_response.choices[0].message.content

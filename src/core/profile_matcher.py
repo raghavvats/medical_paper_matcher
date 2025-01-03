@@ -83,17 +83,24 @@ class ProfileMatcher:
         Returns:
             bool: True if profile matches paper conditions, False otherwise
         """
+        print(f"Checking match with profile: {profile}")
+        print(f"Against paper data: {paper_data}")
+        
         if 'conditions' not in paper_data or 'ideal_profile' not in paper_data:
+            print("Missing conditions or ideal_profile in paper data")
             return False
             
         # Remove quotes from conditions if present
         conditions = paper_data['conditions'].strip('"')
+        print(f"Evaluating conditions: {conditions}")
         
-        return self.condition_parser.parse_conditions(
+        result = self.condition_parser.parse_conditions(
             conditions,
             profile,
             paper_data['ideal_profile']
         )
+        print(f"Match result: {result}")
+        return result
     
     def _get_paper_summary(self, paper_id: str) -> Optional[str]:
         """
