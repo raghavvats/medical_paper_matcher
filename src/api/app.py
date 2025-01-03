@@ -6,9 +6,11 @@ from src.core.profile_matcher import ProfileMatcher
 from src.core.paper_processor import PaperProcessor
 from src.ai.openai_client import OpenAIClient
 from .database import Database
+from motor.motor_asyncio import AsyncIOMotorGridFSBucket
 import uuid
 import tempfile
 import os
+import base64
 
 app = FastAPI(
     title="Research Paper Matcher",
@@ -28,6 +30,8 @@ app.add_middleware(
 @app.on_event("startup")
 async def startup_db_client():
     await Database.connect_db()
+    # Initialize GridFS with the correct class
+    app.fs = AsyncIOMotorGridFSBucket(Database.get_db())
 
 @app.on_event("shutdown")
 async def shutdown_db_client():
@@ -45,6 +49,8 @@ async def match_papers(profile: CustomerProfile):
         # Get all papers from database
         papers = await db.papers.find().to_list(length=None)
         matches = []
+        
+        print(f"Found {len(papers)} papers to check for matches")
         
         # Convert profile to dict and convert Enum values to strings
         profile_dict = profile.dict()
@@ -74,31 +80,42 @@ async def match_papers(profile: CustomerProfile):
         profile_dict['lifestyle']['athleticism'] = profile_dict['lifestyle']['athleticism'].value
         profile_dict['lifestyle']['diet'] = profile_dict['lifestyle']['diet'].value
         
-        print(f"Converted profile: {profile_dict}")
+        print(f"Processing profile with characteristics: {profile_dict}")
         
         for paper in papers:
-            print(f"Checking paper: {paper['_id']}")
-            
-            paper_data = {
-                'ideal_profile': paper['processed_data']['ideal_profile'],
-                'conditions': paper['processed_data']['conditions']
-            }
-            
-            if profile_matcher._is_match(profile_dict, paper_data):
-                matches.append(PaperMatch(
-                    paper_id=paper['_id'],
-                    title=paper['title'],
-                    summary=paper['processed_data']['summary'],
-                    match_score=1.0,
-                    download_url=f"/papers/{paper['_id']}/download"
-                ))
+            try:
+                print(f"Checking paper: {paper['_id']} - {paper['title']}")
+                
+                paper_data = {
+                    'ideal_profile': paper['processed_data']['ideal_profile'],
+                    'conditions': paper['processed_data']['conditions']
+                }
+                
+                is_match = profile_matcher._is_match(profile_dict, paper_data)
+                print(f"Match result for paper {paper['_id']}: {is_match}")
+                
+                if is_match:
+                    match = PaperMatch(
+                        paper_id=paper['_id'],
+                        title=paper['title'],
+                        summary=paper['processed_data']['summary'],
+                        match_score=1.0,
+                        download_url=f"/papers/{paper['_id']}/download"
+                    )
+                    matches.append(match)
+                    print(f"Added match: {match}")
+            except Exception as e:
+                print(f"Error processing paper {paper.get('_id', 'unknown')}: {str(e)}")
+                continue
         
-        print(f"Found {len(matches)} matches")
-        return MatchResponse(
+        print(f"Total matches found: {len(matches)}")
+        response = MatchResponse(
             profile_id="temporary",
             matches=matches,
             total_matches=len(matches)
         )
+        print(f"Returning response with {len(response.matches)} matches")
+        return response
         
     except Exception as e:
         print(f"Match error: {str(e)}")
@@ -118,9 +135,12 @@ async def upload_paper(file: UploadFile = File(...)):
         if not file.filename.endswith('.pdf'):
             raise HTTPException(status_code=400, detail="File must be a PDF")
 
-        # Create temporary file to store the PDF
+        # Read the file content once
+        content = await file.read()
+        print(f"Initial file content size: {len(content)} bytes")
+
+        # Create temporary file
         with tempfile.NamedTemporaryFile(delete=False, suffix='.pdf') as tmp_file:
-            content = await file.read()
             tmp_file.write(content)
             tmp_path = tmp_file.name
 
@@ -143,8 +163,23 @@ async def upload_paper(file: UploadFile = File(...)):
                 print(f"OpenAI analysis failed: {str(e)}")
                 raise HTTPException(status_code=500, detail=f"OpenAI analysis failed: {str(e)}")
             
-            # Store in database
+            # Generate paper_id
             paper_id = str(uuid.uuid4())
+
+            # Store PDF in GridFS first
+            try:
+                print(f"Storing PDF content of size: {len(content)} bytes")
+                await app.fs.upload_from_stream(
+                    paper_id,
+                    content,
+                    metadata={"content_type": "application/pdf"}
+                )
+                print(f"Successfully stored PDF in GridFS with ID: {paper_id}")
+            except Exception as e:
+                print(f"Error storing PDF in GridFS: {str(e)}")
+                raise HTTPException(status_code=500, detail=f"Failed to store PDF: {str(e)}")
+            
+            # Store metadata in database
             paper_data = {
                 "_id": paper_id,
                 "title": file.filename,
@@ -159,7 +194,7 @@ async def upload_paper(file: UploadFile = File(...)):
             db = Database.get_db()
             try:
                 await db.papers.insert_one(paper_data)
-                print(f"Successfully stored paper in database with ID: {paper_id}")
+                print(f"Successfully stored paper metadata in database with ID: {paper_id}")
             except Exception as e:
                 print(f"Database storage failed: {str(e)}")
                 raise HTTPException(status_code=500, detail=f"Database storage failed: {str(e)}")
@@ -188,4 +223,40 @@ async def root():
 
 @app.get("/health")
 async def health_check():
-    return {"status": "healthy"} 
+    return {"status": "healthy"}
+
+@app.get("/papers/{paper_id}/view")
+async def get_paper_pdf(paper_id: str):
+    try:
+        print(f"Attempting to retrieve PDF with ID: {paper_id}")
+        # Get PDF from GridFS using the correct method
+        try:
+            grid_out = await app.fs.open_download_stream_by_name(paper_id)
+        except Exception as e:
+            print(f"Error opening GridFS stream: {str(e)}")
+            raise HTTPException(status_code=404, detail=f"PDF not found in GridFS: {str(e)}")
+
+        try:
+            pdf_content = await grid_out.read()
+            print(f"Retrieved PDF content length: {len(pdf_content) if pdf_content else 0} bytes")
+            
+            if not pdf_content:
+                raise HTTPException(status_code=404, detail="PDF content is empty")
+            
+            # Convert to base64 for frontend
+            pdf_base64 = base64.b64encode(pdf_content).decode('utf-8')
+            print(f"Base64 content length: {len(pdf_base64)} characters")
+            
+            return {
+                "pdf_content": pdf_base64,
+                "content_type": "application/pdf"
+            }
+        except Exception as e:
+            print(f"Error reading PDF content: {str(e)}")
+            raise HTTPException(status_code=500, detail=f"Failed to read PDF content: {str(e)}")
+            
+    except HTTPException:
+        raise
+    except Exception as e:
+        print(f"Unexpected error retrieving PDF: {str(e)}")
+        raise HTTPException(status_code=500, detail=f"Unexpected error: {str(e)}") 

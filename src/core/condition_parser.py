@@ -20,9 +20,16 @@ class ConditionParser:
         if not conditions:
             return True
             
+        # Strip any extra quotes from the conditions string
+        conditions = conditions.strip('"\'')
+        
         # Remove extra whitespace and parentheses
         conditions = conditions.strip()
         
+        # If there are no parentheses but there are operators, treat as simple expression
+        if '(' not in conditions and any(op in conditions.upper() for op in self.operators):
+            return self._evaluate_simple_expression(conditions, profile, ideal_profile)
+            
         # Handle simple single condition
         if conditions.upper() not in self.operators and '(' not in conditions:
             return self._evaluate_single_condition(conditions, profile, ideal_profile)
@@ -44,6 +51,12 @@ class ConditionParser:
         """
         condition = condition.strip()
         print(f"\nEvaluating single condition: {condition}")
+        
+        # Handle literal boolean values
+        if condition.lower() == 'true':
+            return True
+        if condition.lower() == 'false':
+            return False
         
         # Get nested value if it exists
         def get_nested_value(d: Dict, key: str):
@@ -106,15 +119,9 @@ class ConditionParser:
     def _evaluate_compound_conditions(self, conditions: str, profile: Dict, ideal_profile: Dict) -> bool:
         """
         Evaluate compound conditions with AND/OR operators.
-        
-        Args:
-            conditions: String representing compound conditions
-            profile: Dictionary containing the actual profile characteristics
-            ideal_profile: Dictionary containing the desired characteristics
-            
-        Returns:
-            bool: True if conditions are met, False otherwise
         """
+        print(f"\nEvaluating conditions: {conditions}")
+        
         # Handle parentheses groups
         while '(' in conditions:
             innermost = self._find_innermost_parentheses(conditions)
@@ -122,7 +129,10 @@ class ConditionParser:
                 break
                 
             result = self._evaluate_simple_expression(innermost, profile, ideal_profile)
-            conditions = conditions.replace(f"({innermost})", str(result))
+            print(f"Evaluated ({innermost}) = {result}")
+            # Replace the parenthetical expression with its boolean result
+            conditions = conditions.replace(f"({innermost})", "True" if result else "False")
+            print(f"Updated conditions: {conditions}")
             
         return self._evaluate_simple_expression(conditions, profile, ideal_profile)
     
@@ -149,36 +159,42 @@ class ConditionParser:
     def _evaluate_simple_expression(self, expression: str, profile: Dict, ideal_profile: Dict) -> bool:
         """
         Evaluate a simple expression without parentheses.
-        
-        Args:
-            expression: String representing a simple expression (e.g., "Race OR Age")
-            profile: Dictionary containing the actual profile characteristics
-            ideal_profile: Dictionary containing the desired characteristics
-            
-        Returns:
-            bool: True if expression evaluates to True, False otherwise
         """
         expression = expression.strip()
         
-        # Handle literal boolean values from previous evaluations
-        if expression.lower() == 'true':
-            return True
-        if expression.lower() == 'false':
-            return False
-            
         parts = expression.split()
         
         # Process OR conditions
         if 'OR' in parts:
             conditions = [p for p in parts if p != 'OR']
-            return any(self._evaluate_single_condition(cond, profile, ideal_profile) 
-                      for cond in conditions)
+            results = []
+            for cond in conditions:
+                if cond.lower() == 'true':
+                    results.append(True)
+                elif cond.lower() == 'false':
+                    results.append(False)
+                else:
+                    results.append(self._evaluate_single_condition(cond, profile, ideal_profile))
+            return any(results)
         
         # Process AND conditions
         if 'AND' in parts:
             conditions = [p for p in parts if p != 'AND']
-            return all(self._evaluate_single_condition(cond, profile, ideal_profile) 
-                      for cond in conditions)
+            results = []
+            for cond in conditions:
+                if cond.lower() == 'true':
+                    results.append(True)
+                elif cond.lower() == 'false':
+                    results.append(False)
+                else:
+                    results.append(self._evaluate_single_condition(cond, profile, ideal_profile))
+            return all(results)
         
+        # Single condition or boolean literal
+        if expression.lower() == 'true':
+            return True
+        if expression.lower() == 'false':
+            return False
+            
         # Single condition
         return self._evaluate_single_condition(expression, profile, ideal_profile)

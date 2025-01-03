@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { Box, Button, Typography } from '@mui/material';
+import CloudUploadIcon from '@mui/icons-material/CloudUpload';
 import axios from 'axios';
 
 const PaperUpload = () => {
@@ -28,7 +29,7 @@ const PaperUpload = () => {
   };
 
   return (
-    <Box>
+    <Box sx={{ textAlign: 'center' }}>
       <input
         accept="application/pdf"
         style={{ display: 'none' }}
@@ -41,10 +42,22 @@ const PaperUpload = () => {
           variant="contained"
           component="span"
           disabled={uploading}
+          startIcon={<CloudUploadIcon />}
+          sx={{
+            py: 1.5,
+            px: 4,
+            backgroundColor: '#2196f3',
+            '&:hover': {
+              backgroundColor: '#1976d2',
+            }
+          }}
         >
           {uploading ? 'Uploading...' : 'Upload Paper'}
         </Button>
       </label>
+      <Typography variant="body2" color="text.secondary" sx={{ mt: 2 }}>
+        Upload PDF files to add to the research database
+      </Typography>
     </Box>
   );
 };
