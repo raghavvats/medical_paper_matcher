@@ -1,6 +1,6 @@
 from fastapi import FastAPI, HTTPException, UploadFile, File
 from fastapi.middleware.cors import CORSMiddleware
-from .models import ProfileResponse, MatchResponse, PaperMatch, PaperUploadResponse, ErrorResponse
+from .models import ProfileResponse, MatchResponse, PaperMatch, PaperUploadResponse, ErrorResponse, UserProfileResponse, SaveProfileRequest
 from src.models.profile import CustomerProfile
 from src.core.profile_matcher import ProfileMatcher
 from src.core.paper_processor import PaperProcessor
@@ -11,6 +11,7 @@ import uuid
 import tempfile
 import os
 import base64
+from typing import List
 
 app = FastAPI(
     title="Research Paper Matcher",
@@ -124,60 +125,65 @@ async def match_papers(profile: CustomerProfile):
             detail=f"Failed to process match request: {str(e)}"
         )
 
-@app.post("/papers/upload/", response_model=PaperUploadResponse)
-async def upload_paper(file: UploadFile = File(...)):
+@app.post("/papers/upload/", response_model=List[PaperUploadResponse])
+async def upload_papers(files: List[UploadFile] = File(...)):
     """
-    Upload and process a new paper. Stores the paper and its processed data in MongoDB.
+    Upload and process multiple papers. Stores the papers and their processed data in MongoDB.
     """
-    tmp_path = None
-    try:
-        # Validate file type
-        if not file.filename.endswith('.pdf'):
-            raise HTTPException(status_code=400, detail="File must be a PDF")
-
-        # Read the file content once
-        content = await file.read()
-        print(f"Initial file content size: {len(content)} bytes")
-
-        # Create temporary file
-        with tempfile.NamedTemporaryFile(delete=False, suffix='.pdf') as tmp_file:
-            tmp_file.write(content)
-            tmp_path = tmp_file.name
-
-        # Process the PDF
+    responses = []
+    
+    for file in files:
+        tmp_path = None
         try:
+            # Validate file type
+            if not file.filename.endswith('.pdf'):
+                responses.append(PaperUploadResponse(
+                    paper_id="",
+                    title=file.filename,
+                    message=f"Skipped: File must be a PDF"
+                ))
+                continue
+
+            # Read the file content
+            content = await file.read()
+            print(f"Processing file {file.filename}, size: {len(content)} bytes")
+
+            # Create temporary file
+            with tempfile.NamedTemporaryFile(delete=False, suffix='.pdf') as tmp_file:
+                tmp_file.write(content)
+                tmp_path = tmp_file.name
+
+            # Process the PDF
             processor = PaperProcessor(papers_dir=os.path.dirname(tmp_path))
             text = processor.extract_text_from_pdf(os.path.basename(tmp_path))
             
             if not text:
-                raise HTTPException(status_code=400, detail="Failed to extract text from PDF")
-            
-            print(f"Successfully extracted text from PDF: {len(text)} characters")
+                responses.append(PaperUploadResponse(
+                    paper_id="",
+                    title=file.filename,
+                    message="Failed to extract text from PDF"
+                ))
+                continue
             
             # Analyze with OpenAI
             ai_client = OpenAIClient()
             try:
                 analysis = await ai_client.analyze_paper(text)
-                print("Successfully analyzed paper with OpenAI")
             except Exception as e:
-                print(f"OpenAI analysis failed: {str(e)}")
-                raise HTTPException(status_code=500, detail=f"OpenAI analysis failed: {str(e)}")
+                responses.append(PaperUploadResponse(
+                    paper_id="",
+                    title=file.filename,
+                    message=f"OpenAI analysis failed: {str(e)}"
+                ))
+                continue
             
-            # Generate paper_id
+            # Generate paper_id and store in GridFS
             paper_id = str(uuid.uuid4())
-
-            # Store PDF in GridFS first
-            try:
-                print(f"Storing PDF content of size: {len(content)} bytes")
-                await app.fs.upload_from_stream(
-                    paper_id,
-                    content,
-                    metadata={"content_type": "application/pdf"}
-                )
-                print(f"Successfully stored PDF in GridFS with ID: {paper_id}")
-            except Exception as e:
-                print(f"Error storing PDF in GridFS: {str(e)}")
-                raise HTTPException(status_code=500, detail=f"Failed to store PDF: {str(e)}")
+            await app.fs.upload_from_stream(
+                paper_id,
+                content,
+                metadata={"content_type": "application/pdf"}
+            )
             
             # Store metadata in database
             paper_data = {
@@ -192,30 +198,31 @@ async def upload_paper(file: UploadFile = File(...)):
             }
             
             db = Database.get_db()
-            try:
-                await db.papers.insert_one(paper_data)
-                print(f"Successfully stored paper metadata in database with ID: {paper_id}")
-            except Exception as e:
-                print(f"Database storage failed: {str(e)}")
-                raise HTTPException(status_code=500, detail=f"Database storage failed: {str(e)}")
+            await db.papers.insert_one(paper_data)
             
-            return PaperUploadResponse(
+            responses.append(PaperUploadResponse(
                 paper_id=paper_id,
                 title=file.filename,
-                summary=analysis["summary"]
-            )
+                summary=analysis["summary"],
+                message="Paper successfully processed"
+            ))
             
         except Exception as e:
-            print(f"Error processing paper: {str(e)}")
-            raise
+            responses.append(PaperUploadResponse(
+                paper_id="",
+                title=file.filename,
+                message=f"Error processing paper: {str(e)}"
+            ))
             
-    finally:
-        # Clean up temporary file
-        if tmp_path and os.path.exists(tmp_path):
-            try:
-                os.unlink(tmp_path)
-            except Exception as e:
-                print(f"Error deleting temporary file: {e}")
+        finally:
+            # Clean up temporary file
+            if tmp_path and os.path.exists(tmp_path):
+                try:
+                    os.unlink(tmp_path)
+                except Exception as e:
+                    print(f"Error deleting temporary file: {e}")
+    
+    return responses
 
 @app.get("/")
 async def root():
@@ -260,3 +267,91 @@ async def get_paper_pdf(paper_id: str):
     except Exception as e:
         print(f"Unexpected error retrieving PDF: {str(e)}")
         raise HTTPException(status_code=500, detail=f"Unexpected error: {str(e)}") 
+
+@app.post("/profiles/save", response_model=UserProfileResponse)
+async def save_user_profile(request: SaveProfileRequest):
+    """
+    Save or update a user profile.
+    """
+    try:
+        success = await Database.save_user_profile(request.username, request.profile)
+        if not success:
+            raise HTTPException(status_code=400, detail="Failed to save profile")
+            
+        saved_profile = await Database.get_user_profile(request.username)
+        return UserProfileResponse(
+            username=saved_profile["username"],
+            profile=saved_profile["profile"],
+            last_updated=saved_profile["last_updated"]
+        )
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.get("/profiles/{username}", response_model=UserProfileResponse)
+async def get_user_profile(username: str):
+    """
+    Retrieve a user's saved profile.
+    """
+    try:
+        profile = await Database.get_user_profile(username)
+        if not profile:
+            raise HTTPException(status_code=404, detail="Profile not found")
+            
+        return UserProfileResponse(
+            username=profile["username"],
+            profile=profile["profile"],
+            last_updated=profile["last_updated"]
+        )
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e)) 
+
+@app.delete("/profiles/{username}")
+async def delete_user_profile(username: str):
+    """
+    Delete a user profile.
+    """
+    try:
+        success = await Database.delete_user_profile(username)
+        if not success:
+            raise HTTPException(status_code=404, detail="Profile not found")
+        return {"message": f"Profile {username} deleted successfully"}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.delete("/papers/{paper_id}")
+async def delete_paper(paper_id: str):
+    """
+    Delete a paper and its associated PDF from the database.
+    """
+    try:
+        # Delete PDF from GridFS
+        try:
+            await app.fs.delete(paper_id)
+        except Exception as e:
+            print(f"Error deleting PDF from GridFS: {e}")
+            # Continue even if GridFS deletion fails
+            
+        # Delete paper metadata from papers collection
+        db = Database.get_db()
+        result = await db.papers.delete_one({"_id": paper_id})
+        
+        if result.deleted_count == 0:
+            raise HTTPException(status_code=404, detail="Paper not found")
+            
+        return {"message": f"Paper {paper_id} deleted successfully"}
+    except HTTPException:
+        raise
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e)) 
+
+@app.get("/papers")
+async def get_papers():
+    """
+    Get all papers in the database.
+    """
+    try:
+        db = Database.get_db()
+        papers = await db.papers.find().to_list(length=None)
+        return papers
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e)) 

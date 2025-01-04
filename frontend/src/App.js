@@ -1,58 +1,21 @@
-import React, { useState } from 'react';
-import { Container, Box, Typography, Card, CardContent } from '@mui/material';
-import ProfileForm from './components/ProfileForm';
-import PaperUpload from './components/PaperUpload';
-import MatchResults from './components/MatchResults';
+import React from 'react';
+import { HashRouter as Router, Route, Routes } from 'react-router-dom';
+import { Container } from '@mui/material';
+import Header from './components/Header';
+import MatcherPage from './pages/MatcherPage';
+import PaperManager from './components/PaperManager';
 
 function App() {
-  const [matches, setMatches] = useState(null);
-  const [currentProfile, setCurrentProfile] = useState(null);
-
   return (
-    <Container maxWidth="md">
-      <Box sx={{ my: 4 }}>
-        <Typography 
-          variant="h3" 
-          component="h1" 
-          gutterBottom
-          sx={{ color: '#fff' }}
-        >
-          Research Paper Matcher
-        </Typography>
-        
-        <Card sx={{ mb: 3 }}>
-          <CardContent>
-            <Typography variant="h5" gutterBottom>
-              Upload Papers
-            </Typography>
-            <PaperUpload />
-          </CardContent>
-        </Card>
-
-        <Card sx={{ mb: 3 }}>
-          <CardContent>
-            <Typography variant="h5" gutterBottom>
-              Enter Profile
-            </Typography>
-            <ProfileForm 
-              onProfileSubmit={(profile) => setCurrentProfile(profile)}
-              onMatchResults={(results) => setMatches(results)}
-            />
-          </CardContent>
-        </Card>
-
-        {matches && (
-          <Card>
-            <CardContent>
-              <Typography variant="h5" gutterBottom>
-                Matching Results
-              </Typography>
-              <MatchResults matches={matches} />
-            </CardContent>
-          </Card>
-        )}
-      </Box>
-    </Container>
+    <Router>
+      <Header />
+      <Container maxWidth="lg">
+        <Routes>
+          <Route path="/" element={<MatcherPage />} />
+          <Route path="/papers" element={<PaperManager />} />
+        </Routes>
+      </Container>
+    </Router>
   );
 }
 
