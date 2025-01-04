@@ -1,5 +1,7 @@
-from typing import List, Optional
+from typing import List, Optional, Dict, Any, Union
 from pydantic import BaseModel
+from datetime import datetime
+from src.models.profile import CustomerProfile
 
 class PaperMatch(BaseModel):
     paper_id: str
@@ -25,3 +27,15 @@ class PaperUploadResponse(BaseModel):
 
 class ErrorResponse(BaseModel):
     detail: str 
+
+class SaveProfileRequest(BaseModel):
+    username: str
+    profile: Union[Dict[str, Any], CustomerProfile]
+
+    class Config:
+        arbitrary_types_allowed = True
+
+class UserProfileResponse(BaseModel):
+    username: str
+    profile: Dict[str, Any]
+    last_updated: datetime 
