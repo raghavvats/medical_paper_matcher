@@ -21,7 +21,18 @@ const MatcherPage = () => {
         gutterBottom
         sx={{ color: '#000' }}
       >
-        Research Paper Matcher
+        Paper Matcher
+      </Typography>
+      
+      <Typography 
+        variant="body1" 
+        sx={{ 
+          mb: 4, 
+          color: 'text.secondary',
+          maxWidth: '800px'
+        }}
+      >
+        This tool matches the inputted patient profile with relevant medical research papers from a database—see the "Manage Papers" page.
       </Typography>
       
       <Card sx={{ mb: 3 }}>

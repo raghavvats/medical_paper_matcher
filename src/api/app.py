@@ -14,8 +14,8 @@ import base64
 from typing import List
 
 app = FastAPI(
-    title="Research Paper Matcher",
-    description="Match patient profiles with relevant research papers",
+    title="Medical Research Relevancy Tool",
+    description="Match patient profiles with relevant medical research papers",
     version="1.0.0"
 )
 

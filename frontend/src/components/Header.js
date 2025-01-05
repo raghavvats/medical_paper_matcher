@@ -15,7 +15,7 @@ const Header = () => {
     >
       <Toolbar>
         <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-          Superpower Project
+          Medical Research Relevancy Tool
         </Typography>
         <Box>
           <Button 
