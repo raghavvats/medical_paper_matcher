@@ -20,10 +20,4 @@ ENV/
 .vscode/
 .idea/
 
-# Temporary files & sensitive profiles
-data/papers/matching/*
-data/papers/summaries/*
-data/papers/text/*
-data/profiles/*
-
 !.gitkeep
