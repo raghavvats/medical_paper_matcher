@@ -2,6 +2,15 @@
 
 A tool that uses AI to suggest a relevant set of medical papers to a user based on their data (medical history, physical characteristics, demographics, etc.) without sending user data to a model. 
 
+## Motivation, Purpose, & Goals
+
+Cutting-edge medical research can have an incredibly positive impact on patient care & healthcare outcomes. However, on the other side of that coin, many research papers have a narrow scope and are not applicable to all patients but still greatly influence patient behavior, possibly causing unintended consequences. As such, this tool only provides users with relevant papers to prevent unsubstantiated research from influencing patient behavior.
+
+## Points of Improvement
+1. Implement stricter validation on AI's output (match to pydantic model), add assertions, conduct evals, and add retries to the AI client.
+2. Widen capabilities of matching engine to convey more semantic information in the conditions, allowing for more nuanced matching.
+3. Implement pre-filtering when matching users by checking that there exists some overlap between the user's profile and the paper's conditions (i.e. never run the matching algorithm if it is impossible for the match to happen).
+
 ## Design
 
 ### Key Considerations
